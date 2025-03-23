@@ -1,7 +1,5 @@
-// Initialize the map
 var map = L.map("map").setView([51.454, -2.587], 11);
 
-// Add a tile layer (OpenStreetMap)
 L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
   attribution:
     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -9,7 +7,6 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
   maxZoom: 20,
 }).addTo(map);
 
-// Fetch the grid GeoJSON and add to map
 fetch(
   "./data/avon_osgrid.geojson"
 )
@@ -36,28 +33,28 @@ fetch(
             color: "grey",
             weight: 1,
             fillColor: "#000004",
-            fillOpacity: 1,
+            fillOpacity: 0.7,
         };
     } else if (year >= 2019 && year < 2024) {
         return {
             color: "grey",
             weight: 1,
             fillColor: "#781c6d",
-            fillOpacity: 1,
+            fillOpacity: 0.7,
         };
     } else if (year >= 2014 && year < 2019) {
         return {
             color: "grey",
             weight: 1,
             fillColor: "#ed6925",
-            fillOpacity: 1,
+            fillOpacity: 0.7,
         };
     } else {
         return {
             color: "grey",
             weight: 1,
             fillColor: "#fcffa4",
-            fillOpacity: 1,
+            fillOpacity: 0.7,
         };
     }
 }
@@ -76,12 +73,10 @@ function loadSpeciesData(species) {
 
     if (!url) return;
 
-    // Remove existing GeoJSON layer if it exists
     if (geojsonLayer) {
         map.removeLayer(geojsonLayer);
     }
 
-    // Fetch and add new GeoJSON layer
     fetch(url)
         .then(response => response.json())
         .then(data => {

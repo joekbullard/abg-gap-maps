@@ -55,6 +55,7 @@ fetch(
             weight: 1,
             fillColor: "#fcffa4",
             fillOpacity: 0.7,
+            
         };
     }
 }

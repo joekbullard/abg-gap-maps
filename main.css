@@ -1,15 +1,15 @@
 #map {
-  height: calc(100vh - 50px); /* Subtract the height of the navbar */
+  height: calc(100vh - 70px); /* Subtract the height of the navbar */
 }
 
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #2c3e50;  /* Dark background */
-    color: #ecf0f1;  /* Light text color */
+    color: #ecf0f1;
+    height: 100%;  /* Light text color */
 }
 
-/* Navbar styling */
 nav {
     background-color: #34495e;  /* Dark navbar background */
     padding: 10px 20px;
@@ -17,6 +17,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     color: white;
+    height: 50px;
 }
 
 /* Navbar links (if any) */
@@ -37,7 +38,6 @@ nav {
     color: #f39c12;  /* Yellow hover effect */
 }
 
-/* Select dropdown inside the navbar */
 select {
     padding: 8px 12px;
     font-size: 16px;
@@ -58,7 +58,6 @@ select:focus {
     outline: none;
 }
 
-/* Button inside form */
 button {
     background-color: #f39c12;  /* Yellow button */
     color: white;

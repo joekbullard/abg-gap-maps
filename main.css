@@ -74,3 +74,22 @@ button {
 button:hover {
     background-color: #e67e22;  /* Darker yellow on hover */
 }
+
+
+.legend {
+    line-height: 1.5rem;
+    color: #555;
+    font-size: 1rem;
+    background: rgba(255, 255, 255, 0.7);
+    padding: .5rem;
+    border-radius: .5rem;
+    box-shadow: .25rem .25rem .25rem grey;
+    
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}

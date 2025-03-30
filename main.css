@@ -1,5 +1,5 @@
 #map {
-  height: calc(100vh - 70px); /* Subtract the height of the navbar */
+  height: calc(100dvh - 70px); /* Subtract the height of the navbar */
 }
 
 body {

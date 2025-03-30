@@ -1,4 +1,12 @@
-var map = L.map("map").setView([51.454, -2.587], 11);
+var map = L.map("map",
+  {
+    minZoom: 10,
+    maxBounds: [
+      [51.3333, -2.8500], // Southwest corner
+      [51.6833, -2.3000]  // Northeast corner
+      ], 
+  }
+).setView([51.454, -2.587], 11);
 
 
 L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {

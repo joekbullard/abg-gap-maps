@@ -1,4223 +1,2558 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.86267318,
-                            51.33590995
-                        ],
-                        [
-                            -2.8483201,
-                            51.3360148
-                        ],
-                        [
-                            -2.84815414,
-                            51.32702407
-                        ],
-                        [
-                            -2.86250442,
-                            51.32691924
-                        ],
-                        [
-                            -2.86267318,
-                            51.33590995
-                        ]
-                    ]
-                ]
-            },
-            "id": 219,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": null,
-                "osgr_1km": "ST4059",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.86334909,
-                            51.37187262
-                        ],
-                        [
-                            -2.84898477,
-                            51.37197761
-                        ],
-                        [
-                            -2.84881847,
-                            51.36298693
-                        ],
-                        [
-                            -2.86317998,
-                            51.36288197
-                        ],
-                        [
-                            -2.86334909,
-                            51.37187262
-                        ]
-                    ]
-                ]
-            },
-            "id": 1202,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1991,
-                "osgr_1km": "ST4063",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.86368757,
-                            51.38985387
-                        ],
-                        [
-                            -2.84931763,
-                            51.38995893
-                        ],
-                        [
-                            -2.84915116,
-                            51.38096828
-                        ],
-                        [
-                            -2.86351829,
-                            51.38086325
-                        ],
-                        [
-                            -2.86368757,
-                            51.38985387
-                        ]
-                    ]
-                ]
-            },
-            "id": 4253,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2015,
-                "osgr_1km": "ST4065",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.86436559,
-                            51.42581619
-                        ],
-                        [
-                            -2.84998437,
-                            51.42592139
-                        ],
-                        [
-                            -2.84981755,
-                            51.4169308
-                        ],
-                        [
-                            -2.86419595,
-                            51.41682563
-                        ],
-                        [
-                            -2.86436559,
-                            51.42581619
-                        ]
-                    ]
-                ]
-            },
-            "id": 1936,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2018,
-                "osgr_1km": "ST4069",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.84848614,
-                            51.34500553
-                        ],
-                        [
-                            -2.83413016,
-                            51.34510866
-                        ],
-                        [
-                            -2.83396693,
-                            51.33611791
-                        ],
-                        [
-                            -2.8483201,
-                            51.3360148
-                        ],
-                        [
-                            -2.84848614,
-                            51.34500553
-                        ]
-                    ]
-                ]
-            },
-            "id": 6969,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2021,
-                "osgr_1km": "ST4160",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83364072,
-                            51.31813635
-                        ],
-                        [
-                            -2.81929308,
-                            51.31823763
-                        ],
-                        [
-                            -2.8191329,
-                            51.3092468
-                        ],
-                        [
-                            -2.83347774,
-                            51.30914555
-                        ],
-                        [
-                            -2.83364072,
-                            51.31813635
-                        ]
-                    ]
-                ]
-            },
-            "id": 3557,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4257",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83396693,
-                            51.33611791
-                        ],
-                        [
-                            -2.81961368,
-                            51.33621925
-                        ],
-                        [
-                            -2.81945334,
-                            51.32722845
-                        ],
-                        [
-                            -2.83380378,
-                            51.32712714
-                        ],
-                        [
-                            -2.83396693,
-                            51.33611791
-                        ]
-                    ]
-                ]
-            },
-            "id": 109,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": null,
-                "osgr_1km": "ST4259",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83478394,
-                            51.38107154
-                        ],
-                        [
-                            -2.82041663,
-                            51.38117305
-                        ],
-                        [
-                            -2.82025588,
-                            51.37218231
-                        ],
-                        [
-                            -2.83462037,
-                            51.37208084
-                        ],
-                        [
-                            -2.83478394,
-                            51.38107154
-                        ]
-                    ]
-                ]
-            },
-            "id": 599,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2006,
-                "osgr_1km": "ST4264",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83494759,
-                            51.39006223
-                        ],
-                        [
-                            -2.82057747,
-                            51.39016376
-                        ],
-                        [
-                            -2.82041663,
-                            51.38117305
-                        ],
-                        [
-                            -2.83478394,
-                            51.38107154
-                        ],
-                        [
-                            -2.83494759,
-                            51.39006223
-                        ]
-                    ]
-                ]
-            },
-            "id": 3699,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2019,
-                "osgr_1km": "ST4265",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83511133,
-                            51.3990529
-                        ],
-                        [
-                            -2.8207384,
-                            51.39915446
-                        ],
-                        [
-                            -2.82057747,
-                            51.39016376
-                        ],
-                        [
-                            -2.83494759,
-                            51.39006223
-                        ],
-                        [
-                            -2.83511133,
-                            51.3990529
-                        ]
-                    ]
-                ]
-            },
-            "id": 3556,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST4266",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.82025588,
-                            51.37218231
-                        ],
-                        [
-                            -2.80589131,
-                            51.37228203
-                        ],
-                        [
-                            -2.80573344,
-                            51.36329125
-                        ],
-                        [
-                            -2.8200952,
-                            51.36319157
-                        ],
-                        [
-                            -2.82025588,
-                            51.37218231
-                        ]
-                    ]
-                ]
-            },
-            "id": 4564,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2011,
-                "osgr_1km": "ST4363",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.82041663,
-                            51.38117305
-                        ],
-                        [
-                            -2.80604925,
-                            51.38127279
-                        ],
-                        [
-                            -2.80589131,
-                            51.37228203
-                        ],
-                        [
-                            -2.82025588,
-                            51.37218231
-                        ],
-                        [
-                            -2.82041663,
-                            51.38117305
-                        ]
-                    ]
-                ]
-            },
-            "id": 2797,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4364",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.82057747,
-                            51.39016376
-                        ],
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ],
-                        [
-                            -2.80604925,
-                            51.38127279
-                        ],
-                        [
-                            -2.82041663,
-                            51.38117305
-                        ],
-                        [
-                            -2.82057747,
-                            51.39016376
-                        ]
-                    ]
-                ]
-            },
-            "id": 5549,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2014,
-                "osgr_1km": "ST4365",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.8207384,
-                            51.39915446
-                        ],
-                        [
-                            -2.80636538,
-                            51.39925427
-                        ],
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ],
-                        [
-                            -2.82057747,
-                            51.39016376
-                        ],
-                        [
-                            -2.8207384,
-                            51.39915446
-                        ]
-                    ]
-                ]
-            },
-            "id": 5212,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2006,
-                "osgr_1km": "ST4366",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.80589131,
-                            51.37228203
-                        ],
-                        [
-                            -2.79152665,
-                            51.37237998
-                        ],
-                        [
-                            -2.7913716,
-                            51.36338917
-                        ],
-                        [
-                            -2.80573344,
-                            51.36329125
-                        ],
-                        [
-                            -2.80589131,
-                            51.37228203
-                        ]
-                    ]
-                ]
-            },
-            "id": 5272,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST4463",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ],
-                        [
-                            -2.79183699,
-                            51.39036155
-                        ],
-                        [
-                            -2.79168178,
-                            51.38137077
-                        ],
-                        [
-                            -2.80604925,
-                            51.38127279
-                        ],
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ]
-                    ]
-                ]
-            },
-            "id": 6476,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST4465",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.80636538,
-                            51.39925427
-                        ],
-                        [
-                            -2.79199228,
-                            51.39935232
-                        ],
-                        [
-                            -2.79183699,
-                            51.39036155
-                        ],
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ],
-                        [
-                            -2.80636538,
-                            51.39925427
-                        ]
-                    ]
-                ]
-            },
-            "id": 7159,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST4466",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79106174,
-                            51.34540751
-                        ],
-                        [
-                            -2.77670544,
-                            51.3455036
-                        ],
-                        [
-                            -2.77655344,
-                            51.33651272
-                        ],
-                        [
-                            -2.79090693,
-                            51.33641666
-                        ],
-                        [
-                            -2.79106174,
-                            51.34540751
-                        ]
-                    ]
-                ]
-            },
-            "id": 4353,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4560",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79168178,
-                            51.38137077
-                        ],
-                        [
-                            -2.77731423,
-                            51.38146699
-                        ],
-                        [
-                            -2.77716192,
-                            51.37247616
-                        ],
-                        [
-                            -2.79152665,
-                            51.37237998
-                        ],
-                        [
-                            -2.79168178,
-                            51.38137077
-                        ]
-                    ]
-                ]
-            },
-            "id": 1367,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1998,
-                "osgr_1km": "ST4564",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79199228,
-                            51.39935232
-                        ],
-                        [
-                            -2.7776191,
-                            51.3994486
-                        ],
-                        [
-                            -2.77746663,
-                            51.3904578
-                        ],
-                        [
-                            -2.79183699,
-                            51.39036155
-                        ],
-                        [
-                            -2.79199228,
-                            51.39935232
-                        ]
-                    ]
-                ]
-            },
-            "id": 5672,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2021,
-                "osgr_1km": "ST4566",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79276994,
-                            51.44430593
-                        ],
-                        [
-                            -2.77838265,
-                            51.44440237
-                        ],
-                        [
-                            -2.77822979,
-                            51.43541164
-                        ],
-                        [
-                            -2.79261425,
-                            51.43531524
-                        ],
-                        [
-                            -2.79276994,
-                            51.44430593
-                        ]
-                    ]
-                ]
-            },
-            "id": 4852,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4571",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.7785356,
-                            51.45339308
-                        ],
-                        [
-                            -2.76414541,
-                            51.45348778
-                        ],
-                        [
-                            -2.76399529,
-                            51.44449704
-                        ],
-                        [
-                            -2.77838265,
-                            51.44440237
-                        ],
-                        [
-                            -2.7785356,
-                            51.45339308
-                        ]
-                    ]
-                ]
-            },
-            "id": 1354,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4672",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.76354539,
-                            51.41752473
-                        ],
-                        [
-                            -2.74916642,
-                            51.41761754
-                        ],
-                        [
-                            -2.74901942,
-                            51.40862672
-                        ],
-                        [
-                            -2.76339558,
-                            51.40853393
-                        ],
-                        [
-                            -2.76354539,
-                            51.41752473
-                        ]
-                    ]
-                ]
-            },
-            "id": 5899,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2002,
-                "osgr_1km": "ST4768",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.76369528,
-                            51.42651551
-                        ],
-                        [
-                            -2.74931348,
-                            51.42660836
-                        ],
-                        [
-                            -2.74916642,
-                            51.41761754
-                        ],
-                        [
-                            -2.76354539,
-                            51.41752473
-                        ],
-                        [
-                            -2.76369528,
-                            51.42651551
-                        ]
-                    ]
-                ]
-            },
-            "id": 2321,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2008,
-                "osgr_1km": "ST4769",
-                "data_provider_id": "dp8",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.74960785,
-                            51.44458994
-                        ],
-                        [
-                            -2.73522033,
-                            51.44468108
-                        ],
-                        [
-                            -2.73507594,
-                            51.43569027
-                        ],
-                        [
-                            -2.74946063,
-                            51.43559916
-                        ],
-                        [
-                            -2.74960785,
-                            51.44458994
-                        ]
-                    ]
-                ]
-            },
-            "id": 3776,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2009,
-                "osgr_1km": "ST4871",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.73464319,
-                            51.40871774
-                        ],
-                        [
-                            -2.72026689,
-                            51.408807
-                        ],
-                        [
-                            -2.72012561,
-                            51.3998161
-                        ],
-                        [
-                            -2.7344991,
-                            51.39972687
-                        ],
-                        [
-                            -2.73464319,
-                            51.40871774
-                        ]
-                    ]
-                ]
-            },
-            "id": 2765,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2008,
-                "osgr_1km": "ST4967",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.71927946,
-                            51.3458704
-                        ],
-                        [
-                            -2.70492278,
-                            51.3459577
-                        ],
-                        [
-                            -2.70478482,
-                            51.33696668
-                        ],
-                        [
-                            -2.71913869,
-                            51.3368794
-                        ],
-                        [
-                            -2.71927946,
-                            51.3458704
-                        ]
-                    ]
-                ]
-            },
-            "id": 680,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2011,
-                "osgr_1km": "ST5060",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.6774034,
-                            51.42704612
-                        ],
-                        [
-                            -2.66302117,
-                            51.42712838
-                        ],
-                        [
-                            -2.66289103,
-                            51.4181374
-                        ],
-                        [
-                            -2.67727044,
-                            51.41805517
-                        ],
-                        [
-                            -2.6774034,
-                            51.42704612
-                        ]
-                    ]
-                ]
-            },
-            "id": 1662,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST5369",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.67793594,
-                            51.4630098
-                        ],
-                        [
-                            -2.66354241,
-                            51.46309216
-                        ],
-                        [
-                            -2.66341199,
-                            51.45410124
-                        ],
-                        [
-                            -2.6778027,
-                            51.4540189
-                        ],
-                        [
-                            -2.67793594,
-                            51.4630098
-                        ]
-                    ]
-                ]
-            },
-            "id": 6095,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2012,
-                "osgr_1km": "ST5373",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.66328165,
-                            51.4451103
-                        ],
-                        [
-                            -2.64889371,
-                            51.44519085
-                        ],
-                        [
-                            -2.64876626,
-                            51.43619987
-                        ],
-                        [
-                            -2.66315138,
-                            51.43611935
-                        ],
-                        [
-                            -2.66328165,
-                            51.4451103
-                        ]
-                    ]
-                ]
-            },
-            "id": 2476,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1994,
-                "osgr_1km": "ST5471",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.64736863,
-                            51.33729818
-                        ],
-                        [
-                            -2.63301442,
-                            51.33737666
-                        ],
-                        [
-                            -2.63289057,
-                            51.32838549
-                        ],
-                        [
-                            -2.64724197,
-                            51.32830704
-                        ],
-                        [
-                            -2.64736863,
-                            51.33729818
-                        ]
-                    ]
-                ]
-            },
-            "id": 448,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2007,
-                "osgr_1km": "ST5559",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.64863887,
-                            51.42720888
-                        ],
-                        [
-                            -2.63425651,
-                            51.42728761
-                        ],
-                        [
-                            -2.63413201,
-                            51.41829658
-                        ],
-                        [
-                            -2.64851155,
-                            51.41821787
-                        ],
-                        [
-                            -2.64863887,
-                            51.42720888
-                        ]
-                    ]
-                ]
-            },
-            "id": 4871,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2003,
-                "osgr_1km": "ST5569",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.64940417,
-                            51.48115462
-                        ],
-                        [
-                            -2.63500485,
-                            51.4812335
-                        ],
-                        [
-                            -2.63487997,
-                            51.47224255
-                        ],
-                        [
-                            -2.64927646,
-                            51.4721637
-                        ],
-                        [
-                            -2.64940417,
-                            51.48115462
-                        ]
-                    ]
-                ]
-            },
-            "id": 4433,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST5575",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.64953196,
-                            51.49014552
-                        ],
-                        [
-                            -2.6351298,
-                            51.49022443
-                        ],
-                        [
-                            -2.63500485,
-                            51.4812335
-                        ],
-                        [
-                            -2.64940417,
-                            51.48115462
-                        ],
-                        [
-                            -2.64953196,
-                            51.49014552
-                        ]
-                    ]
-                ]
-            },
-            "id": 5876,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST5576",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.6496598,
-                            51.49913642
-                        ],
-                        [
-                            -2.63525482,
-                            51.49921535
-                        ],
-                        [
-                            -2.6351298,
-                            51.49022443
-                        ],
-                        [
-                            -2.64953196,
-                            51.49014552
-                        ],
-                        [
-                            -2.6496598,
-                            51.49913642
-                        ]
-                    ]
-                ]
-            },
-            "id": 2971,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1990,
-                "osgr_1km": "ST5577",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.64978772,
-                            51.5081273
-                        ],
-                        [
-                            -2.6353799,
-                            51.50820625
-                        ],
-                        [
-                            -2.63525482,
-                            51.49921535
-                        ],
-                        [
-                            -2.6496598,
-                            51.49913642
-                        ],
-                        [
-                            -2.64978772,
-                            51.5081273
-                        ]
-                    ]
-                ]
-            },
-            "id": 2497,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1993,
-                "osgr_1km": "ST5578",
-                "data_provider_id": "dp116",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.63251938,
-                            51.30141189
-                        ],
-                        [
-                            -2.61817632,
-                            51.30148851
-                        ],
-                        [
-                            -2.61805552,
-                            51.29249726
-                        ],
-                        [
-                            -2.63239578,
-                            51.29242066
-                        ],
-                        [
-                            -2.63251938,
-                            51.30141189
-                        ]
-                    ]
-                ]
-            },
-            "id": 127,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1987,
-                "osgr_1km": "ST5655",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.63351048,
-                            51.37334121
-                        ],
-                        [
-                            -2.61914496,
-                            51.37341803
-                        ],
-                        [
-                            -2.61902367,
-                            51.36442689
-                        ],
-                        [
-                            -2.63338637,
-                            51.36435009
-                        ],
-                        [
-                            -2.63351048,
-                            51.37334121
-                        ]
-                    ]
-                ]
-            },
-            "id": 1976,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1996,
-                "osgr_1km": "ST5663",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.6353799,
-                            51.50820625
-                        ],
-                        [
-                            -2.62097201,
-                            51.50828344
-                        ],
-                        [
-                            -2.62084976,
-                            51.49929251
-                        ],
-                        [
-                            -2.63525482,
-                            51.49921535
-                        ],
-                        [
-                            -2.6353799,
-                            51.50820625
-                        ]
-                    ]
-                ]
-            },
-            "id": 2241,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2010,
-                "osgr_1km": "ST5678",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.61841811,
-                            51.31947098
-                        ],
-                        [
-                            -2.60406938,
-                            51.31954589
-                        ],
-                        [
-                            -2.60395126,
-                            51.31055464
-                        ],
-                        [
-                            -2.61829718,
-                            51.31047975
-                        ],
-                        [
-                            -2.61841811,
-                            51.31947098
-                        ]
-                    ]
-                ]
-            },
-            "id": 2594,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2014,
-                "osgr_1km": "ST5757",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.61853909,
-                            51.32846219
-                        ],
-                        [
-                            -2.60418756,
-                            51.32853713
-                        ],
-                        [
-                            -2.60406938,
-                            51.31954589
-                        ],
-                        [
-                            -2.61841811,
-                            51.31947098
-                        ],
-                        [
-                            -2.61853909,
-                            51.32846219
-                        ]
-                    ]
-                ]
-            },
-            "id": 1275,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2010,
-                "osgr_1km": "ST5758",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.61866014,
-                            51.33745338
-                        ],
-                        [
-                            -2.6043058,
-                            51.33752835
-                        ],
-                        [
-                            -2.60418756,
-                            51.32853713
-                        ],
-                        [
-                            -2.61853909,
-                            51.32846219
-                        ],
-                        [
-                            -2.61866014,
-                            51.33745338
-                        ]
-                    ]
-                ]
-            },
-            "id": 5939,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2009,
-                "osgr_1km": "ST5759",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.61878125,
-                            51.34644457
-                        ],
-                        [
-                            -2.60442411,
-                            51.34651955
-                        ],
-                        [
-                            -2.6043058,
-                            51.33752835
-                        ],
-                        [
-                            -2.61866014,
-                            51.33745338
-                        ],
-                        [
-                            -2.61878125,
-                            51.34644457
-                        ]
-                    ]
-                ]
-            },
-            "id": 1904,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2011,
-                "osgr_1km": "ST5760",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.61902367,
-                            51.36442689
-                        ],
-                        [
-                            -2.60466089,
-                            51.36450192
-                        ],
-                        [
-                            -2.60454247,
-                            51.35551075
-                        ],
-                        [
-                            -2.61890243,
-                            51.35543573
-                        ],
-                        [
-                            -2.61902367,
-                            51.36442689
-                        ]
-                    ]
-                ]
-            },
-            "id": 6197,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2005,
-                "osgr_1km": "ST5762",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.61914496,
-                            51.37341803
-                        ],
-                        [
-                            -2.60477938,
-                            51.37349309
-                        ],
-                        [
-                            -2.60466089,
-                            51.36450192
-                        ],
-                        [
-                            -2.61902367,
-                            51.36442689
-                        ],
-                        [
-                            -2.61914496,
-                            51.37341803
-                        ]
-                    ]
-                ]
-            },
-            "id": 5920,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST5763",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.6038332,
-                            51.30156338
-                        ],
-                        [
-                            -2.58949002,
-                            51.30163649
-                        ],
-                        [
-                            -2.58937482,
-                            51.29264519
-                        ],
-                        [
-                            -2.6037152,
-                            51.2925721
-                        ],
-                        [
-                            -2.6038332,
-                            51.30156338
-                        ]
-                    ]
-                ]
-            },
-            "id": 998,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1996,
-                "osgr_1km": "ST5855",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.60584852,
-                            51.45441293
-                        ],
-                        [
-                            -2.5914575,
-                            51.45448644
-                        ],
-                        [
-                            -2.59134128,
-                            51.44549538
-                        ],
-                        [
-                            -2.60572948,
-                            51.4454219
-                        ],
-                        [
-                            -2.60584852,
-                            51.45441293
-                        ]
-                    ]
-                ]
-            },
-            "id": 2925,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2016,
-                "osgr_1km": "ST5872",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.60644465,
-                            51.49936791
-                        ],
-                        [
-                            -2.59203947,
-                            51.49944154
-                        ],
-                        [
-                            -2.59192296,
-                            51.49045055
-                        ],
-                        [
-                            -2.6063253,
-                            51.49037694
-                        ],
-                        [
-                            -2.60644465,
-                            51.49936791
-                        ]
-                    ]
-                ]
-            },
-            "id": 2120,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2013,
-                "osgr_1km": "ST5877",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.57570963,
-                            51.34666425
-                        ],
-                        [
-                            -2.5613523,
-                            51.34673395
-                        ],
-                        [
-                            -2.56124242,
-                            51.33774268
-                        ],
-                        [
-                            -2.57559694,
-                            51.33767299
-                        ],
-                        [
-                            -2.57570963,
-                            51.34666425
-                        ]
-                    ]
-                ]
-            },
-            "id": 3062,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2015,
-                "osgr_1km": "ST6060",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.57695303,
-                            51.4455671
-                        ],
-                        [
-                            -2.56256471,
-                            51.44563705
-                        ],
-                        [
-                            -2.5624542,
-                            51.43664593
-                        ],
-                        [
-                            -2.5768397,
-                            51.436576
-                        ],
-                        [
-                            -2.57695303,
-                            51.4455671
-                        ]
-                    ]
-                ]
-            },
-            "id": 3088,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2009,
-                "osgr_1km": "ST6071",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.56168227,
-                            51.3737077
-                        ],
-                        [
-                            -2.54731645,
-                            51.37377571
-                        ],
-                        [
-                            -2.54720922,
-                            51.36478446
-                        ],
-                        [
-                            -2.56157222,
-                            51.36471646
-                        ],
-                        [
-                            -2.56168227,
-                            51.3737077
-                        ]
-                    ]
-                ]
-            },
-            "id": 2813,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2001,
-                "osgr_1km": "ST6163",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.56179238,
-                            51.38269891
-                        ],
-                        [
-                            -2.54742374,
-                            51.38276695
-                        ],
-                        [
-                            -2.54731645,
-                            51.37377571
-                        ],
-                        [
-                            -2.56168227,
-                            51.3737077
-                        ],
-                        [
-                            -2.56179238,
-                            51.38269891
-                        ]
-                    ]
-                ]
-            },
-            "id": 3284,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2019,
-                "osgr_1km": "ST6164",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.56267527,
-                            51.45462816
-                        ],
-                        [
-                            -2.54828407,
-                            51.45469637
-                        ],
-                        [
-                            -2.54817633,
-                            51.44570524
-                        ],
-                        [
-                            -2.56256471,
-                            51.44563705
-                        ],
-                        [
-                            -2.56267527,
-                            51.45462816
-                        ]
-                    ]
-                ]
-            },
-            "id": 5368,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST6172",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5630073,
-                            51.48160139
-                        ],
-                        [
-                            -2.54860761,
-                            51.48166967
-                        ],
-                        [
-                            -2.54849971,
-                            51.47267858
-                        ],
-                        [
-                            -2.56289656,
-                            51.47261033
-                        ],
-                        [
-                            -2.5630073,
-                            51.48160139
-                        ]
-                    ]
-                ]
-            },
-            "id": 1799,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2012,
-                "osgr_1km": "ST6175",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.56311809,
-                            51.49059244
-                        ],
-                        [
-                            -2.54871557,
-                            51.49066074
-                        ],
-                        [
-                            -2.54860761,
-                            51.48166967
-                        ],
-                        [
-                            -2.5630073,
-                            51.48160139
-                        ],
-                        [
-                            -2.56311809,
-                            51.49059244
-                        ]
-                    ]
-                ]
-            },
-            "id": 2947,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1997,
-                "osgr_1km": "ST6176",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.56322894,
-                            51.49958348
-                        ],
-                        [
-                            -2.54882358,
-                            51.4996518
-                        ],
-                        [
-                            -2.54871557,
-                            51.49066074
-                        ],
-                        [
-                            -2.56311809,
-                            51.49059244
-                        ],
-                        [
-                            -2.56322894,
-                            51.49958348
-                        ]
-                    ]
-                ]
-            },
-            "id": 2579,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1998,
-                "osgr_1km": "ST6177",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54731645,
-                            51.37377571
-                        ],
-                        [
-                            -2.53295058,
-                            51.37384196
-                        ],
-                        [
-                            -2.53284615,
-                            51.36485069
-                        ],
-                        [
-                            -2.54720922,
-                            51.36478446
-                        ],
-                        [
-                            -2.54731645,
-                            51.37377571
-                        ]
-                    ]
-                ]
-            },
-            "id": 3027,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1997,
-                "osgr_1km": "ST6263",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54742374,
-                            51.38276695
-                        ],
-                        [
-                            -2.53305505,
-                            51.38283322
-                        ],
-                        [
-                            -2.53295058,
-                            51.37384196
-                        ],
-                        [
-                            -2.54731645,
-                            51.37377571
-                        ],
-                        [
-                            -2.54742374,
-                            51.38276695
-                        ]
-                    ]
-                ]
-            },
-            "id": 3472,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1998,
-                "osgr_1km": "ST6264",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54806865,
-                            51.4367141
-                        ],
-                        [
-                            -2.53368304,
-                            51.4367805
-                        ],
-                        [
-                            -2.53357824,
-                            51.42778932
-                        ],
-                        [
-                            -2.54796103,
-                            51.42772294
-                        ],
-                        [
-                            -2.54806865,
-                            51.4367141
-                        ]
-                    ]
-                ]
-            },
-            "id": 1530,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6270",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54828407,
-                            51.45469637
-                        ],
-                        [
-                            -2.53389281,
-                            51.45476281
-                        ],
-                        [
-                            -2.5337879,
-                            51.44577166
-                        ],
-                        [
-                            -2.54817633,
-                            51.44570524
-                        ],
-                        [
-                            -2.54828407,
-                            51.45469637
-                        ]
-                    ]
-                ]
-            },
-            "id": 5445,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2008,
-                "osgr_1km": "ST6272",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54839186,
-                            51.46368748
-                        ],
-                        [
-                            -2.53399777,
-                            51.46375395
-                        ],
-                        [
-                            -2.53389281,
-                            51.45476281
-                        ],
-                        [
-                            -2.54828407,
-                            51.45469637
-                        ],
-                        [
-                            -2.54839186,
-                            51.46368748
-                        ]
-                    ]
-                ]
-            },
-            "id": 4240,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2012,
-                "osgr_1km": "ST6273",
-                "data_provider_id": "dp8",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54871557,
-                            51.49066074
-                        ],
-                        [
-                            -2.53431299,
-                            51.49072727
-                        ],
-                        [
-                            -2.53420786,
-                            51.48173618
-                        ],
-                        [
-                            -2.54860761,
-                            51.48166967
-                        ],
-                        [
-                            -2.54871557,
-                            51.49066074
-                        ]
-                    ]
-                ]
-            },
-            "id": 4611,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST6276",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5492562,
-                            51.53561589
-                        ],
-                        [
-                            -2.53483944,
-                            51.53568253
-                        ],
-                        [
-                            -2.53473404,
-                            51.5266915
-                        ],
-                        [
-                            -2.54914796,
-                            51.52662489
-                        ],
-                        [
-                            -2.5492562,
-                            51.53561589
-                        ]
-                    ]
-                ]
-            },
-            "id": 3239,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2014,
-                "osgr_1km": "ST6281",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5337879,
-                            51.44577166
-                        ],
-                        [
-                            -2.51939941,
-                            51.44583632
-                        ],
-                        [
-                            -2.51929738,
-                            51.43684514
-                        ],
-                        [
-                            -2.53368304,
-                            51.4367805
-                        ],
-                        [
-                            -2.5337879,
-                            51.44577166
-                        ]
-                    ]
-                ]
-            },
-            "id": 1567,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2008,
-                "osgr_1km": "ST6371",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.53389281,
-                            51.45476281
-                        ],
-                        [
-                            -2.5195015,
-                            51.45482749
-                        ],
-                        [
-                            -2.51939941,
-                            51.44583632
-                        ],
-                        [
-                            -2.5337879,
-                            51.44577166
-                        ],
-                        [
-                            -2.53389281,
-                            51.45476281
-                        ]
-                    ]
-                ]
-            },
-            "id": 5780,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST6372",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.53431299,
-                            51.49072727
-                        ],
-                        [
-                            -2.51991036,
-                            51.49079203
-                        ],
-                        [
-                            -2.51980806,
-                            51.48180092
-                        ],
-                        [
-                            -2.53420786,
-                            51.48173618
-                        ],
-                        [
-                            -2.53431299,
-                            51.49072727
-                        ]
-                    ]
-                ]
-            },
-            "id": 3853,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1998,
-                "osgr_1km": "ST6376",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.53441817,
-                            51.49971835
-                        ],
-                        [
-                            -2.52001271,
-                            51.49978313
-                        ],
-                        [
-                            -2.51991036,
-                            51.49079203
-                        ],
-                        [
-                            -2.53431299,
-                            51.49072727
-                        ],
-                        [
-                            -2.53441817,
-                            51.49971835
-                        ]
-                    ]
-                ]
-            },
-            "id": 5685,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST6377",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5346287,
-                            51.51770047
-                        ],
-                        [
-                            -2.52021756,
-                            51.51776529
-                        ],
-                        [
-                            -2.52011511,
-                            51.50877422
-                        ],
-                        [
-                            -2.53452341,
-                            51.50870942
-                        ],
-                        [
-                            -2.5346287,
-                            51.51770047
-                        ]
-                    ]
-                ]
-            },
-            "id": 3530,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6379",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.53483944,
-                            51.53568253
-                        ],
-                        [
-                            -2.52042263,
-                            51.53574739
-                        ],
-                        [
-                            -2.52032007,
-                            51.52675635
-                        ],
-                        [
-                            -2.53473404,
-                            51.5266915
-                        ],
-                        [
-                            -2.53483944,
-                            51.53568253
-                        ]
-                    ]
-                ]
-            },
-            "id": 5820,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2015,
-                "osgr_1km": "ST6381",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.51848304,
-                            51.36491516
-                        ],
-                        [
-                            -2.50411987,
-                            51.36497787
-                        ],
-                        [
-                            -2.50402112,
-                            51.35598654
-                        ],
-                        [
-                            -2.51838148,
-                            51.35592385
-                        ],
-                        [
-                            -2.51848304,
-                            51.36491516
-                        ]
-                    ]
-                ]
-            },
-            "id": 1548,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2001,
-                "osgr_1km": "ST6462",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.51929738,
-                            51.43684514
-                        ],
-                        [
-                            -2.50491167,
-                            51.43690801
-                        ],
-                        [
-                            -2.50481252,
-                            51.42791679
-                        ],
-                        [
-                            -2.51919541,
-                            51.42785394
-                        ],
-                        [
-                            -2.51929738,
-                            51.43684514
-                        ]
-                    ]
-                ]
-            },
-            "id": 2975,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1998,
-                "osgr_1km": "ST6470",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.51960363,
-                            51.46381865
-                        ],
-                        [
-                            -2.50520944,
-                            51.46388158
-                        ],
-                        [
-                            -2.50511013,
-                            51.4548904
-                        ],
-                        [
-                            -2.5195015,
-                            51.45482749
-                        ],
-                        [
-                            -2.51960363,
-                            51.46381865
-                        ]
-                    ]
-                ]
-            },
-            "id": 1010,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1999,
-                "osgr_1km": "ST6473",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.52001271,
-                            51.49978313
-                        ],
-                        [
-                            -2.50560719,
-                            51.49984614
-                        ],
-                        [
-                            -2.50550768,
-                            51.49085502
-                        ],
-                        [
-                            -2.51991036,
-                            51.49079203
-                        ],
-                        [
-                            -2.52001271,
-                            51.49978313
-                        ]
-                    ]
-                ]
-            },
-            "id": 7333,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2003,
-                "osgr_1km": "ST6477",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.52186408,
-                            51.66162054
-                        ],
-                        [
-                            -2.50740731,
-                            51.66168391
-                        ],
-                        [
-                            -2.50730686,
-                            51.65269304
-                        ],
-                        [
-                            -2.52176077,
-                            51.65262969
-                        ],
-                        [
-                            -2.52186408,
-                            51.66162054
-                        ]
-                    ]
-                ]
-            },
-            "id": 1572,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6495",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50421866,
-                            51.37396918
-                        ],
-                        [
-                            -2.48985263,
-                            51.37403015
-                        ],
-                        [
-                            -2.48975665,
-                            51.36503882
-                        ],
-                        [
-                            -2.50411987,
-                            51.36497787
-                        ],
-                        [
-                            -2.50421866,
-                            51.37396918
-                        ]
-                    ]
-                ]
-            },
-            "id": 5410,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1997,
-                "osgr_1km": "ST6563",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50441641,
-                            51.39195178
-                        ],
-                        [
-                            -2.49004475,
-                            51.39201278
-                        ],
-                        [
-                            -2.48994866,
-                            51.38302148
-                        ],
-                        [
-                            -2.50431751,
-                            51.38296049
-                        ],
-                        [
-                            -2.50441641,
-                            51.39195178
-                        ]
-                    ]
-                ]
-            },
-            "id": 5838,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2011,
-                "osgr_1km": "ST6565",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50461436,
-                            51.40993431
-                        ],
-                        [
-                            -2.49023706,
-                            51.40999536
-                        ],
-                        [
-                            -2.49014088,
-                            51.40100408
-                        ],
-                        [
-                            -2.50451536,
-                            51.40094305
-                        ],
-                        [
-                            -2.50461436,
-                            51.40993431
-                        ]
-                    ]
-                ]
-            },
-            "id": 5146,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2013,
-                "osgr_1km": "ST6567",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50471341,
-                            51.41892556
-                        ],
-                        [
-                            -2.49033329,
-                            51.41898662
-                        ],
-                        [
-                            -2.49023706,
-                            51.40999536
-                        ],
-                        [
-                            -2.50461436,
-                            51.40993431
-                        ],
-                        [
-                            -2.50471341,
-                            51.41892556
-                        ]
-                    ]
-                ]
-            },
-            "id": 3357,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2001,
-                "osgr_1km": "ST6568",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50481252,
-                            51.42791679
-                        ],
-                        [
-                            -2.49042957,
-                            51.42797788
-                        ],
-                        [
-                            -2.49033329,
-                            51.41898662
-                        ],
-                        [
-                            -2.50471341,
-                            51.41892556
-                        ],
-                        [
-                            -2.50481252,
-                            51.42791679
-                        ]
-                    ]
-                ]
-            },
-            "id": 2422,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2005,
-                "osgr_1km": "ST6569",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50580637,
-                            51.51782834
-                        ],
-                        [
-                            -2.49139513,
-                            51.51788962
-                        ],
-                        [
-                            -2.49129835,
-                            51.50889851
-                        ],
-                        [
-                            -2.50570676,
-                            51.50883725
-                        ],
-                        [
-                            -2.50580637,
-                            51.51782834
-                        ]
-                    ]
-                ]
-            },
-            "id": 4414,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST6579",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49042957,
-                            51.42797788
-                        ],
-                        [
-                            -2.47604658,
-                            51.4280372
-                        ],
-                        [
-                            -2.47595312,
-                            51.41904593
-                        ],
-                        [
-                            -2.49033329,
-                            51.41898662
-                        ],
-                        [
-                            -2.49042957,
-                            51.42797788
-                        ]
-                    ]
-                ]
-            },
-            "id": 3984,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST6669",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49149196,
-                            51.52688072
-                        ],
-                        [
-                            -2.47707784,
-                            51.52694025
-                        ],
-                        [
-                            -2.47698384,
-                            51.51794914
-                        ],
-                        [
-                            -2.49139513,
-                            51.51788962
-                        ],
-                        [
-                            -2.49149196,
-                            51.52688072
-                        ]
-                    ]
-                ]
-            },
-            "id": 5456,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST6680",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49158885,
-                            51.53587181
-                        ],
-                        [
-                            -2.47717188,
-                            51.53593136
-                        ],
-                        [
-                            -2.47707784,
-                            51.52694025
-                        ],
-                        [
-                            -2.49149196,
-                            51.52688072
-                        ],
-                        [
-                            -2.49158885,
-                            51.53587181
-                        ]
-                    ]
-                ]
-            },
-            "id": 4143,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2008,
-                "osgr_1km": "ST6681",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49168578,
-                            51.54486288
-                        ],
-                        [
-                            -2.47726597,
-                            51.54492244
-                        ],
-                        [
-                            -2.47717188,
-                            51.53593136
-                        ],
-                        [
-                            -2.49158885,
-                            51.53587181
-                        ],
-                        [
-                            -2.49168578,
-                            51.54486288
-                        ]
-                    ]
-                ]
-            },
-            "id": 4375,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1998,
-                "osgr_1km": "ST6682",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.47464975,
-                            51.29316666
-                        ],
-                        [
-                            -2.46030889,
-                            51.29322394
-                        ],
-                        [
-                            -2.46021895,
-                            51.28423245
-                        ],
-                        [
-                            -2.47455702,
-                            51.28417518
-                        ],
-                        [
-                            -2.47464975,
-                            51.29316666
-                        ]
-                    ]
-                ]
-            },
-            "id": 5908,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2014,
-                "osgr_1km": "ST6754",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.476796,
-                            51.49996686
-                        ],
-                        [
-                            -2.46239033,
-                            51.50002456
-                        ],
-                        [
-                            -2.46229932,
-                            51.49103339
-                        ],
-                        [
-                            -2.47670215,
-                            51.4909757
-                        ],
-                        [
-                            -2.476796,
-                            51.49996686
-                        ]
-                    ]
-                ]
-            },
-            "id": 1376,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6777",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.4615729,
-                            51.41910346
-                        ],
-                        [
-                            -2.44719264,
-                            51.41915924
-                        ],
-                        [
-                            -2.44710487,
-                            51.41016792
-                        ],
-                        [
-                            -2.46148231,
-                            51.41011216
-                        ],
-                        [
-                            -2.4615729,
-                            51.41910346
-                        ]
-                    ]
-                ]
-            },
-            "id": 3211,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2021,
-                "osgr_1km": "ST6868",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.46239033,
-                            51.50002456
-                        ],
-                        [
-                            -2.44798462,
-                            51.5000805
-                        ],
-                        [
-                            -2.44789644,
-                            51.4910893
-                        ],
-                        [
-                            -2.46229932,
-                            51.49103339
-                        ],
-                        [
-                            -2.46239033,
-                            51.50002456
-                        ]
-                    ]
-                ]
-            },
-            "id": 2613,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6877",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.44596798,
-                            51.29327947
-                        ],
-                        [
-                            -2.43162702,
-                            51.29333324
-                        ],
-                        [
-                            -2.43154269,
-                            51.28434171
-                        ],
-                        [
-                            -2.44588084,
-                            51.28428795
-                        ],
-                        [
-                            -2.44596798,
-                            51.29327947
-                        ]
-                    ]
-                ]
-            },
-            "id": 1663,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6954",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.44684183,
-                            51.38319387
-                        ],
-                        [
-                            -2.43247279,
-                            51.38324781
-                        ],
-                        [
-                            -2.43238802,
-                            51.37425642
-                        ],
-                        [
-                            -2.44675424,
-                            51.37420249
-                        ],
-                        [
-                            -2.44684183,
-                            51.38319387
-                        ]
-                    ]
-                ]
-            },
-            "id": 3083,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST6964",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.43323774,
-                            51.46416973
-                        ],
-                        [
-                            -2.41884326,
-                            51.46422206
-                        ],
-                        [
-                            -2.41876092,
-                            51.45523078
-                        ],
-                        [
-                            -2.43315257,
-                            51.45517846
-                        ],
-                        [
-                            -2.43323774,
-                            51.46416973
-                        ]
-                    ]
-                ]
-            },
-            "id": 1411,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2016,
-                "osgr_1km": "ST7073",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.43392069,
-                            51.53609938
-                        ],
-                        [
-                            -2.41950353,
-                            51.53615184
-                        ],
-                        [
-                            -2.41942085,
-                            51.52716067
-                        ],
-                        [
-                            -2.43383516,
-                            51.52710822
-                        ],
-                        [
-                            -2.43392069,
-                            51.53609938
-                        ]
-                    ]
-                ]
-            },
-            "id": 1142,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2018,
-                "osgr_1km": "ST7081",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.43409187,
-                            51.55408165
-                        ],
-                        [
-                            -2.41966903,
-                            51.55413415
-                        ],
-                        [
-                            -2.41958626,
-                            51.545143
-                        ],
-                        [
-                            -2.43400625,
-                            51.54509052
-                        ],
-                        [
-                            -2.43409187,
-                            51.55408165
-                        ]
-                    ]
-                ]
-            },
-            "id": 1984,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1997,
-                "osgr_1km": "ST7083",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.43426322,
-                            51.57206386
-                        ],
-                        [
-                            -2.4198347,
-                            51.5721164
-                        ],
-                        [
-                            -2.41975184,
-                            51.56312528
-                        ],
-                        [
-                            -2.43417752,
-                            51.56307276
-                        ],
-                        [
-                            -2.43426322,
-                            51.57206386
-                        ]
-                    ]
-                ]
-            },
-            "id": 2994,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST7085",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.41818571,
-                            51.39229139
-                        ],
-                        [
-                            -2.40381377,
-                            51.39234182
-                        ],
-                        [
-                            -2.40373459,
-                            51.38335041
-                        ],
-                        [
-                            -2.41810371,
-                            51.38329999
-                        ],
-                        [
-                            -2.41818571,
-                            51.39229139
-                        ]
-                    ]
-                ]
-            },
-            "id": 2595,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2008,
-                "osgr_1km": "ST7165",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.4198347,
-                            51.5721164
-                        ],
-                        [
-                            -2.40540612,
-                            51.57216715
-                        ],
-                        [
-                            -2.40532611,
-                            51.56317602
-                        ],
-                        [
-                            -2.41975184,
-                            51.56312528
-                        ],
-                        [
-                            -2.4198347,
-                            51.5721164
-                        ]
-                    ]
-                ]
-            },
-            "id": 5559,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1996,
-                "osgr_1km": "ST7185",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.3745557,
-                            51.32949701
-                        ],
-                        [
-                            -2.36020333,
-                            51.32954205
-                        ],
-                        [
-                            -2.36013284,
-                            51.3205505
-                        ],
-                        [
-                            -2.37448241,
-                            51.32050546
-                        ],
-                        [
-                            -2.3745557,
-                            51.32949701
-                        ]
-                    ]
-                ]
-            },
-            "id": 3847,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2022,
-                "osgr_1km": "ST7458",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37499622,
-                            51.38344596
-                        ],
-                        [
-                            -2.36062698,
-                            51.38349109
-                        ],
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ],
-                        [
-                            -2.37492271,
-                            51.3744545
-                        ],
-                        [
-                            -2.37499622,
-                            51.38344596
-                        ]
-                    ]
-                ]
-            },
-            "id": 3852,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2002,
-                "osgr_1km": "ST7464",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.3758074,
-                            51.48235107
-                        ],
-                        [
-                            -2.3614071,
-                            51.48239637
-                        ],
-                        [
-                            -2.361336,
-                            51.47340505
-                        ],
-                        [
-                            -2.37573347,
-                            51.47335977
-                        ],
-                        [
-                            -2.3758074,
-                            51.48235107
-                        ]
-                    ]
-                ]
-            },
-            "id": 2480,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2005,
-                "osgr_1km": "ST7475",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ],
-                        [
-                            -2.36226323,
-                            51.5902911
-                        ],
-                        [
-                            -2.36219168,
-                            51.58129995
-                        ],
-                        [
-                            -2.37662322,
-                            51.5812545
-                        ],
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ]
-                    ]
-                ]
-            },
-            "id": 3044,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2008,
-                "osgr_1km": "ST7487",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ],
-                        [
-                            -2.34618981,
-                            51.37454298
-                        ],
-                        [
-                            -2.34612196,
-                            51.36555148
-                        ],
-                        [
-                            -2.36048561,
-                            51.36550814
-                        ],
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ]
-                    ]
-                ]
-            },
-            "id": 1301,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2001,
-                "osgr_1km": "ST7563",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.34605415,
-                            51.35655996
-                        ],
-                        [
-                            -2.33169328,
-                            51.35660153
-                        ],
-                        [
-                            -2.33162831,
-                            51.34760999
-                        ],
-                        [
-                            -2.34598637,
-                            51.34756844
-                        ],
-                        [
-                            -2.34605415,
-                            51.35655996
-                        ]
-                    ]
-                ]
-            },
-            "id": 3013,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2013,
-                "osgr_1km": "ST7661",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.3462577,
-                            51.38353446
-                        ],
-                        [
-                            -2.33188839,
-                            51.38357607
-                        ],
-                        [
-                            -2.33182332,
-                            51.37458457
-                        ],
-                        [
-                            -2.34618981,
-                            51.37454298
-                        ],
-                        [
-                            -2.3462577,
-                            51.38353446
-                        ]
-                    ]
-                ]
-            },
-            "id": 3931,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST7664",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.34639358,
-                            51.40151739
-                        ],
-                        [
-                            -2.33201863,
-                            51.40155903
-                        ],
-                        [
-                            -2.33195349,
-                            51.39256756
-                        ],
-                        [
-                            -2.34632562,
-                            51.39252594
-                        ],
-                        [
-                            -2.34639358,
-                            51.40151739
-                        ]
-                    ]
-                ]
-            },
-            "id": 1373,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2000,
-                "osgr_1km": "ST7666",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.3320838,
-                            51.41055049
-                        ],
-                        [
-                            -2.317706,
-                            51.41059037
-                        ],
-                        [
-                            -2.31764365,
-                            51.4015989
-                        ],
-                        [
-                            -2.33201863,
-                            51.40155903
-                        ],
-                        [
-                            -2.3320838,
-                            51.41055049
-                        ]
-                    ]
-                ]
-            },
-            "id": 2830,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST7767",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.332149,
-                            51.41954193
-                        ],
-                        [
-                            -2.31776838,
-                            51.41958183
-                        ],
-                        [
-                            -2.317706,
-                            51.41059037
-                        ],
-                        [
-                            -2.3320838,
-                            51.41055049
-                        ],
-                        [
-                            -2.332149,
-                            51.41954193
-                        ]
-                    ]
-                ]
-            },
-            "id": 3254,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2005,
-                "osgr_1km": "ST7768",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.33247554,
-                            51.46449894
-                        ],
-                        [
-                            -2.31808079,
-                            51.4645389
-                        ],
-                        [
-                            -2.31801824,
-                            51.45554751
-                        ],
-                        [
-                            -2.33241016,
-                            51.45550756
-                        ],
-                        [
-                            -2.33247554,
-                            51.46449894
-                        ]
-                    ]
-                ]
-            },
-            "id": 1278,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2017,
-                "osgr_1km": "ST7773",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.30285276,
-                            51.33869624
-                        ],
-                        [
-                            -2.28849741,
-                            51.33873251
-                        ],
-                        [
-                            -2.28844093,
-                            51.3297409
-                        ],
-                        [
-                            -2.30279348,
-                            51.32970465
-                        ],
-                        [
-                            -2.30285276,
-                            51.33869624
-                        ]
-                    ]
-                ]
-            },
-            "id": 6587,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST7959",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.30291208,
-                            51.34768782
-                        ],
-                        [
-                            -2.28855392,
-                            51.3477241
-                        ],
-                        [
-                            -2.28849741,
-                            51.33873251
-                        ],
-                        [
-                            -2.30285276,
-                            51.33869624
-                        ],
-                        [
-                            -2.30291208,
-                            51.34768782
-                        ]
-                    ]
-                ]
-            },
-            "id": 2790,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST7960",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.30314966,
-                            51.383654
-                        ],
-                        [
-                            -2.28878025,
-                            51.38369033
-                        ],
-                        [
-                            -2.28872362,
-                            51.37469879
-                        ],
-                        [
-                            -2.30309022,
-                            51.37466248
-                        ],
-                        [
-                            -2.30314966,
-                            51.383654
-                        ]
-                    ]
-                ]
-            },
-            "id": 3623,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 2004,
-                "osgr_1km": "ST7964",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.30326863,
-                            51.40163701
-                        ],
-                        [
-                            -2.28889359,
-                            51.40167336
-                        ],
-                        [
-                            -2.2888369,
-                            51.39268185
-                        ],
-                        [
-                            -2.30320913,
-                            51.39264551
-                        ],
-                        [
-                            -2.30326863,
-                            51.40163701
-                        ]
-                    ]
-                ]
-            },
-            "id": 519,
-            "properties": {
-                "species": "Daubenton's Bat",
-                "year": 1985,
-                "osgr_1km": "ST7966",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86267318, 51.33590995],
+            [-2.8483201, 51.3360148],
+            [-2.84815414, 51.32702407],
+            [-2.86250442, 51.32691924],
+            [-2.86267318, 51.33590995]
+          ]
+        ]
+      },
+      "id": 219,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": null,
+        "osgr_1km": "ST4059",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86334909, 51.37187262],
+            [-2.84898477, 51.37197761],
+            [-2.84881847, 51.36298693],
+            [-2.86317998, 51.36288197],
+            [-2.86334909, 51.37187262]
+          ]
+        ]
+      },
+      "id": 1202,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1991,
+        "osgr_1km": "ST4063",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86368757, 51.38985387],
+            [-2.84931763, 51.38995893],
+            [-2.84915116, 51.38096828],
+            [-2.86351829, 51.38086325],
+            [-2.86368757, 51.38985387]
+          ]
+        ]
+      },
+      "id": 4253,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2015,
+        "osgr_1km": "ST4065",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86436559, 51.42581619],
+            [-2.84998437, 51.42592139],
+            [-2.84981755, 51.4169308],
+            [-2.86419595, 51.41682563],
+            [-2.86436559, 51.42581619]
+          ]
+        ]
+      },
+      "id": 1936,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2018,
+        "osgr_1km": "ST4069",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.84848614, 51.34500553],
+            [-2.83413016, 51.34510866],
+            [-2.83396693, 51.33611791],
+            [-2.8483201, 51.3360148],
+            [-2.84848614, 51.34500553]
+          ]
+        ]
+      },
+      "id": 6969,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2021,
+        "osgr_1km": "ST4160",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83364072, 51.31813635],
+            [-2.81929308, 51.31823763],
+            [-2.8191329, 51.3092468],
+            [-2.83347774, 51.30914555],
+            [-2.83364072, 51.31813635]
+          ]
+        ]
+      },
+      "id": 3557,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4257",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83396693, 51.33611791],
+            [-2.81961368, 51.33621925],
+            [-2.81945334, 51.32722845],
+            [-2.83380378, 51.32712714],
+            [-2.83396693, 51.33611791]
+          ]
+        ]
+      },
+      "id": 109,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": null,
+        "osgr_1km": "ST4259",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83478394, 51.38107154],
+            [-2.82041663, 51.38117305],
+            [-2.82025588, 51.37218231],
+            [-2.83462037, 51.37208084],
+            [-2.83478394, 51.38107154]
+          ]
+        ]
+      },
+      "id": 599,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2006,
+        "osgr_1km": "ST4264",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83494759, 51.39006223],
+            [-2.82057747, 51.39016376],
+            [-2.82041663, 51.38117305],
+            [-2.83478394, 51.38107154],
+            [-2.83494759, 51.39006223]
+          ]
+        ]
+      },
+      "id": 3699,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2019,
+        "osgr_1km": "ST4265",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83511133, 51.3990529],
+            [-2.8207384, 51.39915446],
+            [-2.82057747, 51.39016376],
+            [-2.83494759, 51.39006223],
+            [-2.83511133, 51.3990529]
+          ]
+        ]
+      },
+      "id": 3556,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST4266",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82025588, 51.37218231],
+            [-2.80589131, 51.37228203],
+            [-2.80573344, 51.36329125],
+            [-2.8200952, 51.36319157],
+            [-2.82025588, 51.37218231]
+          ]
+        ]
+      },
+      "id": 4564,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2011,
+        "osgr_1km": "ST4363",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82041663, 51.38117305],
+            [-2.80604925, 51.38127279],
+            [-2.80589131, 51.37228203],
+            [-2.82025588, 51.37218231],
+            [-2.82041663, 51.38117305]
+          ]
+        ]
+      },
+      "id": 2797,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4364",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82057747, 51.39016376],
+            [-2.80620727, 51.39026354],
+            [-2.80604925, 51.38127279],
+            [-2.82041663, 51.38117305],
+            [-2.82057747, 51.39016376]
+          ]
+        ]
+      },
+      "id": 5549,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2014,
+        "osgr_1km": "ST4365",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8207384, 51.39915446],
+            [-2.80636538, 51.39925427],
+            [-2.80620727, 51.39026354],
+            [-2.82057747, 51.39016376],
+            [-2.8207384, 51.39915446]
+          ]
+        ]
+      },
+      "id": 5212,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2006,
+        "osgr_1km": "ST4366",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80589131, 51.37228203],
+            [-2.79152665, 51.37237998],
+            [-2.7913716, 51.36338917],
+            [-2.80573344, 51.36329125],
+            [-2.80589131, 51.37228203]
+          ]
+        ]
+      },
+      "id": 5272,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST4463",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80620727, 51.39026354],
+            [-2.79183699, 51.39036155],
+            [-2.79168178, 51.38137077],
+            [-2.80604925, 51.38127279],
+            [-2.80620727, 51.39026354]
+          ]
+        ]
+      },
+      "id": 6476,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST4465",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80636538, 51.39925427],
+            [-2.79199228, 51.39935232],
+            [-2.79183699, 51.39036155],
+            [-2.80620727, 51.39026354],
+            [-2.80636538, 51.39925427]
+          ]
+        ]
+      },
+      "id": 7159,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST4466",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79106174, 51.34540751],
+            [-2.77670544, 51.3455036],
+            [-2.77655344, 51.33651272],
+            [-2.79090693, 51.33641666],
+            [-2.79106174, 51.34540751]
+          ]
+        ]
+      },
+      "id": 4353,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4560",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79168178, 51.38137077],
+            [-2.77731423, 51.38146699],
+            [-2.77716192, 51.37247616],
+            [-2.79152665, 51.37237998],
+            [-2.79168178, 51.38137077]
+          ]
+        ]
+      },
+      "id": 1367,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1998,
+        "osgr_1km": "ST4564",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79199228, 51.39935232],
+            [-2.7776191, 51.3994486],
+            [-2.77746663, 51.3904578],
+            [-2.79183699, 51.39036155],
+            [-2.79199228, 51.39935232]
+          ]
+        ]
+      },
+      "id": 5672,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2021,
+        "osgr_1km": "ST4566",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79276994, 51.44430593],
+            [-2.77838265, 51.44440237],
+            [-2.77822979, 51.43541164],
+            [-2.79261425, 51.43531524],
+            [-2.79276994, 51.44430593]
+          ]
+        ]
+      },
+      "id": 4852,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4571",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.7785356, 51.45339308],
+            [-2.76414541, 51.45348778],
+            [-2.76399529, 51.44449704],
+            [-2.77838265, 51.44440237],
+            [-2.7785356, 51.45339308]
+          ]
+        ]
+      },
+      "id": 1354,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4672",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76354539, 51.41752473],
+            [-2.74916642, 51.41761754],
+            [-2.74901942, 51.40862672],
+            [-2.76339558, 51.40853393],
+            [-2.76354539, 51.41752473]
+          ]
+        ]
+      },
+      "id": 5899,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2002,
+        "osgr_1km": "ST4768",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76369528, 51.42651551],
+            [-2.74931348, 51.42660836],
+            [-2.74916642, 51.41761754],
+            [-2.76354539, 51.41752473],
+            [-2.76369528, 51.42651551]
+          ]
+        ]
+      },
+      "id": 2321,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2008,
+        "osgr_1km": "ST4769",
+        "data_provider_id": "dp8",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74960785, 51.44458994],
+            [-2.73522033, 51.44468108],
+            [-2.73507594, 51.43569027],
+            [-2.74946063, 51.43559916],
+            [-2.74960785, 51.44458994]
+          ]
+        ]
+      },
+      "id": 3776,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2009,
+        "osgr_1km": "ST4871",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.73464319, 51.40871774],
+            [-2.72026689, 51.408807],
+            [-2.72012561, 51.3998161],
+            [-2.7344991, 51.39972687],
+            [-2.73464319, 51.40871774]
+          ]
+        ]
+      },
+      "id": 2765,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2008,
+        "osgr_1km": "ST4967",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.71927946, 51.3458704],
+            [-2.70492278, 51.3459577],
+            [-2.70478482, 51.33696668],
+            [-2.71913869, 51.3368794],
+            [-2.71927946, 51.3458704]
+          ]
+        ]
+      },
+      "id": 680,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2011,
+        "osgr_1km": "ST5060",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.6774034, 51.42704612],
+            [-2.66302117, 51.42712838],
+            [-2.66289103, 51.4181374],
+            [-2.67727044, 51.41805517],
+            [-2.6774034, 51.42704612]
+          ]
+        ]
+      },
+      "id": 1662,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST5369",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.67793594, 51.4630098],
+            [-2.66354241, 51.46309216],
+            [-2.66341199, 51.45410124],
+            [-2.6778027, 51.4540189],
+            [-2.67793594, 51.4630098]
+          ]
+        ]
+      },
+      "id": 6095,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2012,
+        "osgr_1km": "ST5373",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66328165, 51.4451103],
+            [-2.64889371, 51.44519085],
+            [-2.64876626, 51.43619987],
+            [-2.66315138, 51.43611935],
+            [-2.66328165, 51.4451103]
+          ]
+        ]
+      },
+      "id": 2476,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1994,
+        "osgr_1km": "ST5471",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64736863, 51.33729818],
+            [-2.63301442, 51.33737666],
+            [-2.63289057, 51.32838549],
+            [-2.64724197, 51.32830704],
+            [-2.64736863, 51.33729818]
+          ]
+        ]
+      },
+      "id": 448,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2007,
+        "osgr_1km": "ST5559",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64863887, 51.42720888],
+            [-2.63425651, 51.42728761],
+            [-2.63413201, 51.41829658],
+            [-2.64851155, 51.41821787],
+            [-2.64863887, 51.42720888]
+          ]
+        ]
+      },
+      "id": 4871,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2003,
+        "osgr_1km": "ST5569",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64940417, 51.48115462],
+            [-2.63500485, 51.4812335],
+            [-2.63487997, 51.47224255],
+            [-2.64927646, 51.4721637],
+            [-2.64940417, 51.48115462]
+          ]
+        ]
+      },
+      "id": 4433,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST5575",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64953196, 51.49014552],
+            [-2.6351298, 51.49022443],
+            [-2.63500485, 51.4812335],
+            [-2.64940417, 51.48115462],
+            [-2.64953196, 51.49014552]
+          ]
+        ]
+      },
+      "id": 5876,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST5576",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.6496598, 51.49913642],
+            [-2.63525482, 51.49921535],
+            [-2.6351298, 51.49022443],
+            [-2.64953196, 51.49014552],
+            [-2.6496598, 51.49913642]
+          ]
+        ]
+      },
+      "id": 2971,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1990,
+        "osgr_1km": "ST5577",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64978772, 51.5081273],
+            [-2.6353799, 51.50820625],
+            [-2.63525482, 51.49921535],
+            [-2.6496598, 51.49913642],
+            [-2.64978772, 51.5081273]
+          ]
+        ]
+      },
+      "id": 2497,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1993,
+        "osgr_1km": "ST5578",
+        "data_provider_id": "dp116",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.63251938, 51.30141189],
+            [-2.61817632, 51.30148851],
+            [-2.61805552, 51.29249726],
+            [-2.63239578, 51.29242066],
+            [-2.63251938, 51.30141189]
+          ]
+        ]
+      },
+      "id": 127,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1987,
+        "osgr_1km": "ST5655",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.63351048, 51.37334121],
+            [-2.61914496, 51.37341803],
+            [-2.61902367, 51.36442689],
+            [-2.63338637, 51.36435009],
+            [-2.63351048, 51.37334121]
+          ]
+        ]
+      },
+      "id": 1976,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1996,
+        "osgr_1km": "ST5663",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.6353799, 51.50820625],
+            [-2.62097201, 51.50828344],
+            [-2.62084976, 51.49929251],
+            [-2.63525482, 51.49921535],
+            [-2.6353799, 51.50820625]
+          ]
+        ]
+      },
+      "id": 2241,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2010,
+        "osgr_1km": "ST5678",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.61841811, 51.31947098],
+            [-2.60406938, 51.31954589],
+            [-2.60395126, 51.31055464],
+            [-2.61829718, 51.31047975],
+            [-2.61841811, 51.31947098]
+          ]
+        ]
+      },
+      "id": 2594,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2014,
+        "osgr_1km": "ST5757",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.61853909, 51.32846219],
+            [-2.60418756, 51.32853713],
+            [-2.60406938, 51.31954589],
+            [-2.61841811, 51.31947098],
+            [-2.61853909, 51.32846219]
+          ]
+        ]
+      },
+      "id": 1275,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2010,
+        "osgr_1km": "ST5758",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.61866014, 51.33745338],
+            [-2.6043058, 51.33752835],
+            [-2.60418756, 51.32853713],
+            [-2.61853909, 51.32846219],
+            [-2.61866014, 51.33745338]
+          ]
+        ]
+      },
+      "id": 5939,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2009,
+        "osgr_1km": "ST5759",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.61878125, 51.34644457],
+            [-2.60442411, 51.34651955],
+            [-2.6043058, 51.33752835],
+            [-2.61866014, 51.33745338],
+            [-2.61878125, 51.34644457]
+          ]
+        ]
+      },
+      "id": 1904,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2011,
+        "osgr_1km": "ST5760",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.61902367, 51.36442689],
+            [-2.60466089, 51.36450192],
+            [-2.60454247, 51.35551075],
+            [-2.61890243, 51.35543573],
+            [-2.61902367, 51.36442689]
+          ]
+        ]
+      },
+      "id": 6197,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2005,
+        "osgr_1km": "ST5762",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.61914496, 51.37341803],
+            [-2.60477938, 51.37349309],
+            [-2.60466089, 51.36450192],
+            [-2.61902367, 51.36442689],
+            [-2.61914496, 51.37341803]
+          ]
+        ]
+      },
+      "id": 5920,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST5763",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.6038332, 51.30156338],
+            [-2.58949002, 51.30163649],
+            [-2.58937482, 51.29264519],
+            [-2.6037152, 51.2925721],
+            [-2.6038332, 51.30156338]
+          ]
+        ]
+      },
+      "id": 998,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1996,
+        "osgr_1km": "ST5855",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.60584852, 51.45441293],
+            [-2.5914575, 51.45448644],
+            [-2.59134128, 51.44549538],
+            [-2.60572948, 51.4454219],
+            [-2.60584852, 51.45441293]
+          ]
+        ]
+      },
+      "id": 2925,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2016,
+        "osgr_1km": "ST5872",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.60644465, 51.49936791],
+            [-2.59203947, 51.49944154],
+            [-2.59192296, 51.49045055],
+            [-2.6063253, 51.49037694],
+            [-2.60644465, 51.49936791]
+          ]
+        ]
+      },
+      "id": 2120,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2013,
+        "osgr_1km": "ST5877",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.57570963, 51.34666425],
+            [-2.5613523, 51.34673395],
+            [-2.56124242, 51.33774268],
+            [-2.57559694, 51.33767299],
+            [-2.57570963, 51.34666425]
+          ]
+        ]
+      },
+      "id": 3062,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2015,
+        "osgr_1km": "ST6060",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.57695303, 51.4455671],
+            [-2.56256471, 51.44563705],
+            [-2.5624542, 51.43664593],
+            [-2.5768397, 51.436576],
+            [-2.57695303, 51.4455671]
+          ]
+        ]
+      },
+      "id": 3088,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2009,
+        "osgr_1km": "ST6071",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.56168227, 51.3737077],
+            [-2.54731645, 51.37377571],
+            [-2.54720922, 51.36478446],
+            [-2.56157222, 51.36471646],
+            [-2.56168227, 51.3737077]
+          ]
+        ]
+      },
+      "id": 2813,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2001,
+        "osgr_1km": "ST6163",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.56179238, 51.38269891],
+            [-2.54742374, 51.38276695],
+            [-2.54731645, 51.37377571],
+            [-2.56168227, 51.3737077],
+            [-2.56179238, 51.38269891]
+          ]
+        ]
+      },
+      "id": 3284,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2019,
+        "osgr_1km": "ST6164",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.56267527, 51.45462816],
+            [-2.54828407, 51.45469637],
+            [-2.54817633, 51.44570524],
+            [-2.56256471, 51.44563705],
+            [-2.56267527, 51.45462816]
+          ]
+        ]
+      },
+      "id": 5368,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST6172",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5630073, 51.48160139],
+            [-2.54860761, 51.48166967],
+            [-2.54849971, 51.47267858],
+            [-2.56289656, 51.47261033],
+            [-2.5630073, 51.48160139]
+          ]
+        ]
+      },
+      "id": 1799,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2012,
+        "osgr_1km": "ST6175",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.56311809, 51.49059244],
+            [-2.54871557, 51.49066074],
+            [-2.54860761, 51.48166967],
+            [-2.5630073, 51.48160139],
+            [-2.56311809, 51.49059244]
+          ]
+        ]
+      },
+      "id": 2947,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1997,
+        "osgr_1km": "ST6176",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.56322894, 51.49958348],
+            [-2.54882358, 51.4996518],
+            [-2.54871557, 51.49066074],
+            [-2.56311809, 51.49059244],
+            [-2.56322894, 51.49958348]
+          ]
+        ]
+      },
+      "id": 2579,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1998,
+        "osgr_1km": "ST6177",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54731645, 51.37377571],
+            [-2.53295058, 51.37384196],
+            [-2.53284615, 51.36485069],
+            [-2.54720922, 51.36478446],
+            [-2.54731645, 51.37377571]
+          ]
+        ]
+      },
+      "id": 3027,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1997,
+        "osgr_1km": "ST6263",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54742374, 51.38276695],
+            [-2.53305505, 51.38283322],
+            [-2.53295058, 51.37384196],
+            [-2.54731645, 51.37377571],
+            [-2.54742374, 51.38276695]
+          ]
+        ]
+      },
+      "id": 3472,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1998,
+        "osgr_1km": "ST6264",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54806865, 51.4367141],
+            [-2.53368304, 51.4367805],
+            [-2.53357824, 51.42778932],
+            [-2.54796103, 51.42772294],
+            [-2.54806865, 51.4367141]
+          ]
+        ]
+      },
+      "id": 1530,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6270",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54828407, 51.45469637],
+            [-2.53389281, 51.45476281],
+            [-2.5337879, 51.44577166],
+            [-2.54817633, 51.44570524],
+            [-2.54828407, 51.45469637]
+          ]
+        ]
+      },
+      "id": 5445,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2008,
+        "osgr_1km": "ST6272",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54839186, 51.46368748],
+            [-2.53399777, 51.46375395],
+            [-2.53389281, 51.45476281],
+            [-2.54828407, 51.45469637],
+            [-2.54839186, 51.46368748]
+          ]
+        ]
+      },
+      "id": 4240,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2012,
+        "osgr_1km": "ST6273",
+        "data_provider_id": "dp8",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54871557, 51.49066074],
+            [-2.53431299, 51.49072727],
+            [-2.53420786, 51.48173618],
+            [-2.54860761, 51.48166967],
+            [-2.54871557, 51.49066074]
+          ]
+        ]
+      },
+      "id": 4611,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST6276",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5492562, 51.53561589],
+            [-2.53483944, 51.53568253],
+            [-2.53473404, 51.5266915],
+            [-2.54914796, 51.52662489],
+            [-2.5492562, 51.53561589]
+          ]
+        ]
+      },
+      "id": 3239,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2014,
+        "osgr_1km": "ST6281",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5337879, 51.44577166],
+            [-2.51939941, 51.44583632],
+            [-2.51929738, 51.43684514],
+            [-2.53368304, 51.4367805],
+            [-2.5337879, 51.44577166]
+          ]
+        ]
+      },
+      "id": 1567,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2008,
+        "osgr_1km": "ST6371",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.53389281, 51.45476281],
+            [-2.5195015, 51.45482749],
+            [-2.51939941, 51.44583632],
+            [-2.5337879, 51.44577166],
+            [-2.53389281, 51.45476281]
+          ]
+        ]
+      },
+      "id": 5780,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST6372",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.53431299, 51.49072727],
+            [-2.51991036, 51.49079203],
+            [-2.51980806, 51.48180092],
+            [-2.53420786, 51.48173618],
+            [-2.53431299, 51.49072727]
+          ]
+        ]
+      },
+      "id": 3853,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1998,
+        "osgr_1km": "ST6376",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.53441817, 51.49971835],
+            [-2.52001271, 51.49978313],
+            [-2.51991036, 51.49079203],
+            [-2.53431299, 51.49072727],
+            [-2.53441817, 51.49971835]
+          ]
+        ]
+      },
+      "id": 5685,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST6377",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5346287, 51.51770047],
+            [-2.52021756, 51.51776529],
+            [-2.52011511, 51.50877422],
+            [-2.53452341, 51.50870942],
+            [-2.5346287, 51.51770047]
+          ]
+        ]
+      },
+      "id": 3530,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6379",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.53483944, 51.53568253],
+            [-2.52042263, 51.53574739],
+            [-2.52032007, 51.52675635],
+            [-2.53473404, 51.5266915],
+            [-2.53483944, 51.53568253]
+          ]
+        ]
+      },
+      "id": 5820,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2015,
+        "osgr_1km": "ST6381",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.51848304, 51.36491516],
+            [-2.50411987, 51.36497787],
+            [-2.50402112, 51.35598654],
+            [-2.51838148, 51.35592385],
+            [-2.51848304, 51.36491516]
+          ]
+        ]
+      },
+      "id": 1548,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2001,
+        "osgr_1km": "ST6462",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.51929738, 51.43684514],
+            [-2.50491167, 51.43690801],
+            [-2.50481252, 51.42791679],
+            [-2.51919541, 51.42785394],
+            [-2.51929738, 51.43684514]
+          ]
+        ]
+      },
+      "id": 2975,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1998,
+        "osgr_1km": "ST6470",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.51960363, 51.46381865],
+            [-2.50520944, 51.46388158],
+            [-2.50511013, 51.4548904],
+            [-2.5195015, 51.45482749],
+            [-2.51960363, 51.46381865]
+          ]
+        ]
+      },
+      "id": 1010,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1999,
+        "osgr_1km": "ST6473",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.52001271, 51.49978313],
+            [-2.50560719, 51.49984614],
+            [-2.50550768, 51.49085502],
+            [-2.51991036, 51.49079203],
+            [-2.52001271, 51.49978313]
+          ]
+        ]
+      },
+      "id": 7333,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2003,
+        "osgr_1km": "ST6477",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.52186408, 51.66162054],
+            [-2.50740731, 51.66168391],
+            [-2.50730686, 51.65269304],
+            [-2.52176077, 51.65262969],
+            [-2.52186408, 51.66162054]
+          ]
+        ]
+      },
+      "id": 1572,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6495",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50421866, 51.37396918],
+            [-2.48985263, 51.37403015],
+            [-2.48975665, 51.36503882],
+            [-2.50411987, 51.36497787],
+            [-2.50421866, 51.37396918]
+          ]
+        ]
+      },
+      "id": 5410,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1997,
+        "osgr_1km": "ST6563",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50441641, 51.39195178],
+            [-2.49004475, 51.39201278],
+            [-2.48994866, 51.38302148],
+            [-2.50431751, 51.38296049],
+            [-2.50441641, 51.39195178]
+          ]
+        ]
+      },
+      "id": 5838,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2011,
+        "osgr_1km": "ST6565",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50461436, 51.40993431],
+            [-2.49023706, 51.40999536],
+            [-2.49014088, 51.40100408],
+            [-2.50451536, 51.40094305],
+            [-2.50461436, 51.40993431]
+          ]
+        ]
+      },
+      "id": 5146,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2013,
+        "osgr_1km": "ST6567",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50471341, 51.41892556],
+            [-2.49033329, 51.41898662],
+            [-2.49023706, 51.40999536],
+            [-2.50461436, 51.40993431],
+            [-2.50471341, 51.41892556]
+          ]
+        ]
+      },
+      "id": 3357,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2001,
+        "osgr_1km": "ST6568",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50481252, 51.42791679],
+            [-2.49042957, 51.42797788],
+            [-2.49033329, 51.41898662],
+            [-2.50471341, 51.41892556],
+            [-2.50481252, 51.42791679]
+          ]
+        ]
+      },
+      "id": 2422,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2005,
+        "osgr_1km": "ST6569",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50580637, 51.51782834],
+            [-2.49139513, 51.51788962],
+            [-2.49129835, 51.50889851],
+            [-2.50570676, 51.50883725],
+            [-2.50580637, 51.51782834]
+          ]
+        ]
+      },
+      "id": 4414,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST6579",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.49042957, 51.42797788],
+            [-2.47604658, 51.4280372],
+            [-2.47595312, 51.41904593],
+            [-2.49033329, 51.41898662],
+            [-2.49042957, 51.42797788]
+          ]
+        ]
+      },
+      "id": 3984,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST6669",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.49149196, 51.52688072],
+            [-2.47707784, 51.52694025],
+            [-2.47698384, 51.51794914],
+            [-2.49139513, 51.51788962],
+            [-2.49149196, 51.52688072]
+          ]
+        ]
+      },
+      "id": 5456,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST6680",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.49158885, 51.53587181],
+            [-2.47717188, 51.53593136],
+            [-2.47707784, 51.52694025],
+            [-2.49149196, 51.52688072],
+            [-2.49158885, 51.53587181]
+          ]
+        ]
+      },
+      "id": 4143,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2008,
+        "osgr_1km": "ST6681",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.49168578, 51.54486288],
+            [-2.47726597, 51.54492244],
+            [-2.47717188, 51.53593136],
+            [-2.49158885, 51.53587181],
+            [-2.49168578, 51.54486288]
+          ]
+        ]
+      },
+      "id": 4375,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1998,
+        "osgr_1km": "ST6682",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.47464975, 51.29316666],
+            [-2.46030889, 51.29322394],
+            [-2.46021895, 51.28423245],
+            [-2.47455702, 51.28417518],
+            [-2.47464975, 51.29316666]
+          ]
+        ]
+      },
+      "id": 5908,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2014,
+        "osgr_1km": "ST6754",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.476796, 51.49996686],
+            [-2.46239033, 51.50002456],
+            [-2.46229932, 51.49103339],
+            [-2.47670215, 51.4909757],
+            [-2.476796, 51.49996686]
+          ]
+        ]
+      },
+      "id": 1376,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6777",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.4615729, 51.41910346],
+            [-2.44719264, 51.41915924],
+            [-2.44710487, 51.41016792],
+            [-2.46148231, 51.41011216],
+            [-2.4615729, 51.41910346]
+          ]
+        ]
+      },
+      "id": 3211,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2021,
+        "osgr_1km": "ST6868",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.46239033, 51.50002456],
+            [-2.44798462, 51.5000805],
+            [-2.44789644, 51.4910893],
+            [-2.46229932, 51.49103339],
+            [-2.46239033, 51.50002456]
+          ]
+        ]
+      },
+      "id": 2613,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6877",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.44596798, 51.29327947],
+            [-2.43162702, 51.29333324],
+            [-2.43154269, 51.28434171],
+            [-2.44588084, 51.28428795],
+            [-2.44596798, 51.29327947]
+          ]
+        ]
+      },
+      "id": 1663,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6954",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.44684183, 51.38319387],
+            [-2.43247279, 51.38324781],
+            [-2.43238802, 51.37425642],
+            [-2.44675424, 51.37420249],
+            [-2.44684183, 51.38319387]
+          ]
+        ]
+      },
+      "id": 3083,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST6964",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43323774, 51.46416973],
+            [-2.41884326, 51.46422206],
+            [-2.41876092, 51.45523078],
+            [-2.43315257, 51.45517846],
+            [-2.43323774, 51.46416973]
+          ]
+        ]
+      },
+      "id": 1411,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2016,
+        "osgr_1km": "ST7073",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43392069, 51.53609938],
+            [-2.41950353, 51.53615184],
+            [-2.41942085, 51.52716067],
+            [-2.43383516, 51.52710822],
+            [-2.43392069, 51.53609938]
+          ]
+        ]
+      },
+      "id": 1142,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2018,
+        "osgr_1km": "ST7081",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43409187, 51.55408165],
+            [-2.41966903, 51.55413415],
+            [-2.41958626, 51.545143],
+            [-2.43400625, 51.54509052],
+            [-2.43409187, 51.55408165]
+          ]
+        ]
+      },
+      "id": 1984,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1997,
+        "osgr_1km": "ST7083",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43426322, 51.57206386],
+            [-2.4198347, 51.5721164],
+            [-2.41975184, 51.56312528],
+            [-2.43417752, 51.56307276],
+            [-2.43426322, 51.57206386]
+          ]
+        ]
+      },
+      "id": 2994,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST7085",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41818571, 51.39229139],
+            [-2.40381377, 51.39234182],
+            [-2.40373459, 51.38335041],
+            [-2.41810371, 51.38329999],
+            [-2.41818571, 51.39229139]
+          ]
+        ]
+      },
+      "id": 2595,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2008,
+        "osgr_1km": "ST7165",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.4198347, 51.5721164],
+            [-2.40540612, 51.57216715],
+            [-2.40532611, 51.56317602],
+            [-2.41975184, 51.56312528],
+            [-2.4198347, 51.5721164]
+          ]
+        ]
+      },
+      "id": 5559,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1996,
+        "osgr_1km": "ST7185",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3745557, 51.32949701],
+            [-2.36020333, 51.32954205],
+            [-2.36013284, 51.3205505],
+            [-2.37448241, 51.32050546],
+            [-2.3745557, 51.32949701]
+          ]
+        ]
+      },
+      "id": 3847,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2022,
+        "osgr_1km": "ST7458",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37499622, 51.38344596],
+            [-2.36062698, 51.38349109],
+            [-2.36055628, 51.37449962],
+            [-2.37492271, 51.3744545],
+            [-2.37499622, 51.38344596]
+          ]
+        ]
+      },
+      "id": 3852,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2002,
+        "osgr_1km": "ST7464",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3758074, 51.48235107],
+            [-2.3614071, 51.48239637],
+            [-2.361336, 51.47340505],
+            [-2.37573347, 51.47335977],
+            [-2.3758074, 51.48235107]
+          ]
+        ]
+      },
+      "id": 2480,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2005,
+        "osgr_1km": "ST7475",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37669761, 51.59024564],
+            [-2.36226323, 51.5902911],
+            [-2.36219168, 51.58129995],
+            [-2.37662322, 51.5812545],
+            [-2.37669761, 51.59024564]
+          ]
+        ]
+      },
+      "id": 3044,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2008,
+        "osgr_1km": "ST7487",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36055628, 51.37449962],
+            [-2.34618981, 51.37454298],
+            [-2.34612196, 51.36555148],
+            [-2.36048561, 51.36550814],
+            [-2.36055628, 51.37449962]
+          ]
+        ]
+      },
+      "id": 1301,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2001,
+        "osgr_1km": "ST7563",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34605415, 51.35655996],
+            [-2.33169328, 51.35660153],
+            [-2.33162831, 51.34760999],
+            [-2.34598637, 51.34756844],
+            [-2.34605415, 51.35655996]
+          ]
+        ]
+      },
+      "id": 3013,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2013,
+        "osgr_1km": "ST7661",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3462577, 51.38353446],
+            [-2.33188839, 51.38357607],
+            [-2.33182332, 51.37458457],
+            [-2.34618981, 51.37454298],
+            [-2.3462577, 51.38353446]
+          ]
+        ]
+      },
+      "id": 3931,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST7664",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34639358, 51.40151739],
+            [-2.33201863, 51.40155903],
+            [-2.33195349, 51.39256756],
+            [-2.34632562, 51.39252594],
+            [-2.34639358, 51.40151739]
+          ]
+        ]
+      },
+      "id": 1373,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2000,
+        "osgr_1km": "ST7666",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3320838, 51.41055049],
+            [-2.317706, 51.41059037],
+            [-2.31764365, 51.4015989],
+            [-2.33201863, 51.40155903],
+            [-2.3320838, 51.41055049]
+          ]
+        ]
+      },
+      "id": 2830,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST7767",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.332149, 51.41954193],
+            [-2.31776838, 51.41958183],
+            [-2.317706, 51.41059037],
+            [-2.3320838, 51.41055049],
+            [-2.332149, 51.41954193]
+          ]
+        ]
+      },
+      "id": 3254,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2005,
+        "osgr_1km": "ST7768",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33247554, 51.46449894],
+            [-2.31808079, 51.4645389],
+            [-2.31801824, 51.45554751],
+            [-2.33241016, 51.45550756],
+            [-2.33247554, 51.46449894]
+          ]
+        ]
+      },
+      "id": 1278,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2017,
+        "osgr_1km": "ST7773",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30285276, 51.33869624],
+            [-2.28849741, 51.33873251],
+            [-2.28844093, 51.3297409],
+            [-2.30279348, 51.32970465],
+            [-2.30285276, 51.33869624]
+          ]
+        ]
+      },
+      "id": 6587,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST7959",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30291208, 51.34768782],
+            [-2.28855392, 51.3477241],
+            [-2.28849741, 51.33873251],
+            [-2.30285276, 51.33869624],
+            [-2.30291208, 51.34768782]
+          ]
+        ]
+      },
+      "id": 2790,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST7960",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30314966, 51.383654],
+            [-2.28878025, 51.38369033],
+            [-2.28872362, 51.37469879],
+            [-2.30309022, 51.37466248],
+            [-2.30314966, 51.383654]
+          ]
+        ]
+      },
+      "id": 3623,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 2004,
+        "osgr_1km": "ST7964",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30326863, 51.40163701],
+            [-2.28889359, 51.40167336],
+            [-2.2888369, 51.39268185],
+            [-2.30320913, 51.39264551],
+            [-2.30326863, 51.40163701]
+          ]
+        ]
+      },
+      "id": 519,
+      "properties": {
+        "species": "Daubenton's Bat",
+        "year": 1985,
+        "osgr_1km": "ST7966",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    }
+  ]
 }

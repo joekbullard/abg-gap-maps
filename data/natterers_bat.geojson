@@ -1,2399 +1,1454 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.86267318,
-                            51.33590995
-                        ],
-                        [
-                            -2.8483201,
-                            51.3360148
-                        ],
-                        [
-                            -2.84815414,
-                            51.32702407
-                        ],
-                        [
-                            -2.86250442,
-                            51.32691924
-                        ],
-                        [
-                            -2.86267318,
-                            51.33590995
-                        ]
-                    ]
-                ]
-            },
-            "id": 110,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": null,
-                "osgr_1km": "ST4059",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83364072,
-                            51.31813635
-                        ],
-                        [
-                            -2.81929308,
-                            51.31823763
-                        ],
-                        [
-                            -2.8191329,
-                            51.3092468
-                        ],
-                        [
-                            -2.83347774,
-                            51.30914555
-                        ],
-                        [
-                            -2.83364072,
-                            51.31813635
-                        ]
-                    ]
-                ]
-            },
-            "id": 1588,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4257",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83396693,
-                            51.33611791
-                        ],
-                        [
-                            -2.81961368,
-                            51.33621925
-                        ],
-                        [
-                            -2.81945334,
-                            51.32722845
-                        ],
-                        [
-                            -2.83380378,
-                            51.32712714
-                        ],
-                        [
-                            -2.83396693,
-                            51.33611791
-                        ]
-                    ]
-                ]
-            },
-            "id": 280,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1991,
-                "osgr_1km": "ST4259",
-                "data_provider_id": "dp83",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.8359313,
-                            51.44400603
-                        ],
-                        [
-                            -2.82154426,
-                            51.44410776
-                        ],
-                        [
-                            -2.82138292,
-                            51.43511713
-                        ],
-                        [
-                            -2.83576714,
-                            51.43501543
-                        ],
-                        [
-                            -2.8359313,
-                            51.44400603
-                        ]
-                    ]
-                ]
-            },
-            "id": 775,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2005,
-                "osgr_1km": "ST4271",
-                "data_provider_id": "dp116",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.83625988,
-                            51.46198719
-                        ],
-                        [
-                            -2.82186719,
-                            51.46208898
-                        ],
-                        [
-                            -2.82170569,
-                            51.45309838
-                        ],
-                        [
-                            -2.83609555,
-                            51.45299662
-                        ],
-                        [
-                            -2.83625988,
-                            51.46198719
-                        ]
-                    ]
-                ]
-            },
-            "id": 5729,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2013,
-                "osgr_1km": "ST4273",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.82041663,
-                            51.38117305
-                        ],
-                        [
-                            -2.80604925,
-                            51.38127279
-                        ],
-                        [
-                            -2.80589131,
-                            51.37228203
-                        ],
-                        [
-                            -2.82025588,
-                            51.37218231
-                        ],
-                        [
-                            -2.82041663,
-                            51.38117305
-                        ]
-                    ]
-                ]
-            },
-            "id": 1941,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4364",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ],
-                        [
-                            -2.79183699,
-                            51.39036155
-                        ],
-                        [
-                            -2.79168178,
-                            51.38137077
-                        ],
-                        [
-                            -2.80604925,
-                            51.38127279
-                        ],
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ]
-                    ]
-                ]
-            },
-            "id": 4535,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2022,
-                "osgr_1km": "ST4465",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.80636538,
-                            51.39925427
-                        ],
-                        [
-                            -2.79199228,
-                            51.39935232
-                        ],
-                        [
-                            -2.79183699,
-                            51.39036155
-                        ],
-                        [
-                            -2.80620727,
-                            51.39026354
-                        ],
-                        [
-                            -2.80636538,
-                            51.39925427
-                        ]
-                    ]
-                ]
-            },
-            "id": 3673,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2021,
-                "osgr_1km": "ST4466",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79075221,
-                            51.32742579
-                        ],
-                        [
-                            -2.77640152,
-                            51.32752183
-                        ],
-                        [
-                            -2.77624967,
-                            51.31853092
-                        ],
-                        [
-                            -2.79059756,
-                            51.31843491
-                        ],
-                        [
-                            -2.79075221,
-                            51.32742579
-                        ]
-                    ]
-                ]
-            },
-            "id": 408,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1984,
-                "osgr_1km": "ST4558",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79090693,
-                            51.33641666
-                        ],
-                        [
-                            -2.77655344,
-                            51.33651272
-                        ],
-                        [
-                            -2.77640152,
-                            51.32752183
-                        ],
-                        [
-                            -2.79075221,
-                            51.32742579
-                        ],
-                        [
-                            -2.79090693,
-                            51.33641666
-                        ]
-                    ]
-                ]
-            },
-            "id": 106,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1988,
-                "osgr_1km": "ST4559",
-                "data_provider_id": "dp116",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79106174,
-                            51.34540751
-                        ],
-                        [
-                            -2.77670544,
-                            51.3455036
-                        ],
-                        [
-                            -2.77655344,
-                            51.33651272
-                        ],
-                        [
-                            -2.79090693,
-                            51.33641666
-                        ],
-                        [
-                            -2.79106174,
-                            51.34540751
-                        ]
-                    ]
-                ]
-            },
-            "id": 3666,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4560",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79199228,
-                            51.39935232
-                        ],
-                        [
-                            -2.7776191,
-                            51.3994486
-                        ],
-                        [
-                            -2.77746663,
-                            51.3904578
-                        ],
-                        [
-                            -2.79183699,
-                            51.39036155
-                        ],
-                        [
-                            -2.79199228,
-                            51.39935232
-                        ]
-                    ]
-                ]
-            },
-            "id": 4718,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2021,
-                "osgr_1km": "ST4566",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79245863,
-                            51.42632453
-                        ],
-                        [
-                            -2.778077,
-                            51.4264209
-                        ],
-                        [
-                            -2.77792429,
-                            51.41743015
-                        ],
-                        [
-                            -2.7923031,
-                            51.4173338
-                        ],
-                        [
-                            -2.79245863,
-                            51.42632453
-                        ]
-                    ]
-                ]
-            },
-            "id": 1400,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2002,
-                "osgr_1km": "ST4569",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.79339352,
-                            51.48026857
-                        ],
-                        [
-                            -2.77899492,
-                            51.48036513
-                        ],
-                        [
-                            -2.77884174,
-                            51.47137446
-                        ],
-                        [
-                            -2.7932375,
-                            51.47127793
-                        ],
-                        [
-                            -2.79339352,
-                            51.48026857
-                        ]
-                    ]
-                ]
-            },
-            "id": 4035,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2013,
-                "osgr_1km": "ST4575",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.76205075,
-                            51.3276161
-                        ],
-                        [
-                            -2.74769991,
-                            51.32770862
-                        ],
-                        [
-                            -2.74755367,
-                            51.31871765
-                        ],
-                        [
-                            -2.76190171,
-                            51.31862516
-                        ],
-                        [
-                            -2.76205075,
-                            51.3276161
-                        ]
-                    ]
-                ]
-            },
-            "id": 76,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2007,
-                "osgr_1km": "ST4758",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.76264768,
-                            51.36357972
-                        ],
-                        [
-                            -2.7482856,
-                            51.36367236
-                        ],
-                        [
-                            -2.74813907,
-                            51.35468145
-                        ],
-                        [
-                            -2.76249833,
-                            51.35458884
-                        ],
-                        [
-                            -2.76264768,
-                            51.36357972
-                        ]
-                    ]
-                ]
-            },
-            "id": 2240,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST4762",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.74843221,
-                            51.37266326
-                        ],
-                        [
-                            -2.73406725,
-                            51.37275417
-                        ],
-                        [
-                            -2.73392345,
-                            51.36376324
-                        ],
-                        [
-                            -2.7482856,
-                            51.36367236
-                        ],
-                        [
-                            -2.74843221,
-                            51.37266326
-                        ]
-                    ]
-                ]
-            },
-            "id": 2087,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2014,
-                "osgr_1km": "ST4863",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.7344991,
-                            51.39972687
-                        ],
-                        [
-                            -2.72012561,
-                            51.3998161
-                        ],
-                        [
-                            -2.7199844,
-                            51.39082518
-                        ],
-                        [
-                            -2.73435507,
-                            51.39073598
-                        ],
-                        [
-                            -2.7344991,
-                            51.39972687
-                        ]
-                    ]
-                ]
-            },
-            "id": 459,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1986,
-                "osgr_1km": "ST4966",
-                "data_provider_id": "dp83",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.67727044,
-                            51.41805517
-                        ],
-                        [
-                            -2.66289103,
-                            51.4181374
-                        ],
-                        [
-                            -2.66276095,
-                            51.40914641
-                        ],
-                        [
-                            -2.67713754,
-                            51.4090642
-                        ],
-                        [
-                            -2.67727044,
-                            51.41805517
-                        ]
-                    ]
-                ]
-            },
-            "id": 3807,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1989,
-                "osgr_1km": "ST5368",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.6774034,
-                            51.42704612
-                        ],
-                        [
-                            -2.66302117,
-                            51.42712838
-                        ],
-                        [
-                            -2.66289103,
-                            51.4181374
-                        ],
-                        [
-                            -2.67727044,
-                            51.41805517
-                        ],
-                        [
-                            -2.6774034,
-                            51.42704612
-                        ]
-                    ]
-                ]
-            },
-            "id": 4567,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST5369",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.66328165,
-                            51.4451103
-                        ],
-                        [
-                            -2.64889371,
-                            51.44519085
-                        ],
-                        [
-                            -2.64876626,
-                            51.43619987
-                        ],
-                        [
-                            -2.66315138,
-                            51.43611935
-                        ],
-                        [
-                            -2.66328165,
-                            51.4451103
-                        ]
-                    ]
-                ]
-            },
-            "id": 5714,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2004,
-                "osgr_1km": "ST5471",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.66341199,
-                            51.45410124
-                        ],
-                        [
-                            -2.64902122,
-                            51.45418181
-                        ],
-                        [
-                            -2.64889371,
-                            51.44519085
-                        ],
-                        [
-                            -2.66328165,
-                            51.4451103
-                        ],
-                        [
-                            -2.66341199,
-                            51.45410124
-                        ]
-                    ]
-                ]
-            },
-            "id": 4855,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2009,
-                "osgr_1km": "ST5472",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.66393404,
-                            51.49006485
-                        ],
-                        [
-                            -2.64953196,
-                            51.49014552
-                        ],
-                        [
-                            -2.64940417,
-                            51.48115462
-                        ],
-                        [
-                            -2.66380343,
-                            51.48107397
-                        ],
-                        [
-                            -2.66393404,
-                            51.49006485
-                        ]
-                    ]
-                ]
-            },
-            "id": 5218,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2011,
-                "osgr_1km": "ST5476",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.64927646,
-                            51.4721637
-                        ],
-                        [
-                            -2.63487997,
-                            51.47224255
-                        ],
-                        [
-                            -2.63475514,
-                            51.46325159
-                        ],
-                        [
-                            -2.64914881,
-                            51.46317276
-                        ],
-                        [
-                            -2.64927646,
-                            51.4721637
-                        ]
-                    ]
-                ]
-            },
-            "id": 1837,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2013,
-                "osgr_1km": "ST5574",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.63475514,
-                            51.46325159
-                        ],
-                        [
-                            -2.62036142,
-                            51.46332866
-                        ],
-                        [
-                            -2.62023949,
-                            51.45433766
-                        ],
-                        [
-                            -2.63463039,
-                            51.45426062
-                        ],
-                        [
-                            -2.63475514,
-                            51.46325159
-                        ]
-                    ]
-                ]
-            },
-            "id": 1433,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1993,
-                "osgr_1km": "ST5673",
-                "data_provider_id": "dp116",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.57570963,
-                            51.34666425
-                        ],
-                        [
-                            -2.5613523,
-                            51.34673395
-                        ],
-                        [
-                            -2.56124242,
-                            51.33774268
-                        ],
-                        [
-                            -2.57559694,
-                            51.33767299
-                        ],
-                        [
-                            -2.57570963,
-                            51.34666425
-                        ]
-                    ]
-                ]
-            },
-            "id": 3538,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2013,
-                "osgr_1km": "ST6060",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.57695303,
-                            51.4455671
-                        ],
-                        [
-                            -2.56256471,
-                            51.44563705
-                        ],
-                        [
-                            -2.5624542,
-                            51.43664593
-                        ],
-                        [
-                            -2.5768397,
-                            51.436576
-                        ],
-                        [
-                            -2.57695303,
-                            51.4455671
-                        ]
-                    ]
-                ]
-            },
-            "id": 3667,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2013,
-                "osgr_1km": "ST6071",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5613523,
-                            51.34673395
-                        ],
-                        [
-                            -2.54699491,
-                            51.3468019
-                        ],
-                        [
-                            -2.54688784,
-                            51.33781061
-                        ],
-                        [
-                            -2.56124242,
-                            51.33774268
-                        ],
-                        [
-                            -2.5613523,
-                            51.34673395
-                        ]
-                    ]
-                ]
-            },
-            "id": 488,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2019,
-                "osgr_1km": "ST6160",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.56168227,
-                            51.3737077
-                        ],
-                        [
-                            -2.54731645,
-                            51.37377571
-                        ],
-                        [
-                            -2.54720922,
-                            51.36478446
-                        ],
-                        [
-                            -2.56157222,
-                            51.36471646
-                        ],
-                        [
-                            -2.56168227,
-                            51.3737077
-                        ]
-                    ]
-                ]
-            },
-            "id": 5173,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2003,
-                "osgr_1km": "ST6163",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5641178,
-                            51.57151126
-                        ],
-                        [
-                            -2.54968972,
-                            51.57157976
-                        ],
-                        [
-                            -2.54958126,
-                            51.56258881
-                        ],
-                        [
-                            -2.56400649,
-                            51.56252034
-                        ],
-                        [
-                            -2.5641178,
-                            51.57151126
-                        ]
-                    ]
-                ]
-            },
-            "id": 4270,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2014,
-                "osgr_1km": "ST6185",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54710204,
-                            51.35579319
-                        ],
-                        [
-                            -2.53274179,
-                            51.3558594
-                        ],
-                        [
-                            -2.53263747,
-                            51.34686809
-                        ],
-                        [
-                            -2.54699491,
-                            51.3468019
-                        ],
-                        [
-                            -2.54710204,
-                            51.35579319
-                        ]
-                    ]
-                ]
-            },
-            "id": 4208,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2020,
-                "osgr_1km": "ST6261",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54806865,
-                            51.4367141
-                        ],
-                        [
-                            -2.53368304,
-                            51.4367805
-                        ],
-                        [
-                            -2.53357824,
-                            51.42778932
-                        ],
-                        [
-                            -2.54796103,
-                            51.42772294
-                        ],
-                        [
-                            -2.54806865,
-                            51.4367141
-                        ]
-                    ]
-                ]
-            },
-            "id": 5847,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6270",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.54990682,
-                            51.58956161
-                        ],
-                        [
-                            -2.53547299,
-                            51.58962837
-                        ],
-                        [
-                            -2.53536727,
-                            51.58063743
-                        ],
-                        [
-                            -2.54979824,
-                            51.58057069
-                        ],
-                        [
-                            -2.54990682,
-                            51.58956161
-                        ]
-                    ]
-                ]
-            },
-            "id": 1898,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1997,
-                "osgr_1km": "ST6287",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.53431299,
-                            51.49072727
-                        ],
-                        [
-                            -2.51991036,
-                            51.49079203
-                        ],
-                        [
-                            -2.51980806,
-                            51.48180092
-                        ],
-                        [
-                            -2.53420786,
-                            51.48173618
-                        ],
-                        [
-                            -2.53431299,
-                            51.49072727
-                        ]
-                    ]
-                ]
-            },
-            "id": 6028,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1966,
-                "osgr_1km": "ST6376",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5346287,
-                            51.51770047
-                        ],
-                        [
-                            -2.52021756,
-                            51.51776529
-                        ],
-                        [
-                            -2.52011511,
-                            51.50877422
-                        ],
-                        [
-                            -2.53452341,
-                            51.50870942
-                        ],
-                        [
-                            -2.5346287,
-                            51.51770047
-                        ]
-                    ]
-                ]
-            },
-            "id": 2817,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6379",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.51878802,
-                            51.391889
-                        ],
-                        [
-                            -2.50441641,
-                            51.39195178
-                        ],
-                        [
-                            -2.50431751,
-                            51.38296049
-                        ],
-                        [
-                            -2.51868631,
-                            51.38289774
-                        ],
-                        [
-                            -2.51878802,
-                            51.391889
-                        ]
-                    ]
-                ]
-            },
-            "id": 230,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1984,
-                "osgr_1km": "ST6465",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.51888979,
-                            51.40088026
-                        ],
-                        [
-                            -2.50451536,
-                            51.40094305
-                        ],
-                        [
-                            -2.50441641,
-                            51.39195178
-                        ],
-                        [
-                            -2.51878802,
-                            51.391889
-                        ],
-                        [
-                            -2.51888979,
-                            51.40088026
-                        ]
-                    ]
-                ]
-            },
-            "id": 3903,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2015,
-                "osgr_1km": "ST6466",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.52001271,
-                            51.49978313
-                        ],
-                        [
-                            -2.50560719,
-                            51.49984614
-                        ],
-                        [
-                            -2.50550768,
-                            51.49085502
-                        ],
-                        [
-                            -2.51991036,
-                            51.49079203
-                        ],
-                        [
-                            -2.52001271,
-                            51.49978313
-                        ]
-                    ]
-                ]
-            },
-            "id": 697,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2002,
-                "osgr_1km": "ST6477",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50471341,
-                            51.41892556
-                        ],
-                        [
-                            -2.49033329,
-                            51.41898662
-                        ],
-                        [
-                            -2.49023706,
-                            51.40999536
-                        ],
-                        [
-                            -2.50461436,
-                            51.40993431
-                        ],
-                        [
-                            -2.50471341,
-                            51.41892556
-                        ]
-                    ]
-                ]
-            },
-            "id": 3362,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1989,
-                "osgr_1km": "ST6568",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.50580637,
-                            51.51782834
-                        ],
-                        [
-                            -2.49139513,
-                            51.51788962
-                        ],
-                        [
-                            -2.49129835,
-                            51.50889851
-                        ],
-                        [
-                            -2.50570676,
-                            51.50883725
-                        ],
-                        [
-                            -2.50580637,
-                            51.51782834
-                        ]
-                    ]
-                ]
-            },
-            "id": 4628,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2014,
-                "osgr_1km": "ST6579",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.49004475,
-                            51.39201278
-                        ],
-                        [
-                            -2.47567303,
-                            51.39207203
-                        ],
-                        [
-                            -2.47557977,
-                            51.3830807
-                        ],
-                        [
-                            -2.48994866,
-                            51.38302148
-                        ],
-                        [
-                            -2.49004475,
-                            51.39201278
-                        ]
-                    ]
-                ]
-            },
-            "id": 5269,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2023,
-                "osgr_1km": "ST6665",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.476796,
-                            51.49996686
-                        ],
-                        [
-                            -2.46239033,
-                            51.50002456
-                        ],
-                        [
-                            -2.46229932,
-                            51.49103339
-                        ],
-                        [
-                            -2.47670215,
-                            51.4909757
-                        ],
-                        [
-                            -2.476796,
-                            51.49996686
-                        ]
-                    ]
-                ]
-            },
-            "id": 1314,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6777",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.46148231,
-                            51.41011216
-                        ],
-                        [
-                            -2.44710487,
-                            51.41016792
-                        ],
-                        [
-                            -2.44701714,
-                            51.40117658
-                        ],
-                        [
-                            -2.46139177,
-                            51.40112084
-                        ],
-                        [
-                            -2.46148231,
-                            51.41011216
-                        ]
-                    ]
-                ]
-            },
-            "id": 3205,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2018,
-                "osgr_1km": "ST6867",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.46239033,
-                            51.50002456
-                        ],
-                        [
-                            -2.44798462,
-                            51.5000805
-                        ],
-                        [
-                            -2.44789644,
-                            51.4910893
-                        ],
-                        [
-                            -2.46229932,
-                            51.49103339
-                        ],
-                        [
-                            -2.46239033,
-                            51.50002456
-                        ]
-                    ]
-                ]
-            },
-            "id": 3264,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6877",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.44596798,
-                            51.29327947
-                        ],
-                        [
-                            -2.43162702,
-                            51.29333324
-                        ],
-                        [
-                            -2.43154269,
-                            51.28434171
-                        ],
-                        [
-                            -2.44588084,
-                            51.28428795
-                        ],
-                        [
-                            -2.44596798,
-                            51.29327947
-                        ]
-                    ]
-                ]
-            },
-            "id": 2526,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6954",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.4478083,
-                            51.4820981
-                        ],
-                        [
-                            -2.43340821,
-                            51.48215223
-                        ],
-                        [
-                            -2.43332295,
-                            51.47316099
-                        ],
-                        [
-                            -2.44772021,
-                            51.47310687
-                        ],
-                        [
-                            -2.4478083,
-                            51.4820981
-                        ]
-                    ]
-                ]
-            },
-            "id": 6579,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2020,
-                "osgr_1km": "ST6975",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.43426322,
-                            51.57206386
-                        ],
-                        [
-                            -2.4198347,
-                            51.5721164
-                        ],
-                        [
-                            -2.41975184,
-                            51.56312528
-                        ],
-                        [
-                            -2.43417752,
-                            51.56307276
-                        ],
-                        [
-                            -2.43426322,
-                            51.57206386
-                        ]
-                    ]
-                ]
-            },
-            "id": 2842,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST7085",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.41975184,
-                            51.56312528
-                        ],
-                        [
-                            -2.40532611,
-                            51.56317602
-                        ],
-                        [
-                            -2.40524615,
-                            51.55418487
-                        ],
-                        [
-                            -2.41966903,
-                            51.55413415
-                        ],
-                        [
-                            -2.41975184,
-                            51.56312528
-                        ]
-                    ]
-                ]
-            },
-            "id": 1741,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2020,
-                "osgr_1km": "ST7184",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.38928909,
-                            51.37440762
-                        ],
-                        [
-                            -2.37492271,
-                            51.3744545
-                        ],
-                        [
-                            -2.37484923,
-                            51.36546303
-                        ],
-                        [
-                            -2.3892128,
-                            51.36541617
-                        ],
-                        [
-                            -2.38928909,
-                            51.37440762
-                        ]
-                    ]
-                ]
-            },
-            "id": 947,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1998,
-                "osgr_1km": "ST7363",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37506977,
-                            51.3924374
-                        ],
-                        [
-                            -2.36069772,
-                            51.39248255
-                        ],
-                        [
-                            -2.36062698,
-                            51.38349109
-                        ],
-                        [
-                            -2.37499622,
-                            51.38344596
-                        ],
-                        [
-                            -2.37506977,
-                            51.3924374
-                        ]
-                    ]
-                ]
-            },
-            "id": 3976,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2019,
-                "osgr_1km": "ST7465",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37514336,
-                            51.40142883
-                        ],
-                        [
-                            -2.36076849,
-                            51.401474
-                        ],
-                        [
-                            -2.36069772,
-                            51.39248255
-                        ],
-                        [
-                            -2.37506977,
-                            51.3924374
-                        ],
-                        [
-                            -2.37514336,
-                            51.40142883
-                        ]
-                    ]
-                ]
-            },
-            "id": 338,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1998,
-                "osgr_1km": "ST7466",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37521699,
-                            51.41042025
-                        ],
-                        [
-                            -2.3608393,
-                            51.41046543
-                        ],
-                        [
-                            -2.36076849,
-                            51.401474
-                        ],
-                        [
-                            -2.37514336,
-                            51.40142883
-                        ],
-                        [
-                            -2.37521699,
-                            51.41042025
-                        ]
-                    ]
-                ]
-            },
-            "id": 970,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2018,
-                "osgr_1km": "ST7467",
-                "data_provider_id": "dp57",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ],
-                        [
-                            -2.36226323,
-                            51.5902911
-                        ],
-                        [
-                            -2.36219168,
-                            51.58129995
-                        ],
-                        [
-                            -2.37662322,
-                            51.5812545
-                        ],
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ]
-                    ]
-                ]
-            },
-            "id": 6041,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2007,
-                "osgr_1km": "ST7487",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37677205,
-                            51.59923676
-                        ],
-                        [
-                            -2.36233481,
-                            51.59928224
-                        ],
-                        [
-                            -2.36226323,
-                            51.5902911
-                        ],
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ],
-                        [
-                            -2.37677205,
-                            51.59923676
-                        ]
-                    ]
-                ]
-            },
-            "id": 5826,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2011,
-                "osgr_1km": "ST7488",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.36048561,
-                            51.36550814
-                        ],
-                        [
-                            -2.34612196,
-                            51.36555148
-                        ],
-                        [
-                            -2.34605415,
-                            51.35655996
-                        ],
-                        [
-                            -2.36041499,
-                            51.35651664
-                        ],
-                        [
-                            -2.36048561,
-                            51.36550814
-                        ]
-                    ]
-                ]
-            },
-            "id": 2768,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2015,
-                "osgr_1km": "ST7562",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ],
-                        [
-                            -2.34618981,
-                            51.37454298
-                        ],
-                        [
-                            -2.34612196,
-                            51.36555148
-                        ],
-                        [
-                            -2.36048561,
-                            51.36550814
-                        ],
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ]
-                    ]
-                ]
-            },
-            "id": 2486,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2001,
-                "osgr_1km": "ST7563",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.36062698,
-                            51.38349109
-                        ],
-                        [
-                            -2.3462577,
-                            51.38353446
-                        ],
-                        [
-                            -2.34618981,
-                            51.37454298
-                        ],
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ],
-                        [
-                            -2.36062698,
-                            51.38349109
-                        ]
-                    ]
-                ]
-            },
-            "id": 5806,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1998,
-                "osgr_1km": "ST7564",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.34612196,
-                            51.36555148
-                        ],
-                        [
-                            -2.33175828,
-                            51.36559306
-                        ],
-                        [
-                            -2.33169328,
-                            51.35660153
-                        ],
-                        [
-                            -2.34605415,
-                            51.35655996
-                        ],
-                        [
-                            -2.34612196,
-                            51.36555148
-                        ]
-                    ]
-                ]
-            },
-            "id": 48,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1985,
-                "osgr_1km": "ST7662",
-                "data_provider_id": "dp83",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.33175828,
-                            51.36559306
-                        ],
-                        [
-                            -2.31739456,
-                            51.36563288
-                        ],
-                        [
-                            -2.31733237,
-                            51.35664134
-                        ],
-                        [
-                            -2.33169328,
-                            51.35660153
-                        ],
-                        [
-                            -2.33175828,
-                            51.36559306
-                        ]
-                    ]
-                ]
-            },
-            "id": 71,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1985,
-                "osgr_1km": "ST7762",
-                "data_provider_id": "dp83",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.3320838,
-                            51.41055049
-                        ],
-                        [
-                            -2.317706,
-                            51.41059037
-                        ],
-                        [
-                            -2.31764365,
-                            51.4015989
-                        ],
-                        [
-                            -2.33201863,
-                            51.40155903
-                        ],
-                        [
-                            -2.3320838,
-                            51.41055049
-                        ]
-                    ]
-                ]
-            },
-            "id": 120,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1984,
-                "osgr_1km": "ST7767",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.33247554,
-                            51.46449894
-                        ],
-                        [
-                            -2.31808079,
-                            51.4645389
-                        ],
-                        [
-                            -2.31801824,
-                            51.45554751
-                        ],
-                        [
-                            -2.33241016,
-                            51.45550756
-                        ],
-                        [
-                            -2.33247554,
-                            51.46449894
-                        ]
-                    ]
-                ]
-            },
-            "id": 1369,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2017,
-                "osgr_1km": "ST7773",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.31745678,
-                            51.37462441
-                        ],
-                        [
-                            -2.30309022,
-                            51.37466248
-                        ],
-                        [
-                            -2.30303081,
-                            51.36567094
-                        ],
-                        [
-                            -2.31739456,
-                            51.36563288
-                        ],
-                        [
-                            -2.31745678,
-                            51.37462441
-                        ]
-                    ]
-                ]
-            },
-            "id": 5812,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 2014,
-                "osgr_1km": "ST7863",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.30326863,
-                            51.40163701
-                        ],
-                        [
-                            -2.28889359,
-                            51.40167336
-                        ],
-                        [
-                            -2.2888369,
-                            51.39268185
-                        ],
-                        [
-                            -2.30320913,
-                            51.39264551
-                        ],
-                        [
-                            -2.30326863,
-                            51.40163701
-                        ]
-                    ]
-                ]
-            },
-            "id": 3251,
-            "properties": {
-                "species": "Natterer's Bat",
-                "year": 1991,
-                "osgr_1km": "ST7966",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86267318, 51.33590995],
+            [-2.8483201, 51.3360148],
+            [-2.84815414, 51.32702407],
+            [-2.86250442, 51.32691924],
+            [-2.86267318, 51.33590995]
+          ]
+        ]
+      },
+      "id": 110,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": null,
+        "osgr_1km": "ST4059",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83364072, 51.31813635],
+            [-2.81929308, 51.31823763],
+            [-2.8191329, 51.3092468],
+            [-2.83347774, 51.30914555],
+            [-2.83364072, 51.31813635]
+          ]
+        ]
+      },
+      "id": 1588,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4257",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83396693, 51.33611791],
+            [-2.81961368, 51.33621925],
+            [-2.81945334, 51.32722845],
+            [-2.83380378, 51.32712714],
+            [-2.83396693, 51.33611791]
+          ]
+        ]
+      },
+      "id": 280,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1991,
+        "osgr_1km": "ST4259",
+        "data_provider_id": "dp83",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8359313, 51.44400603],
+            [-2.82154426, 51.44410776],
+            [-2.82138292, 51.43511713],
+            [-2.83576714, 51.43501543],
+            [-2.8359313, 51.44400603]
+          ]
+        ]
+      },
+      "id": 775,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2005,
+        "osgr_1km": "ST4271",
+        "data_provider_id": "dp116",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83625988, 51.46198719],
+            [-2.82186719, 51.46208898],
+            [-2.82170569, 51.45309838],
+            [-2.83609555, 51.45299662],
+            [-2.83625988, 51.46198719]
+          ]
+        ]
+      },
+      "id": 5729,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2013,
+        "osgr_1km": "ST4273",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82041663, 51.38117305],
+            [-2.80604925, 51.38127279],
+            [-2.80589131, 51.37228203],
+            [-2.82025588, 51.37218231],
+            [-2.82041663, 51.38117305]
+          ]
+        ]
+      },
+      "id": 1941,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4364",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80620727, 51.39026354],
+            [-2.79183699, 51.39036155],
+            [-2.79168178, 51.38137077],
+            [-2.80604925, 51.38127279],
+            [-2.80620727, 51.39026354]
+          ]
+        ]
+      },
+      "id": 4535,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2022,
+        "osgr_1km": "ST4465",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80636538, 51.39925427],
+            [-2.79199228, 51.39935232],
+            [-2.79183699, 51.39036155],
+            [-2.80620727, 51.39026354],
+            [-2.80636538, 51.39925427]
+          ]
+        ]
+      },
+      "id": 3673,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2021,
+        "osgr_1km": "ST4466",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79075221, 51.32742579],
+            [-2.77640152, 51.32752183],
+            [-2.77624967, 51.31853092],
+            [-2.79059756, 51.31843491],
+            [-2.79075221, 51.32742579]
+          ]
+        ]
+      },
+      "id": 408,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1984,
+        "osgr_1km": "ST4558",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79090693, 51.33641666],
+            [-2.77655344, 51.33651272],
+            [-2.77640152, 51.32752183],
+            [-2.79075221, 51.32742579],
+            [-2.79090693, 51.33641666]
+          ]
+        ]
+      },
+      "id": 106,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1988,
+        "osgr_1km": "ST4559",
+        "data_provider_id": "dp116",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79106174, 51.34540751],
+            [-2.77670544, 51.3455036],
+            [-2.77655344, 51.33651272],
+            [-2.79090693, 51.33641666],
+            [-2.79106174, 51.34540751]
+          ]
+        ]
+      },
+      "id": 3666,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4560",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79199228, 51.39935232],
+            [-2.7776191, 51.3994486],
+            [-2.77746663, 51.3904578],
+            [-2.79183699, 51.39036155],
+            [-2.79199228, 51.39935232]
+          ]
+        ]
+      },
+      "id": 4718,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2021,
+        "osgr_1km": "ST4566",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79245863, 51.42632453],
+            [-2.778077, 51.4264209],
+            [-2.77792429, 51.41743015],
+            [-2.7923031, 51.4173338],
+            [-2.79245863, 51.42632453]
+          ]
+        ]
+      },
+      "id": 1400,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2002,
+        "osgr_1km": "ST4569",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79339352, 51.48026857],
+            [-2.77899492, 51.48036513],
+            [-2.77884174, 51.47137446],
+            [-2.7932375, 51.47127793],
+            [-2.79339352, 51.48026857]
+          ]
+        ]
+      },
+      "id": 4035,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2013,
+        "osgr_1km": "ST4575",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76205075, 51.3276161],
+            [-2.74769991, 51.32770862],
+            [-2.74755367, 51.31871765],
+            [-2.76190171, 51.31862516],
+            [-2.76205075, 51.3276161]
+          ]
+        ]
+      },
+      "id": 76,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2007,
+        "osgr_1km": "ST4758",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76264768, 51.36357972],
+            [-2.7482856, 51.36367236],
+            [-2.74813907, 51.35468145],
+            [-2.76249833, 51.35458884],
+            [-2.76264768, 51.36357972]
+          ]
+        ]
+      },
+      "id": 2240,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST4762",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74843221, 51.37266326],
+            [-2.73406725, 51.37275417],
+            [-2.73392345, 51.36376324],
+            [-2.7482856, 51.36367236],
+            [-2.74843221, 51.37266326]
+          ]
+        ]
+      },
+      "id": 2087,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2014,
+        "osgr_1km": "ST4863",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.7344991, 51.39972687],
+            [-2.72012561, 51.3998161],
+            [-2.7199844, 51.39082518],
+            [-2.73435507, 51.39073598],
+            [-2.7344991, 51.39972687]
+          ]
+        ]
+      },
+      "id": 459,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1986,
+        "osgr_1km": "ST4966",
+        "data_provider_id": "dp83",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.67727044, 51.41805517],
+            [-2.66289103, 51.4181374],
+            [-2.66276095, 51.40914641],
+            [-2.67713754, 51.4090642],
+            [-2.67727044, 51.41805517]
+          ]
+        ]
+      },
+      "id": 3807,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1989,
+        "osgr_1km": "ST5368",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.6774034, 51.42704612],
+            [-2.66302117, 51.42712838],
+            [-2.66289103, 51.4181374],
+            [-2.67727044, 51.41805517],
+            [-2.6774034, 51.42704612]
+          ]
+        ]
+      },
+      "id": 4567,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST5369",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66328165, 51.4451103],
+            [-2.64889371, 51.44519085],
+            [-2.64876626, 51.43619987],
+            [-2.66315138, 51.43611935],
+            [-2.66328165, 51.4451103]
+          ]
+        ]
+      },
+      "id": 5714,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2004,
+        "osgr_1km": "ST5471",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66341199, 51.45410124],
+            [-2.64902122, 51.45418181],
+            [-2.64889371, 51.44519085],
+            [-2.66328165, 51.4451103],
+            [-2.66341199, 51.45410124]
+          ]
+        ]
+      },
+      "id": 4855,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2009,
+        "osgr_1km": "ST5472",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66393404, 51.49006485],
+            [-2.64953196, 51.49014552],
+            [-2.64940417, 51.48115462],
+            [-2.66380343, 51.48107397],
+            [-2.66393404, 51.49006485]
+          ]
+        ]
+      },
+      "id": 5218,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2011,
+        "osgr_1km": "ST5476",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64927646, 51.4721637],
+            [-2.63487997, 51.47224255],
+            [-2.63475514, 51.46325159],
+            [-2.64914881, 51.46317276],
+            [-2.64927646, 51.4721637]
+          ]
+        ]
+      },
+      "id": 1837,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2013,
+        "osgr_1km": "ST5574",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.63475514, 51.46325159],
+            [-2.62036142, 51.46332866],
+            [-2.62023949, 51.45433766],
+            [-2.63463039, 51.45426062],
+            [-2.63475514, 51.46325159]
+          ]
+        ]
+      },
+      "id": 1433,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1993,
+        "osgr_1km": "ST5673",
+        "data_provider_id": "dp116",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.57570963, 51.34666425],
+            [-2.5613523, 51.34673395],
+            [-2.56124242, 51.33774268],
+            [-2.57559694, 51.33767299],
+            [-2.57570963, 51.34666425]
+          ]
+        ]
+      },
+      "id": 3538,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2013,
+        "osgr_1km": "ST6060",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.57695303, 51.4455671],
+            [-2.56256471, 51.44563705],
+            [-2.5624542, 51.43664593],
+            [-2.5768397, 51.436576],
+            [-2.57695303, 51.4455671]
+          ]
+        ]
+      },
+      "id": 3667,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2013,
+        "osgr_1km": "ST6071",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5613523, 51.34673395],
+            [-2.54699491, 51.3468019],
+            [-2.54688784, 51.33781061],
+            [-2.56124242, 51.33774268],
+            [-2.5613523, 51.34673395]
+          ]
+        ]
+      },
+      "id": 488,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2019,
+        "osgr_1km": "ST6160",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.56168227, 51.3737077],
+            [-2.54731645, 51.37377571],
+            [-2.54720922, 51.36478446],
+            [-2.56157222, 51.36471646],
+            [-2.56168227, 51.3737077]
+          ]
+        ]
+      },
+      "id": 5173,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2003,
+        "osgr_1km": "ST6163",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5641178, 51.57151126],
+            [-2.54968972, 51.57157976],
+            [-2.54958126, 51.56258881],
+            [-2.56400649, 51.56252034],
+            [-2.5641178, 51.57151126]
+          ]
+        ]
+      },
+      "id": 4270,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2014,
+        "osgr_1km": "ST6185",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54710204, 51.35579319],
+            [-2.53274179, 51.3558594],
+            [-2.53263747, 51.34686809],
+            [-2.54699491, 51.3468019],
+            [-2.54710204, 51.35579319]
+          ]
+        ]
+      },
+      "id": 4208,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2020,
+        "osgr_1km": "ST6261",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54806865, 51.4367141],
+            [-2.53368304, 51.4367805],
+            [-2.53357824, 51.42778932],
+            [-2.54796103, 51.42772294],
+            [-2.54806865, 51.4367141]
+          ]
+        ]
+      },
+      "id": 5847,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6270",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54990682, 51.58956161],
+            [-2.53547299, 51.58962837],
+            [-2.53536727, 51.58063743],
+            [-2.54979824, 51.58057069],
+            [-2.54990682, 51.58956161]
+          ]
+        ]
+      },
+      "id": 1898,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1997,
+        "osgr_1km": "ST6287",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.53431299, 51.49072727],
+            [-2.51991036, 51.49079203],
+            [-2.51980806, 51.48180092],
+            [-2.53420786, 51.48173618],
+            [-2.53431299, 51.49072727]
+          ]
+        ]
+      },
+      "id": 6028,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1966,
+        "osgr_1km": "ST6376",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5346287, 51.51770047],
+            [-2.52021756, 51.51776529],
+            [-2.52011511, 51.50877422],
+            [-2.53452341, 51.50870942],
+            [-2.5346287, 51.51770047]
+          ]
+        ]
+      },
+      "id": 2817,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6379",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.51878802, 51.391889],
+            [-2.50441641, 51.39195178],
+            [-2.50431751, 51.38296049],
+            [-2.51868631, 51.38289774],
+            [-2.51878802, 51.391889]
+          ]
+        ]
+      },
+      "id": 230,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1984,
+        "osgr_1km": "ST6465",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.51888979, 51.40088026],
+            [-2.50451536, 51.40094305],
+            [-2.50441641, 51.39195178],
+            [-2.51878802, 51.391889],
+            [-2.51888979, 51.40088026]
+          ]
+        ]
+      },
+      "id": 3903,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2015,
+        "osgr_1km": "ST6466",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.52001271, 51.49978313],
+            [-2.50560719, 51.49984614],
+            [-2.50550768, 51.49085502],
+            [-2.51991036, 51.49079203],
+            [-2.52001271, 51.49978313]
+          ]
+        ]
+      },
+      "id": 697,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2002,
+        "osgr_1km": "ST6477",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50471341, 51.41892556],
+            [-2.49033329, 51.41898662],
+            [-2.49023706, 51.40999536],
+            [-2.50461436, 51.40993431],
+            [-2.50471341, 51.41892556]
+          ]
+        ]
+      },
+      "id": 3362,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1989,
+        "osgr_1km": "ST6568",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50580637, 51.51782834],
+            [-2.49139513, 51.51788962],
+            [-2.49129835, 51.50889851],
+            [-2.50570676, 51.50883725],
+            [-2.50580637, 51.51782834]
+          ]
+        ]
+      },
+      "id": 4628,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2014,
+        "osgr_1km": "ST6579",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.49004475, 51.39201278],
+            [-2.47567303, 51.39207203],
+            [-2.47557977, 51.3830807],
+            [-2.48994866, 51.38302148],
+            [-2.49004475, 51.39201278]
+          ]
+        ]
+      },
+      "id": 5269,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2023,
+        "osgr_1km": "ST6665",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.476796, 51.49996686],
+            [-2.46239033, 51.50002456],
+            [-2.46229932, 51.49103339],
+            [-2.47670215, 51.4909757],
+            [-2.476796, 51.49996686]
+          ]
+        ]
+      },
+      "id": 1314,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6777",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.46148231, 51.41011216],
+            [-2.44710487, 51.41016792],
+            [-2.44701714, 51.40117658],
+            [-2.46139177, 51.40112084],
+            [-2.46148231, 51.41011216]
+          ]
+        ]
+      },
+      "id": 3205,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2018,
+        "osgr_1km": "ST6867",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.46239033, 51.50002456],
+            [-2.44798462, 51.5000805],
+            [-2.44789644, 51.4910893],
+            [-2.46229932, 51.49103339],
+            [-2.46239033, 51.50002456]
+          ]
+        ]
+      },
+      "id": 3264,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6877",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.44596798, 51.29327947],
+            [-2.43162702, 51.29333324],
+            [-2.43154269, 51.28434171],
+            [-2.44588084, 51.28428795],
+            [-2.44596798, 51.29327947]
+          ]
+        ]
+      },
+      "id": 2526,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6954",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.4478083, 51.4820981],
+            [-2.43340821, 51.48215223],
+            [-2.43332295, 51.47316099],
+            [-2.44772021, 51.47310687],
+            [-2.4478083, 51.4820981]
+          ]
+        ]
+      },
+      "id": 6579,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2020,
+        "osgr_1km": "ST6975",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43426322, 51.57206386],
+            [-2.4198347, 51.5721164],
+            [-2.41975184, 51.56312528],
+            [-2.43417752, 51.56307276],
+            [-2.43426322, 51.57206386]
+          ]
+        ]
+      },
+      "id": 2842,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST7085",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41975184, 51.56312528],
+            [-2.40532611, 51.56317602],
+            [-2.40524615, 51.55418487],
+            [-2.41966903, 51.55413415],
+            [-2.41975184, 51.56312528]
+          ]
+        ]
+      },
+      "id": 1741,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2020,
+        "osgr_1km": "ST7184",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.38928909, 51.37440762],
+            [-2.37492271, 51.3744545],
+            [-2.37484923, 51.36546303],
+            [-2.3892128, 51.36541617],
+            [-2.38928909, 51.37440762]
+          ]
+        ]
+      },
+      "id": 947,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1998,
+        "osgr_1km": "ST7363",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37506977, 51.3924374],
+            [-2.36069772, 51.39248255],
+            [-2.36062698, 51.38349109],
+            [-2.37499622, 51.38344596],
+            [-2.37506977, 51.3924374]
+          ]
+        ]
+      },
+      "id": 3976,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2019,
+        "osgr_1km": "ST7465",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37514336, 51.40142883],
+            [-2.36076849, 51.401474],
+            [-2.36069772, 51.39248255],
+            [-2.37506977, 51.3924374],
+            [-2.37514336, 51.40142883]
+          ]
+        ]
+      },
+      "id": 338,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1998,
+        "osgr_1km": "ST7466",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37521699, 51.41042025],
+            [-2.3608393, 51.41046543],
+            [-2.36076849, 51.401474],
+            [-2.37514336, 51.40142883],
+            [-2.37521699, 51.41042025]
+          ]
+        ]
+      },
+      "id": 970,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2018,
+        "osgr_1km": "ST7467",
+        "data_provider_id": "dp57",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37669761, 51.59024564],
+            [-2.36226323, 51.5902911],
+            [-2.36219168, 51.58129995],
+            [-2.37662322, 51.5812545],
+            [-2.37669761, 51.59024564]
+          ]
+        ]
+      },
+      "id": 6041,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2007,
+        "osgr_1km": "ST7487",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37677205, 51.59923676],
+            [-2.36233481, 51.59928224],
+            [-2.36226323, 51.5902911],
+            [-2.37669761, 51.59024564],
+            [-2.37677205, 51.59923676]
+          ]
+        ]
+      },
+      "id": 5826,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2011,
+        "osgr_1km": "ST7488",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36048561, 51.36550814],
+            [-2.34612196, 51.36555148],
+            [-2.34605415, 51.35655996],
+            [-2.36041499, 51.35651664],
+            [-2.36048561, 51.36550814]
+          ]
+        ]
+      },
+      "id": 2768,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2015,
+        "osgr_1km": "ST7562",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36055628, 51.37449962],
+            [-2.34618981, 51.37454298],
+            [-2.34612196, 51.36555148],
+            [-2.36048561, 51.36550814],
+            [-2.36055628, 51.37449962]
+          ]
+        ]
+      },
+      "id": 2486,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2001,
+        "osgr_1km": "ST7563",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36062698, 51.38349109],
+            [-2.3462577, 51.38353446],
+            [-2.34618981, 51.37454298],
+            [-2.36055628, 51.37449962],
+            [-2.36062698, 51.38349109]
+          ]
+        ]
+      },
+      "id": 5806,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1998,
+        "osgr_1km": "ST7564",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34612196, 51.36555148],
+            [-2.33175828, 51.36559306],
+            [-2.33169328, 51.35660153],
+            [-2.34605415, 51.35655996],
+            [-2.34612196, 51.36555148]
+          ]
+        ]
+      },
+      "id": 48,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1985,
+        "osgr_1km": "ST7662",
+        "data_provider_id": "dp83",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33175828, 51.36559306],
+            [-2.31739456, 51.36563288],
+            [-2.31733237, 51.35664134],
+            [-2.33169328, 51.35660153],
+            [-2.33175828, 51.36559306]
+          ]
+        ]
+      },
+      "id": 71,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1985,
+        "osgr_1km": "ST7762",
+        "data_provider_id": "dp83",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3320838, 51.41055049],
+            [-2.317706, 51.41059037],
+            [-2.31764365, 51.4015989],
+            [-2.33201863, 51.40155903],
+            [-2.3320838, 51.41055049]
+          ]
+        ]
+      },
+      "id": 120,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1984,
+        "osgr_1km": "ST7767",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33247554, 51.46449894],
+            [-2.31808079, 51.4645389],
+            [-2.31801824, 51.45554751],
+            [-2.33241016, 51.45550756],
+            [-2.33247554, 51.46449894]
+          ]
+        ]
+      },
+      "id": 1369,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2017,
+        "osgr_1km": "ST7773",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.31745678, 51.37462441],
+            [-2.30309022, 51.37466248],
+            [-2.30303081, 51.36567094],
+            [-2.31739456, 51.36563288],
+            [-2.31745678, 51.37462441]
+          ]
+        ]
+      },
+      "id": 5812,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 2014,
+        "osgr_1km": "ST7863",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30326863, 51.40163701],
+            [-2.28889359, 51.40167336],
+            [-2.2888369, 51.39268185],
+            [-2.30320913, 51.39264551],
+            [-2.30326863, 51.40163701]
+          ]
+        ]
+      },
+      "id": 3251,
+      "properties": {
+        "species": "Natterer's Bat",
+        "year": 1991,
+        "osgr_1km": "ST7966",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    }
+  ]
 }

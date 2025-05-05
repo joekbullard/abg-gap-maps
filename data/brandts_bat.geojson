@@ -1,461 +1,281 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.84848614,
-                            51.34500553
-                        ],
-                        [
-                            -2.83413016,
-                            51.34510866
-                        ],
-                        [
-                            -2.83396693,
-                            51.33611791
-                        ],
-                        [
-                            -2.8483201,
-                            51.3360148
-                        ],
-                        [
-                            -2.84848614,
-                            51.34500553
-                        ]
-                    ]
-                ]
-            },
-            "id": 1667,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2021,
-                "osgr_1km": "ST4160",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.8359313,
-                            51.44400603
-                        ],
-                        [
-                            -2.82154426,
-                            51.44410776
-                        ],
-                        [
-                            -2.82138292,
-                            51.43511713
-                        ],
-                        [
-                            -2.83576714,
-                            51.43501543
-                        ],
-                        [
-                            -2.8359313,
-                            51.44400603
-                        ]
-                    ]
-                ]
-            },
-            "id": 824,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2005,
-                "osgr_1km": "ST4271",
-                "data_provider_id": "dp116",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.82106049,
-                            51.41713583
-                        ],
-                        [
-                            -2.80668184,
-                            51.4172357
-                        ],
-                        [
-                            -2.80652357,
-                            51.40824499
-                        ],
-                        [
-                            -2.8208994,
-                            51.40814515
-                        ],
-                        [
-                            -2.82106049,
-                            51.41713583
-                        ]
-                    ]
-                ]
-            },
-            "id": 3337,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2011,
-                "osgr_1km": "ST4368",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.718998,
-                            51.32788839
-                        ],
-                        [
-                            -2.70464693,
-                            51.32797563
-                        ],
-                        [
-                            -2.70450911,
-                            51.31898458
-                        ],
-                        [
-                            -2.71885737,
-                            51.31889736
-                        ],
-                        [
-                            -2.718998,
-                            51.32788839
-                        ]
-                    ]
-                ]
-            },
-            "id": 5402,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 1987,
-                "osgr_1km": "ST5058",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.72083274,
-                            51.44477046
-                        ],
-                        [
-                            -2.70644507,
-                            51.44485807
-                        ],
-                        [
-                            -2.70630633,
-                            51.43586719
-                        ],
-                        [
-                            -2.72069117,
-                            51.43577961
-                        ],
-                        [
-                            -2.72083274,
-                            51.44477046
-                        ]
-                    ]
-                ]
-            },
-            "id": 3440,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2003,
-                "osgr_1km": "ST5071",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.60418756,
-                            51.32853713
-                        ],
-                        [
-                            -2.58983597,
-                            51.32861031
-                        ],
-                        [
-                            -2.58972059,
-                            51.31961905
-                        ],
-                        [
-                            -2.60406938,
-                            51.31954589
-                        ],
-                        [
-                            -2.60418756,
-                            51.32853713
-                        ]
-                    ]
-                ]
-            },
-            "id": 5248,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 1972,
-                "osgr_1km": "ST5858",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5899514,
-                            51.33760155
-                        ],
-                        [
-                            -2.57559694,
-                            51.33767299
-                        ],
-                        [
-                            -2.57548431,
-                            51.32868173
-                        ],
-                        [
-                            -2.58983597,
-                            51.32861031
-                        ],
-                        [
-                            -2.5899514,
-                            51.33760155
-                        ]
-                    ]
-                ]
-            },
-            "id": 174,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 1984,
-                "osgr_1km": "ST5959",
-                "data_provider_id": "dp77",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.57570963,
-                            51.34666425
-                        ],
-                        [
-                            -2.5613523,
-                            51.34673395
-                        ],
-                        [
-                            -2.56124242,
-                            51.33774268
-                        ],
-                        [
-                            -2.57559694,
-                            51.33767299
-                        ],
-                        [
-                            -2.57570963,
-                            51.34666425
-                        ]
-                    ]
-                ]
-            },
-            "id": 7203,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2011,
-                "osgr_1km": "ST6060",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.5346287,
-                            51.51770047
-                        ],
-                        [
-                            -2.52021756,
-                            51.51776529
-                        ],
-                        [
-                            -2.52011511,
-                            51.50877422
-                        ],
-                        [
-                            -2.53452341,
-                            51.50870942
-                        ],
-                        [
-                            -2.5346287,
-                            51.51770047
-                        ]
-                    ]
-                ]
-            },
-            "id": 2661,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2017,
-                "osgr_1km": "ST6379",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ],
-                        [
-                            -2.36226323,
-                            51.5902911
-                        ],
-                        [
-                            -2.36219168,
-                            51.58129995
-                        ],
-                        [
-                            -2.37662322,
-                            51.5812545
-                        ],
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ]
-                    ]
-                ]
-            },
-            "id": 3399,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2007,
-                "osgr_1km": "ST7487",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.37677205,
-                            51.59923676
-                        ],
-                        [
-                            -2.36233481,
-                            51.59928224
-                        ],
-                        [
-                            -2.36226323,
-                            51.5902911
-                        ],
-                        [
-                            -2.37669761,
-                            51.59024564
-                        ],
-                        [
-                            -2.37677205,
-                            51.59923676
-                        ]
-                    ]
-                ]
-            },
-            "id": 3612,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2010,
-                "osgr_1km": "ST7488",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ],
-                        [
-                            -2.34618981,
-                            51.37454298
-                        ],
-                        [
-                            -2.34612196,
-                            51.36555148
-                        ],
-                        [
-                            -2.36048561,
-                            51.36550814
-                        ],
-                        [
-                            -2.36055628,
-                            51.37449962
-                        ]
-                    ]
-                ]
-            },
-            "id": 2317,
-            "properties": {
-                "species": "Brandt's Bat",
-                "year": 2001,
-                "osgr_1km": "ST7563",
-                "data_provider_id": "dp107",
-                "record_type": "Unknown"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.84848614, 51.34500553],
+            [-2.83413016, 51.34510866],
+            [-2.83396693, 51.33611791],
+            [-2.8483201, 51.3360148],
+            [-2.84848614, 51.34500553]
+          ]
+        ]
+      },
+      "id": 1667,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2021,
+        "osgr_1km": "ST4160",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8359313, 51.44400603],
+            [-2.82154426, 51.44410776],
+            [-2.82138292, 51.43511713],
+            [-2.83576714, 51.43501543],
+            [-2.8359313, 51.44400603]
+          ]
+        ]
+      },
+      "id": 824,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2005,
+        "osgr_1km": "ST4271",
+        "data_provider_id": "dp116",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82106049, 51.41713583],
+            [-2.80668184, 51.4172357],
+            [-2.80652357, 51.40824499],
+            [-2.8208994, 51.40814515],
+            [-2.82106049, 51.41713583]
+          ]
+        ]
+      },
+      "id": 3337,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2011,
+        "osgr_1km": "ST4368",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.718998, 51.32788839],
+            [-2.70464693, 51.32797563],
+            [-2.70450911, 51.31898458],
+            [-2.71885737, 51.31889736],
+            [-2.718998, 51.32788839]
+          ]
+        ]
+      },
+      "id": 5402,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 1987,
+        "osgr_1km": "ST5058",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.72083274, 51.44477046],
+            [-2.70644507, 51.44485807],
+            [-2.70630633, 51.43586719],
+            [-2.72069117, 51.43577961],
+            [-2.72083274, 51.44477046]
+          ]
+        ]
+      },
+      "id": 3440,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2003,
+        "osgr_1km": "ST5071",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.60418756, 51.32853713],
+            [-2.58983597, 51.32861031],
+            [-2.58972059, 51.31961905],
+            [-2.60406938, 51.31954589],
+            [-2.60418756, 51.32853713]
+          ]
+        ]
+      },
+      "id": 5248,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 1972,
+        "osgr_1km": "ST5858",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5899514, 51.33760155],
+            [-2.57559694, 51.33767299],
+            [-2.57548431, 51.32868173],
+            [-2.58983597, 51.32861031],
+            [-2.5899514, 51.33760155]
+          ]
+        ]
+      },
+      "id": 174,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 1984,
+        "osgr_1km": "ST5959",
+        "data_provider_id": "dp77",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.57570963, 51.34666425],
+            [-2.5613523, 51.34673395],
+            [-2.56124242, 51.33774268],
+            [-2.57559694, 51.33767299],
+            [-2.57570963, 51.34666425]
+          ]
+        ]
+      },
+      "id": 7203,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2011,
+        "osgr_1km": "ST6060",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.5346287, 51.51770047],
+            [-2.52021756, 51.51776529],
+            [-2.52011511, 51.50877422],
+            [-2.53452341, 51.50870942],
+            [-2.5346287, 51.51770047]
+          ]
+        ]
+      },
+      "id": 2661,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2017,
+        "osgr_1km": "ST6379",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37669761, 51.59024564],
+            [-2.36226323, 51.5902911],
+            [-2.36219168, 51.58129995],
+            [-2.37662322, 51.5812545],
+            [-2.37669761, 51.59024564]
+          ]
+        ]
+      },
+      "id": 3399,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2007,
+        "osgr_1km": "ST7487",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37677205, 51.59923676],
+            [-2.36233481, 51.59928224],
+            [-2.36226323, 51.5902911],
+            [-2.37669761, 51.59024564],
+            [-2.37677205, 51.59923676]
+          ]
+        ]
+      },
+      "id": 3612,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2010,
+        "osgr_1km": "ST7488",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36055628, 51.37449962],
+            [-2.34618981, 51.37454298],
+            [-2.34612196, 51.36555148],
+            [-2.36048561, 51.36550814],
+            [-2.36055628, 51.37449962]
+          ]
+        ]
+      },
+      "id": 2317,
+      "properties": {
+        "species": "Brandt's Bat",
+        "year": 2001,
+        "osgr_1km": "ST7563",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    }
+  ]
 }

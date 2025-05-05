@@ -1,209 +1,4656 @@
 {
-"type": "FeatureCollection",
-"name": "ghs",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 1, "id": 2, "species": "Greater Horseshoe Bat", "year": 2003, "osgr": "ST3358", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.96277221, 51.31714181 ], [ -2.96296026, 51.32613232 ], [ -2.94861058, 51.32624942 ], [ -2.94842532, 51.31725891 ], [ -2.96277221, 51.31714181 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 2, "id": 3, "species": "Greater Horseshoe Bat", "year": 1987, "osgr": "ST3559", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.93426083, 51.32636484 ], [ -2.93444366, 51.33535595 ], [ -2.92009104, 51.3354699 ], [ -2.9199111, 51.32647876 ], [ -2.93426083, 51.32636484 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 3, "id": 4, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST3658", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.91973126, 51.31748785 ], [ -2.9199111, 51.32647876 ], [ -2.90556114, 51.32659088 ], [ -2.90538413, 51.31759977 ], [ -2.91973126, 51.31748785 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 4, "id": 5, "species": "Greater Horseshoe Bat", "year": 1991, "osgr": "ST3756", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.90503062, 51.2996184 ], [ -2.90520731, 51.30860904 ], [ -2.89086286, 51.3087191 ], [ -2.89068897, 51.2997284 ], [ -2.90503062, 51.2996184 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 5, "id": 6, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST3858", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.89103687, 51.31771004 ], [ -2.89121084, 51.32670107 ], [ -2.87686051, 51.32680941 ], [ -2.87668942, 51.31781849 ], [ -2.89103687, 51.31771004 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 6, "id": 7, "species": "Greater Horseshoe Bat", "year": 2015, "osgr": "ST3958", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.87668942, 51.31781849 ], [ -2.87686051, 51.32680941 ], [ -2.86251031, 51.32691596 ], [ -2.86234192, 51.31792504 ], [ -2.87668942, 51.31781849 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 7, "id": 8, "species": "Greater Horseshoe Bat", "year": 2015, "osgr": "ST4059", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.86251031, 51.32691596 ], [ -2.86267882, 51.33590687 ], [ -2.84832587, 51.33601163 ], [ -2.84816015, 51.32702071 ], [ -2.86251031, 51.32691596 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 8, "id": 9, "species": "Greater Horseshoe Bat", "year": 2019, "osgr": "ST4066", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.86369229, 51.38985172 ], [ -2.86386172, 51.39884239 ], [ -2.84948887, 51.39894747 ], [ -2.84932227, 51.38995677 ], [ -2.86369229, 51.38985172 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 9, "id": 10, "species": "Greater Horseshoe Bat", "year": 2021, "osgr": "ST4067", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.86386172, 51.39884239 ], [ -2.86403123, 51.40783304 ], [ -2.84965554, 51.40793817 ], [ -2.84948887, 51.39894747 ], [ -2.86386172, 51.39884239 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 10, "id": 11, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST4158", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.8479945, 51.31802977 ], [ -2.84816015, 51.32702071 ], [ -2.83380989, 51.32712368 ], [ -2.833647, 51.31813272 ], [ -2.8479945, 51.31802977 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 11, "id": 12, "species": "Greater Horseshoe Bat", "year": 2021, "osgr": "ST4160", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.84832587, 51.33601163 ], [ -2.84849167, 51.34500254 ], [ -2.83413581, 51.34510557 ], [ -2.83397282, 51.33611463 ], [ -2.84832587, 51.33601163 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 12, "id": 13, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST4169", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.84982231, 51.41692885 ], [ -2.84998915, 51.42591953 ], [ -2.83560778, 51.42602294 ], [ -2.83544374, 51.41703224 ], [ -2.84982231, 51.41692885 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 13, "id": 14, "species": "Greater Horseshoe Bat", "year": 1988, "osgr": "ST4171", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.85015609, 51.43491018 ], [ -2.85032311, 51.44390084 ], [ -2.83593598, 51.44400428 ], [ -2.83577188, 51.43501363 ], [ -2.85015609, 51.43491018 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 14, "id": 15, "species": "Greater Horseshoe Bat", "year": 1990, "osgr": "ST4259", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.83380989, 51.32712368 ], [ -2.83397282, 51.33611463 ], [ -2.81961961, 51.3362159 ], [ -2.81945937, 51.32722493 ], [ -2.83380989, 51.32712368 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 15, "id": 16, "species": "Greater Horseshoe Bat", "year": 2009, "osgr": "ST4264", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.83462532, 51.37207832 ], [ -2.83478868, 51.38106919 ], [ -2.82042148, 51.38117061 ], [ -2.82026095, 51.3721797 ], [ -2.83462532, 51.37207832 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 16, "id": 17, "species": "Greater Horseshoe Bat", "year": 2021, "osgr": "ST4265", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.83478868, 51.38106919 ], [ -2.8349522, 51.39006003 ], [ -2.82058212, 51.3901615 ], [ -2.82042148, 51.38117061 ], [ -2.83478868, 51.38106919 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 17, "id": 18, "species": "Greater Horseshoe Bat", "year": 2010, "osgr": "ST4266", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.8349522, 51.39006003 ], [ -2.83511594, 51.39905079 ], [ -2.82074294, 51.39915233 ], [ -2.82058212, 51.3901615 ], [ -2.8349522, 51.39006003 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 18, "id": 19, "species": "Greater Horseshoe Bat", "year": 2015, "osgr": "ST4268", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.8352798, 51.40804152 ], [ -2.83544374, 51.41703224 ], [ -2.8210651, 51.41713386 ], [ -2.82090397, 51.40814311 ], [ -2.8352798, 51.40804152 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 19, "id": 20, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST4269", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.83544374, 51.41703224 ], [ -2.83560778, 51.42602294 ], [ -2.82122631, 51.42612459 ], [ -2.8210651, 51.41713386 ], [ -2.83544374, 51.41703224 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 20, "id": 21, "species": "Greater Horseshoe Bat", "year": 2009, "osgr": "ST4271", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.83577188, 51.43501363 ], [ -2.83593598, 51.44400428 ], [ -2.82154878, 51.44410596 ], [ -2.82138758, 51.43511531 ], [ -2.83577188, 51.43501363 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 21, "id": 22, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4272", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.83593598, 51.44400428 ], [ -2.83610022, 51.45299498 ], [ -2.8217101, 51.45309667 ], [ -2.82154878, 51.44410596 ], [ -2.83593598, 51.44400428 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 22, "id": 23, "species": "Greater Horseshoe Bat", "year": 1988, "osgr": "ST4273", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.83610022, 51.45299498 ], [ -2.83626463, 51.46198572 ], [ -2.82187165, 51.46208742 ], [ -2.8217101, 51.45309667 ], [ -2.83610022, 51.45299498 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 23, "id": 24, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4357", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.81913897, 51.309243 ], [ -2.81929916, 51.31823396 ], [ -2.80495117, 51.31833346 ], [ -2.80479374, 51.30934248 ], [ -2.81913897, 51.309243 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 24, "id": 25, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4364", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.82026095, 51.3721797 ], [ -2.82042148, 51.38117061 ], [ -2.80605422, 51.38127025 ], [ -2.8058965, 51.3722793 ], [ -2.82026095, 51.3721797 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 25, "id": 26, "species": "Greater Horseshoe Bat", "year": 2019, "osgr": "ST4365", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.82042148, 51.38117061 ], [ -2.82058212, 51.3901615 ], [ -2.80621201, 51.39026119 ], [ -2.80605422, 51.38127025 ], [ -2.82042148, 51.38117061 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 26, "id": 27, "species": "Greater Horseshoe Bat", "year": 2011, "osgr": "ST4368", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.82090397, 51.40814311 ], [ -2.8210651, 51.41713386 ], [ -2.80668637, 51.41723371 ], [ -2.80652806, 51.40824293 ], [ -2.82090397, 51.40814311 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 27, "id": 28, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4371", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.82138758, 51.43511531 ], [ -2.82154878, 51.44410596 ], [ -2.80716151, 51.44420587 ], [ -2.8070032, 51.43521522 ], [ -2.82138758, 51.43511531 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 28, "id": 29, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4372", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.82154878, 51.44410596 ], [ -2.8217101, 51.45309667 ], [ -2.80731995, 51.45319658 ], [ -2.80716151, 51.44420587 ], [ -2.82154878, 51.44410596 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 29, "id": 30, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4373", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.8217101, 51.45309667 ], [ -2.82187165, 51.46208742 ], [ -2.80747862, 51.46218735 ], [ -2.80731995, 51.45319658 ], [ -2.8217101, 51.45309667 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 30, "id": 31, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST4462", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80558123, 51.35429738 ], [ -2.80573884, 51.36328835 ], [ -2.79137695, 51.3633862 ], [ -2.79122206, 51.35439522 ], [ -2.80558123, 51.35429738 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 31, "id": 32, "species": "Greater Horseshoe Bat", "year": 2021, "osgr": "ST4463", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80573884, 51.36328835 ], [ -2.8058965, 51.3722793 ], [ -2.79153188, 51.37237718 ], [ -2.79137695, 51.3633862 ], [ -2.80573884, 51.36328835 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 32, "id": 33, "species": "Greater Horseshoe Bat", "year": 2021, "osgr": "ST4464", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.8058965, 51.3722793 ], [ -2.80605422, 51.38127025 ], [ -2.79168683, 51.38136815 ], [ -2.79153188, 51.37237718 ], [ -2.8058965, 51.3722793 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 33, "id": 34, "species": "Greater Horseshoe Bat", "year": 2022, "osgr": "ST4465", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80605422, 51.38127025 ], [ -2.80621201, 51.39026119 ], [ -2.79184184, 51.39035911 ], [ -2.79168683, 51.38136815 ], [ -2.80605422, 51.38127025 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 34, "id": 35, "species": "Greater Horseshoe Bat", "year": 2022, "osgr": "ST4466", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80621201, 51.39026119 ], [ -2.80636993, 51.39925209 ], [ -2.79199692, 51.39935005 ], [ -2.79184184, 51.39035911 ], [ -2.80621201, 51.39026119 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 35, "id": 36, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4468", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80652806, 51.40824293 ], [ -2.80668637, 51.41723371 ], [ -2.79230756, 51.4173318 ], [ -2.79215212, 51.40834097 ], [ -2.80652806, 51.40824293 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 36, "id": 37, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4472", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80716151, 51.44420587 ], [ -2.80731995, 51.45319658 ], [ -2.79292973, 51.45329474 ], [ -2.79277415, 51.44430402 ], [ -2.80716151, 51.44420587 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 37, "id": 38, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4473", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80731995, 51.45319658 ], [ -2.80747862, 51.46218735 ], [ -2.79308551, 51.46228553 ], [ -2.79292973, 51.45329474 ], [ -2.80731995, 51.45319658 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 38, "id": 39, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4474", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.80747862, 51.46218735 ], [ -2.80763746, 51.47117814 ], [ -2.79324149, 51.47127633 ], [ -2.79308551, 51.46228553 ], [ -2.80747862, 51.46218735 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 39, "id": 40, "species": "Greater Horseshoe Bat", "year": 2007, "osgr": "ST4558", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79060308, 51.31843121 ], [ -2.79075778, 51.32742221 ], [ -2.77640681, 51.32751824 ], [ -2.77625489, 51.31852721 ], [ -2.79060308, 51.31843121 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 40, "id": 41, "species": "Greater Horseshoe Bat", "year": 1988, "osgr": "ST4559", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79075778, 51.32742221 ], [ -2.79091249, 51.33641322 ], [ -2.77655876, 51.33650926 ], [ -2.77640681, 51.32751824 ], [ -2.79075778, 51.32742221 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 41, "id": 42, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4560", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79091249, 51.33641322 ], [ -2.79106724, 51.34540423 ], [ -2.77671073, 51.34550029 ], [ -2.77655876, 51.33650926 ], [ -2.79091249, 51.33641322 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 42, "id": 43, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4562", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79122206, 51.35439522 ], [ -2.79137695, 51.3633862 ], [ -2.77701486, 51.36348232 ], [ -2.77686275, 51.35449131 ], [ -2.79122206, 51.35439522 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 43, "id": 44, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4563", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79137695, 51.3633862 ], [ -2.79153188, 51.37237718 ], [ -2.77716703, 51.37247331 ], [ -2.77701486, 51.36348232 ], [ -2.79137695, 51.3633862 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 44, "id": 45, "species": "Greater Horseshoe Bat", "year": 2019, "osgr": "ST4564", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79153188, 51.37237718 ], [ -2.79168683, 51.38136815 ], [ -2.77731925, 51.3814643 ], [ -2.77716703, 51.37247331 ], [ -2.79153188, 51.37237718 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 45, "id": 46, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4565", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79168683, 51.38136815 ], [ -2.79184184, 51.39035911 ], [ -2.77747152, 51.39045528 ], [ -2.77731925, 51.3814643 ], [ -2.79168683, 51.38136815 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 46, "id": 47, "species": "Greater Horseshoe Bat", "year": 2021, "osgr": "ST4566", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79184184, 51.39035911 ], [ -2.79199692, 51.39935005 ], [ -2.77762382, 51.39944625 ], [ -2.77747152, 51.39045528 ], [ -2.79184184, 51.39035911 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 47, "id": 48, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4568", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79215212, 51.40834097 ], [ -2.79230756, 51.4173318 ], [ -2.7779287, 51.41742811 ], [ -2.77777618, 51.40843721 ], [ -2.79215212, 51.40834097 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 48, "id": 49, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4569", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79230756, 51.4173318 ], [ -2.79246312, 51.4263226 ], [ -2.7780814, 51.42641895 ], [ -2.7779287, 51.41742811 ], [ -2.79230756, 51.4173318 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 49, "id": 50, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4570", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79246312, 51.4263226 ], [ -2.79261872, 51.43531336 ], [ -2.77823414, 51.43540973 ], [ -2.7780814, 51.42641895 ], [ -2.79246312, 51.4263226 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 50, "id": 51, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4571", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79261872, 51.43531336 ], [ -2.79277415, 51.44430402 ], [ -2.77838671, 51.44440041 ], [ -2.77823414, 51.43540973 ], [ -2.79261872, 51.43531336 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 51, "id": 52, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4572", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79277415, 51.44430402 ], [ -2.79292973, 51.45329474 ], [ -2.77853943, 51.45339114 ], [ -2.77838671, 51.44440041 ], [ -2.79277415, 51.44430402 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 52, "id": 53, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4574", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.79308551, 51.46228553 ], [ -2.79324149, 51.47127633 ], [ -2.77884545, 51.47137276 ], [ -2.77869235, 51.46238194 ], [ -2.79308551, 51.46228553 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 53, "id": 54, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4661", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77671073, 51.34550029 ], [ -2.77686275, 51.35449131 ], [ -2.76250335, 51.35458565 ], [ -2.76235411, 51.34559459 ], [ -2.77671073, 51.34550029 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 54, "id": 55, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4662", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77686275, 51.35449131 ], [ -2.77701486, 51.36348232 ], [ -2.76265265, 51.36357668 ], [ -2.76250335, 51.35458565 ], [ -2.77686275, 51.35449131 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 55, "id": 56, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4663", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77701486, 51.36348232 ], [ -2.77716703, 51.37247331 ], [ -2.76280202, 51.3725677 ], [ -2.76265265, 51.36357668 ], [ -2.77701486, 51.36348232 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 56, "id": 57, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4664", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77716703, 51.37247331 ], [ -2.77731925, 51.3814643 ], [ -2.76295146, 51.38155871 ], [ -2.76280202, 51.3725677 ], [ -2.77716703, 51.37247331 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 57, "id": 58, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4665", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77731925, 51.3814643 ], [ -2.77747152, 51.39045528 ], [ -2.76310098, 51.3905497 ], [ -2.76295146, 51.38155871 ], [ -2.77731925, 51.3814643 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 58, "id": 59, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4666", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77747152, 51.39045528 ], [ -2.77762382, 51.39944625 ], [ -2.76325054, 51.3995407 ], [ -2.76310098, 51.3905497 ], [ -2.77747152, 51.39045528 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 59, "id": 60, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4667", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77762382, 51.39944625 ], [ -2.77777618, 51.40843721 ], [ -2.76340016, 51.40853167 ], [ -2.76325054, 51.3995407 ], [ -2.77762382, 51.39944625 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 60, "id": 61, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4668", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77777618, 51.40843721 ], [ -2.7779287, 51.41742811 ], [ -2.7635498, 51.41752264 ], [ -2.76340016, 51.40853167 ], [ -2.77777618, 51.40843721 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 61, "id": 62, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4669", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.7779287, 51.41742811 ], [ -2.7780814, 51.42641895 ], [ -2.76369962, 51.42651354 ], [ -2.7635498, 51.41752264 ], [ -2.7779287, 51.41742811 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 62, "id": 63, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST4672", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77838671, 51.44440041 ], [ -2.77853943, 51.45339114 ], [ -2.76414906, 51.45348577 ], [ -2.76399919, 51.44449503 ], [ -2.77838671, 51.44440041 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 63, "id": 64, "species": "Greater Horseshoe Bat", "year": 1997, "osgr": "ST4673", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.77853943, 51.45339114 ], [ -2.77869235, 51.46238194 ], [ -2.76429913, 51.46247659 ], [ -2.76414906, 51.45348577 ], [ -2.77853943, 51.45339114 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 64, "id": 65, "species": "Greater Horseshoe Bat", "year": 2007, "osgr": "ST4758", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76190661, 51.31862145 ], [ -2.76205573, 51.32761251 ], [ -2.74770457, 51.32770501 ], [ -2.74755826, 51.31871393 ], [ -2.76190661, 51.31862145 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 65, "id": 66, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4761", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76235411, 51.34559459 ], [ -2.76250335, 51.35458565 ], [ -2.74814386, 51.35467822 ], [ -2.7479974, 51.34568715 ], [ -2.76235411, 51.34559459 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 66, "id": 67, "species": "Greater Horseshoe Bat", "year": 2019, "osgr": "ST4762", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76250335, 51.35458565 ], [ -2.76265265, 51.36357668 ], [ -2.74829036, 51.36366928 ], [ -2.74814386, 51.35467822 ], [ -2.76250335, 51.35458565 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 67, "id": 68, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4763", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76265265, 51.36357668 ], [ -2.76280202, 51.3725677 ], [ -2.74843691, 51.37266033 ], [ -2.74829036, 51.36366928 ], [ -2.76265265, 51.36357668 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 68, "id": 69, "species": "Greater Horseshoe Bat", "year": 2019, "osgr": "ST4764", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76280202, 51.3725677 ], [ -2.76295146, 51.38155871 ], [ -2.74858355, 51.38165137 ], [ -2.74843691, 51.37266033 ], [ -2.76280202, 51.3725677 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 69, "id": 70, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4765", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76295146, 51.38155871 ], [ -2.76310098, 51.3905497 ], [ -2.74873026, 51.39064239 ], [ -2.74858355, 51.38165137 ], [ -2.76295146, 51.38155871 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 70, "id": 71, "species": "Greater Horseshoe Bat", "year": 2023, "osgr": "ST4766", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76310098, 51.3905497 ], [ -2.76325054, 51.3995407 ], [ -2.74887704, 51.39963341 ], [ -2.74873026, 51.39064239 ], [ -2.76310098, 51.3905497 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 71, "id": 72, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4767", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76325054, 51.3995407 ], [ -2.76340016, 51.40853167 ], [ -2.7490239, 51.4086244 ], [ -2.74887704, 51.39963341 ], [ -2.76325054, 51.3995407 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 72, "id": 73, "species": "Greater Horseshoe Bat", "year": 2004, "osgr": "ST4768", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.76340016, 51.40853167 ], [ -2.7635498, 51.41752264 ], [ -2.74917081, 51.41761539 ], [ -2.7490239, 51.4086244 ], [ -2.76340016, 51.40853167 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 73, "id": 74, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST4769", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.7635498, 51.41752264 ], [ -2.76369962, 51.42651354 ], [ -2.74931777, 51.42660635 ], [ -2.74917081, 51.41761539 ], [ -2.7635498, 51.41752264 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 74, "id": 75, "species": "Greater Horseshoe Bat", "year": 2002, "osgr": "ST4858", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.74755826, 51.31871393 ], [ -2.74770457, 51.32770501 ], [ -2.73335335, 51.32779576 ], [ -2.73320985, 51.31880466 ], [ -2.74755826, 51.31871393 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 75, "id": 76, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4862", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.74814386, 51.35467822 ], [ -2.74829036, 51.36366928 ], [ -2.733928, 51.36376012 ], [ -2.73378428, 51.35476903 ], [ -2.74814386, 51.35467822 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 76, "id": 77, "species": "Greater Horseshoe Bat", "year": 2014, "osgr": "ST4863", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.74829036, 51.36366928 ], [ -2.74843691, 51.37266033 ], [ -2.73407174, 51.37275121 ], [ -2.733928, 51.36376012 ], [ -2.74829036, 51.36366928 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 77, "id": 78, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4865", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.74858355, 51.38165137 ], [ -2.74873026, 51.39064239 ], [ -2.73435944, 51.39073332 ], [ -2.73421555, 51.38174227 ], [ -2.74858355, 51.38165137 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 78, "id": 79, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4866", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.74873026, 51.39064239 ], [ -2.74887704, 51.39963341 ], [ -2.73450342, 51.39972437 ], [ -2.73435944, 51.39073332 ], [ -2.74873026, 51.39064239 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 79, "id": 80, "species": "Greater Horseshoe Bat", "year": 2014, "osgr": "ST4867", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.74887704, 51.39963341 ], [ -2.7490239, 51.4086244 ], [ -2.73464746, 51.40871538 ], [ -2.73450342, 51.39972437 ], [ -2.74887704, 51.39963341 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 80, "id": 81, "species": "Greater Horseshoe Bat", "year": 2004, "osgr": "ST4868", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.7490239, 51.4086244 ], [ -2.74917081, 51.41761539 ], [ -2.73479157, 51.4177064 ], [ -2.73464746, 51.40871538 ], [ -2.7490239, 51.4086244 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 81, "id": 82, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST4874", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.74990586, 51.4625695 ], [ -2.75005322, 51.47156036 ], [ -2.73565711, 51.47165164 ], [ -2.73551261, 51.46266078 ], [ -2.74990586, 51.4625695 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 82, "id": 83, "species": "Greater Horseshoe Bat", "year": 2019, "osgr": "ST4964", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.73407174, 51.37275121 ], [ -2.73421555, 51.38174227 ], [ -2.71984748, 51.38183141 ], [ -2.71970649, 51.37284032 ], [ -2.73407174, 51.37275121 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 83, "id": 84, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST4966", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.73435944, 51.39073332 ], [ -2.73450342, 51.39972437 ], [ -2.72012971, 51.39981356 ], [ -2.71998857, 51.3908225 ], [ -2.73435944, 51.39073332 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 84, "id": 85, "species": "Greater Horseshoe Bat", "year": 2008, "osgr": "ST4967", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.73450342, 51.39972437 ], [ -2.73464746, 51.40871538 ], [ -2.72027094, 51.40880461 ], [ -2.72012971, 51.39981356 ], [ -2.73450342, 51.39972437 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 85, "id": 86, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST4976", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.73580182, 51.48064245 ], [ -2.73594687, 51.48963318 ], [ -2.72154522, 51.4897227 ], [ -2.7214029, 51.48073205 ], [ -2.73580182, 51.48064245 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 86, "id": 87, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5062", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.71942457, 51.35485811 ], [ -2.71956553, 51.36384921 ], [ -2.70520295, 51.36393655 ], [ -2.70506478, 51.35494543 ], [ -2.71942457, 51.35485811 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 87, "id": 88, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5063", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.71956553, 51.36384921 ], [ -2.71970649, 51.37284032 ], [ -2.70534114, 51.37292766 ], [ -2.70520295, 51.36393655 ], [ -2.71956553, 51.36384921 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 88, "id": 89, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST5064", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.71970649, 51.37284032 ], [ -2.71984748, 51.38183141 ], [ -2.70547935, 51.38191878 ], [ -2.70534114, 51.37292766 ], [ -2.71970649, 51.37284032 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 89, "id": 90, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5067", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.72012971, 51.39981356 ], [ -2.72027094, 51.40880461 ], [ -2.70589435, 51.40889207 ], [ -2.70575594, 51.39990099 ], [ -2.72012971, 51.39981356 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 90, "id": 91, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5068", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.72027094, 51.40880461 ], [ -2.72041223, 51.41779566 ], [ -2.70603278, 51.41788313 ], [ -2.70589435, 51.40889207 ], [ -2.72027094, 51.40880461 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 91, "id": 92, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST5069", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.72041223, 51.41779566 ], [ -2.72055352, 51.42678667 ], [ -2.70617114, 51.42687414 ], [ -2.70603278, 51.41788313 ], [ -2.72041223, 51.41779566 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 92, "id": 93, "species": "Greater Horseshoe Bat", "year": 2011, "osgr": "ST5071", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.72069497, 51.43577772 ], [ -2.72083648, 51.44476871 ], [ -2.70644857, 51.44485633 ], [ -2.70630979, 51.43586523 ], [ -2.72069497, 51.43577772 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 93, "id": 94, "species": "Greater Horseshoe Bat", "year": 2013, "osgr": "ST5075", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.72126098, 51.47174125 ], [ -2.7214029, 51.48073205 ], [ -2.7070039, 51.4808199 ], [ -2.7068648, 51.47182909 ], [ -2.72126098, 51.47174125 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 94, "id": 95, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5161", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.70492668, 51.3459543 ], [ -2.70506478, 51.35494543 ], [ -2.69070492, 51.35503099 ], [ -2.69056962, 51.34603984 ], [ -2.70492668, 51.3459543 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 95, "id": 96, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5162", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.70506478, 51.35494543 ], [ -2.70520295, 51.36393655 ], [ -2.69084028, 51.36402213 ], [ -2.69070492, 51.35503099 ], [ -2.70506478, 51.35494543 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 96, "id": 97, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5163", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.70520295, 51.36393655 ], [ -2.70534114, 51.37292766 ], [ -2.69097569, 51.37301327 ], [ -2.69084028, 51.36402213 ], [ -2.70520295, 51.36393655 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 97, "id": 98, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST5165", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.70547935, 51.38191878 ], [ -2.70561761, 51.3909099 ], [ -2.69124658, 51.39099554 ], [ -2.69111113, 51.3820044 ], [ -2.70547935, 51.38191878 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 98, "id": 99, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5167", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.70575594, 51.39990099 ], [ -2.70589435, 51.40889207 ], [ -2.69151769, 51.40897777 ], [ -2.6913821, 51.39998666 ], [ -2.70575594, 51.39990099 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 99, "id": 100, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5168", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.70589435, 51.40889207 ], [ -2.70603278, 51.41788313 ], [ -2.69165318, 51.41796883 ], [ -2.69151769, 51.40897777 ], [ -2.70589435, 51.40889207 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 100, "id": 101, "species": "Greater Horseshoe Bat", "year": 1990, "osgr": "ST5171", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.70630979, 51.43586523 ], [ -2.70644857, 51.44485633 ], [ -2.69206051, 51.44494212 ], [ -2.69192451, 51.43595098 ], [ -2.70630979, 51.43586523 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 101, "id": 102, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5261", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.69056962, 51.34603984 ], [ -2.69070492, 51.35503099 ], [ -2.67634498, 51.35511479 ], [ -2.67621249, 51.34612361 ], [ -2.69056962, 51.34603984 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 102, "id": 103, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5262", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.69070492, 51.35503099 ], [ -2.69084028, 51.36402213 ], [ -2.67647753, 51.36410596 ], [ -2.67634498, 51.35511479 ], [ -2.69070492, 51.35503099 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 103, "id": 104, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST5267", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.6913821, 51.39998666 ], [ -2.69151769, 51.40897777 ], [ -2.6771409, 51.40906169 ], [ -2.67700818, 51.40007057 ], [ -2.6913821, 51.39998666 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 104, "id": 105, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST5268", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.69151769, 51.40897777 ], [ -2.69165318, 51.41796883 ], [ -2.67727344, 51.41805274 ], [ -2.6771409, 51.40906169 ], [ -2.69151769, 51.40897777 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 105, "id": 106, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST5269", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.69165318, 51.41796883 ], [ -2.69178867, 51.42695986 ], [ -2.67740615, 51.42704381 ], [ -2.67727344, 51.41805274 ], [ -2.69165318, 51.41796883 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 106, "id": 107, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5363", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.67647753, 51.36410596 ], [ -2.67661015, 51.37309712 ], [ -2.66224452, 51.37317921 ], [ -2.66211471, 51.36418803 ], [ -2.67647753, 51.36410596 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 107, "id": 108, "species": "Greater Horseshoe Bat", "year": 2006, "osgr": "ST5367", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.67700818, 51.40007057 ], [ -2.6771409, 51.40906169 ], [ -2.66276395, 51.40914382 ], [ -2.66263418, 51.40015271 ], [ -2.67700818, 51.40007057 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 108, "id": 109, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST5369", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.67727344, 51.41805274 ], [ -2.67740615, 51.42704381 ], [ -2.6630236, 51.427126 ], [ -2.66289362, 51.41813488 ], [ -2.67727344, 51.41805274 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 109, "id": 110, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST5375", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.67807216, 51.47199943 ], [ -2.67820567, 51.4809903 ], [ -2.66380663, 51.48107277 ], [ -2.66367582, 51.47208183 ], [ -2.67807216, 51.47199943 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 110, "id": 111, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST5456", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.66120791, 51.30124938 ], [ -2.66133725, 51.31024066 ], [ -2.64699127, 51.31032085 ], [ -2.64686474, 51.30132956 ], [ -2.66120791, 51.30124938 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 111, "id": 112, "species": "Greater Horseshoe Bat", "year": 2003, "osgr": "ST5467", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.66263418, 51.40015271 ], [ -2.66276395, 51.40914382 ], [ -2.64838708, 51.40922425 ], [ -2.64826006, 51.40023312 ], [ -2.66263418, 51.40015271 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 112, "id": 113, "species": "Greater Horseshoe Bat", "year": 2009, "osgr": "ST5471", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.66315386, 51.43611719 ], [ -2.66328425, 51.44510838 ], [ -2.64889633, 51.44518885 ], [ -2.64876867, 51.43619764 ], [ -2.66315386, 51.43611719 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 113, "id": 114, "species": "Greater Horseshoe Bat", "year": 2015, "osgr": "ST5472", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.66328425, 51.44510838 ], [ -2.6634147, 51.45409955 ], [ -2.64902409, 51.45418006 ], [ -2.64889633, 51.44518885 ], [ -2.66328425, 51.44510838 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 114, "id": 115, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST5474", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.66354521, 51.46309072 ], [ -2.66367582, 51.47208183 ], [ -2.64927986, 51.47216239 ], [ -2.64915191, 51.46317126 ], [ -2.66354521, 51.46309072 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 115, "id": 116, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST5566", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.648133, 51.39124195 ], [ -2.64826006, 51.40023312 ], [ -2.63388572, 51.40031194 ], [ -2.63376158, 51.39132071 ], [ -2.648133, 51.39124195 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 116, "id": 117, "species": "Greater Horseshoe Bat", "year": 2021, "osgr": "ST5569", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.64851398, 51.41821535 ], [ -2.6486412, 51.42720648 ], [ -2.63425943, 51.42728546 ], [ -2.63413527, 51.41829442 ], [ -2.64851398, 51.41821535 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 117, "id": 118, "species": "Greater Horseshoe Bat", "year": 1990, "osgr": "ST5578", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.64966311, 51.49913504 ], [ -2.64979087, 51.50812583 ], [ -2.63538277, 51.50820489 ], [ -2.635258, 51.49921403 ], [ -2.64966311, 51.49913504 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 118, "id": 119, "species": "Greater Horseshoe Bat", "year": 1992, "osgr": "ST5655", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.63239797, 51.29241664 ], [ -2.63252163, 51.30140805 ], [ -2.61817854, 51.30148472 ], [ -2.61805776, 51.29249314 ], [ -2.63239797, 51.29241664 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 119, "id": 120, "species": "Greater Horseshoe Bat", "year": 2015, "osgr": "ST5671", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.63438362, 51.43627633 ], [ -2.63450847, 51.4452675 ], [ -2.62012023, 51.4453446 ], [ -2.61999907, 51.43635377 ], [ -2.63438362, 51.43627633 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 120, "id": 121, "species": "Greater Horseshoe Bat", "year": 1999, "osgr": "ST5673", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.63463361, 51.45425876 ], [ -2.63475876, 51.46325001 ], [ -2.6203644, 51.46332714 ], [ -2.62024214, 51.4543358 ], [ -2.63463361, 51.45425876 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 121, "id": 122, "species": "Greater Horseshoe Bat", "year": 2015, "osgr": "ST6060", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.57559869, 51.33766994 ], [ -2.57571121, 51.34666136 ], [ -2.56135365, 51.34673092 ], [ -2.56124397, 51.33773946 ], [ -2.57559869, 51.33766994 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 122, "id": 123, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST6083", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.57820615, 51.54446739 ], [ -2.5783203, 51.55345863 ], [ -2.56389734, 51.55352896 ], [ -2.56378616, 51.54453773 ], [ -2.57820615, 51.54446739 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 123, "id": 124, "species": "Greater Horseshoe Bat", "year": 2020, "osgr": "ST6261", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.546996, 51.34679872 ], [ -2.54710294, 51.35579017 ], [ -2.53274238, 51.35585625 ], [ -2.53263836, 51.34686474 ], [ -2.546996, 51.34679872 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 124, "id": 125, "species": "Greater Horseshoe Bat", "year": 2012, "osgr": "ST6267", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.54763908, 51.40074699 ], [ -2.54774643, 51.40973833 ], [ -2.533369, 51.40980454 ], [ -2.53326442, 51.4008132 ], [ -2.54763908, 51.40074699 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 125, "id": 126, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST6276", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.54860852, 51.48166822 ], [ -2.54871655, 51.49065937 ], [ -2.5343138, 51.49072584 ], [ -2.53420871, 51.48173465 ], [ -2.54860852, 51.48166822 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 126, "id": 127, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST6391", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.53579146, 51.61660262 ], [ -2.53589736, 51.62559376 ], [ -2.52145172, 51.62565883 ], [ -2.52134867, 51.61666766 ], [ -2.53579146, 51.61660262 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 127, "id": 128, "species": "Greater Horseshoe Bat", "year": 2015, "osgr": "ST6466", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.51878796, 51.39188626 ], [ -2.51888967, 51.40087765 ], [ -2.50451493, 51.40094033 ], [ -2.50441599, 51.39194892 ], [ -2.51878796, 51.39188626 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 128, "id": 129, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST6556", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.50343181, 51.3020336 ], [ -2.50353009, 51.31102514 ], [ -2.48918305, 51.31108623 ], [ -2.48908756, 51.3020947 ], [ -2.50343181, 51.3020336 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 129, "id": 130, "species": "Greater Horseshoe Bat", "year": 2009, "osgr": "ST6754", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.47455785, 51.28417061 ], [ -2.4746507, 51.29316228 ], [ -2.46030965, 51.29321951 ], [ -2.46021945, 51.2842278 ], [ -2.47455785, 51.28417061 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 130, "id": 131, "species": "Greater Horseshoe Bat", "year": 1993, "osgr": "ST6758", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.4749287, 51.32013709 ], [ -2.47502146, 51.32912858 ], [ -2.46066894, 51.32918609 ], [ -2.460579, 51.32019457 ], [ -2.4749287, 51.32013709 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 131, "id": 132, "species": "Greater Horseshoe Bat", "year": 2010, "osgr": "ST6854", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.46021945, 51.2842278 ], [ -2.46030965, 51.29321951 ], [ -2.44596856, 51.29327481 ], [ -2.44588104, 51.28428312 ], [ -2.46021945, 51.2842278 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 132, "id": 133, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST6954", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.44588104, 51.28428312 ], [ -2.44596856, 51.29327481 ], [ -2.43162711, 51.29332842 ], [ -2.43154265, 51.28433675 ], [ -2.44588104, 51.28428312 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 133, "id": 134, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST6955", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.44596856, 51.29327481 ], [ -2.44605558, 51.30226663 ], [ -2.43171146, 51.30232017 ], [ -2.43162711, 51.29332842 ], [ -2.44596856, 51.29327481 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 134, "id": 135, "species": "Greater Horseshoe Bat", "year": 2005, "osgr": "ST6965", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.44684064, 51.38319059 ], [ -2.44692819, 51.39218212 ], [ -2.43255627, 51.39223606 ], [ -2.43247166, 51.38324449 ], [ -2.44684064, 51.38319059 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 135, "id": 136, "species": "Greater Horseshoe Bat", "year": 2014, "osgr": "ST6966", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.44692819, 51.39218212 ], [ -2.44701616, 51.40117364 ], [ -2.43264139, 51.4012276 ], [ -2.43255627, 51.39223606 ], [ -2.44692819, 51.39218212 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 136, "id": 137, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7054", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.43154265, 51.28433675 ], [ -2.43162711, 51.29332842 ], [ -2.41728558, 51.29338053 ], [ -2.41720408, 51.28438881 ], [ -2.43154265, 51.28433675 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 137, "id": 138, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7059", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.43196426, 51.32929554 ], [ -2.4320486, 51.33828713 ], [ -2.41769344, 51.3383392 ], [ -2.41761193, 51.32934747 ], [ -2.43196426, 51.32929554 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 138, "id": 139, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7061", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.432133, 51.34727866 ], [ -2.43221748, 51.35627017 ], [ -2.41785672, 51.35632228 ], [ -2.417775, 51.34733079 ], [ -2.432133, 51.34727866 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 139, "id": 140, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7062", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.43221748, 51.35627017 ], [ -2.43230208, 51.36526163 ], [ -2.41793871, 51.36531369 ], [ -2.41785672, 51.35632228 ], [ -2.43221748, 51.35627017 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 140, "id": 141, "species": "Greater Horseshoe Bat", "year": 2004, "osgr": "ST7064", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.43238691, 51.37425302 ], [ -2.43247166, 51.38324449 ], [ -2.41810262, 51.38329665 ], [ -2.41802084, 51.37430506 ], [ -2.43238691, 51.37425302 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 141, "id": 142, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7065", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.43247166, 51.38324449 ], [ -2.43255627, 51.39223606 ], [ -2.41818439, 51.39228823 ], [ -2.41810262, 51.38329665 ], [ -2.43247166, 51.38324449 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 142, "id": 143, "species": "Greater Horseshoe Bat", "year": 1975, "osgr": "ST7069", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.43281183, 51.41921061 ], [ -2.43289712, 51.4282021 ], [ -2.41851382, 51.42825435 ], [ -2.41843137, 51.41926284 ], [ -2.43281183, 51.41921061 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 143, "id": 144, "species": "Greater Horseshoe Bat", "year": 2007, "osgr": "ST7075", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.43332249, 51.47315898 ], [ -2.43340762, 51.48215037 ], [ -2.41900718, 51.48220276 ], [ -2.41892489, 51.47321134 ], [ -2.43332249, 51.47315898 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 144, "id": 145, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7157", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.41744869, 51.31136396 ], [ -2.41753031, 51.32035569 ], [ -2.40318039, 51.32040609 ], [ -2.40310157, 51.31141438 ], [ -2.41744869, 51.31136396 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 145, "id": 146, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7158", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.41753031, 51.32035569 ], [ -2.41761193, 51.32934747 ], [ -2.40325923, 51.32939779 ], [ -2.40318039, 51.32040609 ], [ -2.41753031, 51.32035569 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 146, "id": 147, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7159", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.41761193, 51.32934747 ], [ -2.41769344, 51.3383392 ], [ -2.40333808, 51.33838948 ], [ -2.40325923, 51.32939779 ], [ -2.41761193, 51.32934747 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 147, "id": 148, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7162", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.41785672, 51.35632228 ], [ -2.41793871, 51.36531369 ], [ -2.40357539, 51.36536399 ], [ -2.4034961, 51.3563726 ], [ -2.41785672, 51.35632228 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 148, "id": 149, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7163", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.41793871, 51.36531369 ], [ -2.41802084, 51.37430506 ], [ -2.4036546, 51.37435544 ], [ -2.40357539, 51.36536399 ], [ -2.41793871, 51.36531369 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 149, "id": 150, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7164", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.41802084, 51.37430506 ], [ -2.41810262, 51.38329665 ], [ -2.40373354, 51.38334703 ], [ -2.4036546, 51.37435544 ], [ -2.41802084, 51.37430506 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 150, "id": 151, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7258", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.40318039, 51.32040609 ], [ -2.40325923, 51.32939779 ], [ -2.38890655, 51.32944643 ], [ -2.38883047, 51.32045475 ], [ -2.40318039, 51.32040609 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 151, "id": 152, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7259", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.40325923, 51.32939779 ], [ -2.40333808, 51.33838948 ], [ -2.3889827, 51.33843809 ], [ -2.38890655, 51.32944643 ], [ -2.40325923, 51.32939779 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 152, "id": 153, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7260", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.40333808, 51.33838948 ], [ -2.403417, 51.34738111 ], [ -2.38905891, 51.34742972 ], [ -2.3889827, 51.33843809 ], [ -2.40333808, 51.33838948 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 153, "id": 154, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7261", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.403417, 51.34738111 ], [ -2.4034961, 51.3563726 ], [ -2.38913522, 51.35642126 ], [ -2.38905891, 51.34742972 ], [ -2.403417, 51.34738111 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 154, "id": 155, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7262", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.4034961, 51.3563726 ], [ -2.40357539, 51.36536399 ], [ -2.38921169, 51.36541269 ], [ -2.38913522, 51.35642126 ], [ -2.4034961, 51.3563726 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 155, "id": 156, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7263", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.40357539, 51.36536399 ], [ -2.4036546, 51.37435544 ], [ -2.38928816, 51.37440412 ], [ -2.38921169, 51.36541269 ], [ -2.40357539, 51.36536399 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 156, "id": 157, "species": "Greater Horseshoe Bat", "year": 1975, "osgr": "ST7270", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.40413044, 51.42830482 ], [ -2.40420984, 51.43729626 ], [ -2.38982342, 51.43734496 ], [ -2.38974695, 51.42835351 ], [ -2.40413044, 51.42830482 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 157, "id": 158, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7359", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.38890655, 51.32944643 ], [ -2.3889827, 51.33843809 ], [ -2.37462743, 51.33848493 ], [ -2.37455402, 51.32949325 ], [ -2.38890655, 51.32944643 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 158, "id": 159, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7360", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3889827, 51.33843809 ], [ -2.38905891, 51.34742972 ], [ -2.37470086, 51.34747657 ], [ -2.37462743, 51.33848493 ], [ -2.3889827, 51.33843809 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 159, "id": 160, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7361", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.38905891, 51.34742972 ], [ -2.38913522, 51.35642126 ], [ -2.37477432, 51.35646815 ], [ -2.37470086, 51.34747657 ], [ -2.38905891, 51.34742972 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 160, "id": 161, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7362", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.38913522, 51.35642126 ], [ -2.38921169, 51.36541269 ], [ -2.37484786, 51.36545966 ], [ -2.37477432, 51.35646815 ], [ -2.38913522, 51.35642126 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 161, "id": 162, "species": "Greater Horseshoe Bat", "year": 2018, "osgr": "ST7363", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.38921169, 51.36541269 ], [ -2.38928816, 51.37440412 ], [ -2.37492149, 51.37445113 ], [ -2.37484786, 51.36545966 ], [ -2.38921169, 51.36541269 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 162, "id": 163, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7459", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37455402, 51.32949325 ], [ -2.37462743, 51.33848493 ], [ -2.36027219, 51.33853 ], [ -2.36020157, 51.32953831 ], [ -2.37455402, 51.32949325 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 163, "id": 164, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7460", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37462743, 51.33848493 ], [ -2.37470086, 51.34747657 ], [ -2.36034279, 51.34752164 ], [ -2.36027219, 51.33853 ], [ -2.37462743, 51.33848493 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 164, "id": 165, "species": "Greater Horseshoe Bat", "year": 2004, "osgr": "ST7461", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37470086, 51.34747657 ], [ -2.37477432, 51.35646815 ], [ -2.36041341, 51.35651324 ], [ -2.36034279, 51.34752164 ], [ -2.37470086, 51.34747657 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 165, "id": 166, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7462", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37477432, 51.35646815 ], [ -2.37484786, 51.36545966 ], [ -2.36048407, 51.36550481 ], [ -2.36041341, 51.35651324 ], [ -2.37477432, 51.35646815 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 166, "id": 167, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7463", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37484786, 51.36545966 ], [ -2.37492149, 51.37445113 ], [ -2.3605548, 51.37449636 ], [ -2.36048407, 51.36550481 ], [ -2.37484786, 51.36545966 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 167, "id": 168, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST7465", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37499507, 51.38344263 ], [ -2.37506853, 51.39243419 ], [ -2.36069639, 51.39247937 ], [ -2.36062559, 51.38348786 ], [ -2.37499507, 51.38344263 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 168, "id": 169, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST7468", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37521577, 51.41041739 ], [ -2.37528964, 51.41940894 ], [ -2.3609089, 51.4194541 ], [ -2.36083797, 51.41046255 ], [ -2.37521577, 51.41041739 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 169, "id": 170, "species": "Greater Horseshoe Bat", "year": 2007, "osgr": "ST7487", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37662047, 51.58125486 ], [ -2.37669489, 51.59024625 ], [ -2.36226024, 51.59029169 ], [ -2.36218863, 51.5813003 ], [ -2.37662047, 51.58125486 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 170, "id": 171, "species": "Greater Horseshoe Bat", "year": 2010, "osgr": "ST7488", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.37669489, 51.59024625 ], [ -2.37676939, 51.59923762 ], [ -2.36233189, 51.59928307 ], [ -2.36226024, 51.59029169 ], [ -2.37669489, 51.59024625 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 171, "id": 172, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7557", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3600604, 51.31155486 ], [ -2.36013096, 51.32054659 ], [ -2.34578132, 51.32058988 ], [ -2.34571352, 51.31159811 ], [ -2.3600604, 51.31155486 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 172, "id": 173, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7558", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.36013096, 51.32054659 ], [ -2.36020157, 51.32953831 ], [ -2.34584912, 51.32958163 ], [ -2.34578132, 51.32058988 ], [ -2.36013096, 51.32054659 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 173, "id": 174, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7559", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.36020157, 51.32953831 ], [ -2.36027219, 51.33853 ], [ -2.3459169, 51.33857331 ], [ -2.34584912, 51.32958163 ], [ -2.36020157, 51.32953831 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 174, "id": 175, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7560", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.36027219, 51.33853 ], [ -2.36034279, 51.34752164 ], [ -2.34598468, 51.34756494 ], [ -2.3459169, 51.33857331 ], [ -2.36027219, 51.33853 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 175, "id": 176, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7561", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.36034279, 51.34752164 ], [ -2.36041341, 51.35651324 ], [ -2.34605248, 51.35655655 ], [ -2.34598468, 51.34756494 ], [ -2.36034279, 51.34752164 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 176, "id": 177, "species": "Greater Horseshoe Bat", "year": 2007, "osgr": "ST7562", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.36041341, 51.35651324 ], [ -2.36048407, 51.36550481 ], [ -2.34612033, 51.36554815 ], [ -2.34605248, 51.35655655 ], [ -2.36041341, 51.35651324 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 177, "id": 178, "species": "Greater Horseshoe Bat", "year": 2001, "osgr": "ST7563", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.36048407, 51.36550481 ], [ -2.3605548, 51.37449636 ], [ -2.3461882, 51.37453974 ], [ -2.34612033, 51.36554815 ], [ -2.36048407, 51.36550481 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 178, "id": 179, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7659", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.34584912, 51.32958163 ], [ -2.3459169, 51.33857331 ], [ -2.33156157, 51.33861485 ], [ -2.33149661, 51.32962317 ], [ -2.34584912, 51.32958163 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 179, "id": 180, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7660", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3459169, 51.33857331 ], [ -2.34598468, 51.34756494 ], [ -2.33162653, 51.34760648 ], [ -2.33156157, 51.33861485 ], [ -2.3459169, 51.33857331 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 180, "id": 181, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7661", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.34598468, 51.34756494 ], [ -2.34605248, 51.35655655 ], [ -2.33169153, 51.35659811 ], [ -2.33162653, 51.34760648 ], [ -2.34598468, 51.34756494 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 181, "id": 182, "species": "Greater Horseshoe Bat", "year": 2019, "osgr": "ST7662", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.34605248, 51.35655655 ], [ -2.34612033, 51.36554815 ], [ -2.33175656, 51.36558972 ], [ -2.33169153, 51.35659811 ], [ -2.34605248, 51.35655655 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 182, "id": 183, "species": "Greater Horseshoe Bat", "year": 2016, "osgr": "ST7663", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.34612033, 51.36554815 ], [ -2.3461882, 51.37453974 ], [ -2.33182162, 51.37458132 ], [ -2.33175656, 51.36558972 ], [ -2.34612033, 51.36554815 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 183, "id": 184, "species": "Greater Horseshoe Bat", "year": 2008, "osgr": "ST7671", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.34666401, 51.43748063 ], [ -2.34673202, 51.44647218 ], [ -2.33234269, 51.44651391 ], [ -2.33227752, 51.43752235 ], [ -2.34666401, 51.43748063 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 184, "id": 185, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7758", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33143165, 51.32063144 ], [ -2.33149661, 51.32962317 ], [ -2.31714407, 51.32966295 ], [ -2.31708194, 51.32067124 ], [ -2.33143165, 51.32063144 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 185, "id": 186, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7759", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33149661, 51.32962317 ], [ -2.33156157, 51.33861485 ], [ -2.31720619, 51.33865461 ], [ -2.31714407, 51.32966295 ], [ -2.33149661, 51.32962317 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 186, "id": 187, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7760", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33156157, 51.33861485 ], [ -2.33162653, 51.34760648 ], [ -2.31726834, 51.34764627 ], [ -2.31720619, 51.33865461 ], [ -2.33156157, 51.33861485 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 187, "id": 188, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7762", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33169153, 51.35659811 ], [ -2.33175656, 51.36558972 ], [ -2.31739274, 51.36562954 ], [ -2.31733053, 51.35663791 ], [ -2.33169153, 51.35659811 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 188, "id": 189, "species": "Greater Horseshoe Bat", "year": 2017, "osgr": "ST7764", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33182162, 51.37458132 ], [ -2.33188671, 51.3835729 ], [ -2.31751727, 51.38361274 ], [ -2.317455, 51.37462114 ], [ -2.33182162, 51.37458132 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 189, "id": 190, "species": "Greater Horseshoe Bat", "year": 1988, "osgr": "ST7765", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33188671, 51.3835729 ], [ -2.33195184, 51.39256448 ], [ -2.31757956, 51.39260435 ], [ -2.31751727, 51.38361274 ], [ -2.33188671, 51.3835729 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 190, "id": 191, "species": "Greater Horseshoe Bat", "year": 2008, "osgr": "ST7770", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33221237, 51.42853078 ], [ -2.33227752, 51.43752235 ], [ -2.31789108, 51.43756231 ], [ -2.31782875, 51.42857073 ], [ -2.33221237, 51.42853078 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 191, "id": 192, "species": "Greater Horseshoe Bat", "year": 1986, "osgr": "ST7779", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.33279989, 51.50945442 ], [ -2.33286534, 51.51844587 ], [ -2.31845344, 51.51848595 ], [ -2.31839082, 51.50949449 ], [ -2.33279989, 51.50945442 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 192, "id": 193, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7859", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.31714407, 51.32966295 ], [ -2.31720619, 51.33865461 ], [ -2.30285079, 51.33869263 ], [ -2.30279148, 51.32970096 ], [ -2.31714407, 51.32966295 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 193, "id": 194, "species": "Greater Horseshoe Bat", "year": 2014, "osgr": "ST7863", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.31739274, 51.36562954 ], [ -2.317455, 51.37462114 ], [ -2.30308832, 51.37465923 ], [ -2.3030289, 51.36566759 ], [ -2.31739274, 51.36562954 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 194, "id": 195, "species": "Greater Horseshoe Bat", "year": 2004, "osgr": "ST7864", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.317455, 51.37462114 ], [ -2.31751727, 51.38361274 ], [ -2.30314771, 51.3836509 ], [ -2.30308832, 51.37465923 ], [ -2.317455, 51.37462114 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 195, "id": 196, "species": "Greater Horseshoe Bat", "year": 2008, "osgr": "ST7869", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.31776643, 51.41957916 ], [ -2.31782875, 51.42857073 ], [ -2.30344507, 51.42860894 ], [ -2.30338552, 51.4196174 ], [ -2.31776643, 51.41957916 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 196, "id": 197, "species": "Greater Horseshoe Bat", "year": 2008, "osgr": "ST7870", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.31782875, 51.42857073 ], [ -2.31789108, 51.43756231 ], [ -2.30350461, 51.43760051 ], [ -2.30344507, 51.42860894 ], [ -2.31782875, 51.42857073 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 197, "id": 198, "species": "Greater Horseshoe Bat", "year": 2000, "osgr": "ST7958", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.30273218, 51.32070924 ], [ -2.30279148, 51.32970096 ], [ -2.28843885, 51.3297372 ], [ -2.28838237, 51.32074549 ], [ -2.30273218, 51.32070924 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 198, "id": 199, "species": "Greater Horseshoe Bat", "year": 2004, "osgr": "ST7960", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.30285079, 51.33869263 ], [ -2.30291014, 51.34768429 ], [ -2.28855188, 51.34772057 ], [ -2.28849535, 51.33872889 ], [ -2.30285079, 51.33869263 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 199, "id": 200, "species": "Greater Horseshoe Bat", "year": 2013, "osgr": "ST7965", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.30314771, 51.3836509 ], [ -2.3032071, 51.39264257 ], [ -2.28883459, 51.39267902 ], [ -2.28877803, 51.38368734 ], [ -2.30314771, 51.3836509 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 200, "id": 201, "species": "Greater Horseshoe Bat", "year": 2013, "osgr": "ST7966", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.3032071, 51.39264257 ], [ -2.30326651, 51.40163422 ], [ -2.2888912, 51.40167069 ], [ -2.28883459, 51.39267902 ], [ -2.3032071, 51.39264257 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 201, "id": 202, "species": "Greater Horseshoe Bat", "year": 2008, "osgr": "ST7970", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.30344507, 51.42860894 ], [ -2.30350461, 51.43760051 ], [ -2.28911807, 51.43763697 ], [ -2.28906131, 51.42864543 ], [ -2.30344507, 51.42860894 ] ] ] } },
-{ "type": "Feature", "properties": { "_uid_": 202, "id": 203, "species": "Greater Horseshoe Bat", "year": 2008, "osgr": "ST8058", "record_type": "Unknown" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.28838237, 51.32074549 ], [ -2.28843885, 51.3297372 ], [ -2.27408618, 51.32977169 ], [ -2.27403252, 51.32077997 ], [ -2.28838237, 51.32074549 ] ] ] } }
-]
+  "type": "FeatureCollection",
+  "name": "ghs",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 1,
+        "id": 2,
+        "species": "Greater Horseshoe Bat",
+        "year": 2003,
+        "osgr": "ST3358",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.96277221, 51.31714181],
+            [-2.96296026, 51.32613232],
+            [-2.94861058, 51.32624942],
+            [-2.94842532, 51.31725891],
+            [-2.96277221, 51.31714181]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 2,
+        "id": 3,
+        "species": "Greater Horseshoe Bat",
+        "year": 1987,
+        "osgr": "ST3559",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.93426083, 51.32636484],
+            [-2.93444366, 51.33535595],
+            [-2.92009104, 51.3354699],
+            [-2.9199111, 51.32647876],
+            [-2.93426083, 51.32636484]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 3,
+        "id": 4,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST3658",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.91973126, 51.31748785],
+            [-2.9199111, 51.32647876],
+            [-2.90556114, 51.32659088],
+            [-2.90538413, 51.31759977],
+            [-2.91973126, 51.31748785]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 4,
+        "id": 5,
+        "species": "Greater Horseshoe Bat",
+        "year": 1991,
+        "osgr": "ST3756",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.90503062, 51.2996184],
+            [-2.90520731, 51.30860904],
+            [-2.89086286, 51.3087191],
+            [-2.89068897, 51.2997284],
+            [-2.90503062, 51.2996184]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 5,
+        "id": 6,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST3858",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.89103687, 51.31771004],
+            [-2.89121084, 51.32670107],
+            [-2.87686051, 51.32680941],
+            [-2.87668942, 51.31781849],
+            [-2.89103687, 51.31771004]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 6,
+        "id": 7,
+        "species": "Greater Horseshoe Bat",
+        "year": 2015,
+        "osgr": "ST3958",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.87668942, 51.31781849],
+            [-2.87686051, 51.32680941],
+            [-2.86251031, 51.32691596],
+            [-2.86234192, 51.31792504],
+            [-2.87668942, 51.31781849]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 7,
+        "id": 8,
+        "species": "Greater Horseshoe Bat",
+        "year": 2015,
+        "osgr": "ST4059",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86251031, 51.32691596],
+            [-2.86267882, 51.33590687],
+            [-2.84832587, 51.33601163],
+            [-2.84816015, 51.32702071],
+            [-2.86251031, 51.32691596]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 8,
+        "id": 9,
+        "species": "Greater Horseshoe Bat",
+        "year": 2019,
+        "osgr": "ST4066",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86369229, 51.38985172],
+            [-2.86386172, 51.39884239],
+            [-2.84948887, 51.39894747],
+            [-2.84932227, 51.38995677],
+            [-2.86369229, 51.38985172]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 9,
+        "id": 10,
+        "species": "Greater Horseshoe Bat",
+        "year": 2021,
+        "osgr": "ST4067",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.86386172, 51.39884239],
+            [-2.86403123, 51.40783304],
+            [-2.84965554, 51.40793817],
+            [-2.84948887, 51.39894747],
+            [-2.86386172, 51.39884239]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 10,
+        "id": 11,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST4158",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8479945, 51.31802977],
+            [-2.84816015, 51.32702071],
+            [-2.83380989, 51.32712368],
+            [-2.833647, 51.31813272],
+            [-2.8479945, 51.31802977]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 11,
+        "id": 12,
+        "species": "Greater Horseshoe Bat",
+        "year": 2021,
+        "osgr": "ST4160",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.84832587, 51.33601163],
+            [-2.84849167, 51.34500254],
+            [-2.83413581, 51.34510557],
+            [-2.83397282, 51.33611463],
+            [-2.84832587, 51.33601163]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 12,
+        "id": 13,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST4169",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.84982231, 51.41692885],
+            [-2.84998915, 51.42591953],
+            [-2.83560778, 51.42602294],
+            [-2.83544374, 51.41703224],
+            [-2.84982231, 51.41692885]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 13,
+        "id": 14,
+        "species": "Greater Horseshoe Bat",
+        "year": 1988,
+        "osgr": "ST4171",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.85015609, 51.43491018],
+            [-2.85032311, 51.44390084],
+            [-2.83593598, 51.44400428],
+            [-2.83577188, 51.43501363],
+            [-2.85015609, 51.43491018]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 14,
+        "id": 15,
+        "species": "Greater Horseshoe Bat",
+        "year": 1990,
+        "osgr": "ST4259",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83380989, 51.32712368],
+            [-2.83397282, 51.33611463],
+            [-2.81961961, 51.3362159],
+            [-2.81945937, 51.32722493],
+            [-2.83380989, 51.32712368]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 15,
+        "id": 16,
+        "species": "Greater Horseshoe Bat",
+        "year": 2009,
+        "osgr": "ST4264",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83462532, 51.37207832],
+            [-2.83478868, 51.38106919],
+            [-2.82042148, 51.38117061],
+            [-2.82026095, 51.3721797],
+            [-2.83462532, 51.37207832]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 16,
+        "id": 17,
+        "species": "Greater Horseshoe Bat",
+        "year": 2021,
+        "osgr": "ST4265",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83478868, 51.38106919],
+            [-2.8349522, 51.39006003],
+            [-2.82058212, 51.3901615],
+            [-2.82042148, 51.38117061],
+            [-2.83478868, 51.38106919]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 17,
+        "id": 18,
+        "species": "Greater Horseshoe Bat",
+        "year": 2010,
+        "osgr": "ST4266",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8349522, 51.39006003],
+            [-2.83511594, 51.39905079],
+            [-2.82074294, 51.39915233],
+            [-2.82058212, 51.3901615],
+            [-2.8349522, 51.39006003]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 18,
+        "id": 19,
+        "species": "Greater Horseshoe Bat",
+        "year": 2015,
+        "osgr": "ST4268",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8352798, 51.40804152],
+            [-2.83544374, 51.41703224],
+            [-2.8210651, 51.41713386],
+            [-2.82090397, 51.40814311],
+            [-2.8352798, 51.40804152]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 19,
+        "id": 20,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST4269",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83544374, 51.41703224],
+            [-2.83560778, 51.42602294],
+            [-2.82122631, 51.42612459],
+            [-2.8210651, 51.41713386],
+            [-2.83544374, 51.41703224]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 20,
+        "id": 21,
+        "species": "Greater Horseshoe Bat",
+        "year": 2009,
+        "osgr": "ST4271",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83577188, 51.43501363],
+            [-2.83593598, 51.44400428],
+            [-2.82154878, 51.44410596],
+            [-2.82138758, 51.43511531],
+            [-2.83577188, 51.43501363]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 21,
+        "id": 22,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4272",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83593598, 51.44400428],
+            [-2.83610022, 51.45299498],
+            [-2.8217101, 51.45309667],
+            [-2.82154878, 51.44410596],
+            [-2.83593598, 51.44400428]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 22,
+        "id": 23,
+        "species": "Greater Horseshoe Bat",
+        "year": 1988,
+        "osgr": "ST4273",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.83610022, 51.45299498],
+            [-2.83626463, 51.46198572],
+            [-2.82187165, 51.46208742],
+            [-2.8217101, 51.45309667],
+            [-2.83610022, 51.45299498]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 23,
+        "id": 24,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4357",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.81913897, 51.309243],
+            [-2.81929916, 51.31823396],
+            [-2.80495117, 51.31833346],
+            [-2.80479374, 51.30934248],
+            [-2.81913897, 51.309243]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 24,
+        "id": 25,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4364",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82026095, 51.3721797],
+            [-2.82042148, 51.38117061],
+            [-2.80605422, 51.38127025],
+            [-2.8058965, 51.3722793],
+            [-2.82026095, 51.3721797]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 25,
+        "id": 26,
+        "species": "Greater Horseshoe Bat",
+        "year": 2019,
+        "osgr": "ST4365",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82042148, 51.38117061],
+            [-2.82058212, 51.3901615],
+            [-2.80621201, 51.39026119],
+            [-2.80605422, 51.38127025],
+            [-2.82042148, 51.38117061]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 26,
+        "id": 27,
+        "species": "Greater Horseshoe Bat",
+        "year": 2011,
+        "osgr": "ST4368",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82090397, 51.40814311],
+            [-2.8210651, 51.41713386],
+            [-2.80668637, 51.41723371],
+            [-2.80652806, 51.40824293],
+            [-2.82090397, 51.40814311]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 27,
+        "id": 28,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4371",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82138758, 51.43511531],
+            [-2.82154878, 51.44410596],
+            [-2.80716151, 51.44420587],
+            [-2.8070032, 51.43521522],
+            [-2.82138758, 51.43511531]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 28,
+        "id": 29,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4372",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.82154878, 51.44410596],
+            [-2.8217101, 51.45309667],
+            [-2.80731995, 51.45319658],
+            [-2.80716151, 51.44420587],
+            [-2.82154878, 51.44410596]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 29,
+        "id": 30,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4373",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8217101, 51.45309667],
+            [-2.82187165, 51.46208742],
+            [-2.80747862, 51.46218735],
+            [-2.80731995, 51.45319658],
+            [-2.8217101, 51.45309667]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 30,
+        "id": 31,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST4462",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80558123, 51.35429738],
+            [-2.80573884, 51.36328835],
+            [-2.79137695, 51.3633862],
+            [-2.79122206, 51.35439522],
+            [-2.80558123, 51.35429738]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 31,
+        "id": 32,
+        "species": "Greater Horseshoe Bat",
+        "year": 2021,
+        "osgr": "ST4463",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80573884, 51.36328835],
+            [-2.8058965, 51.3722793],
+            [-2.79153188, 51.37237718],
+            [-2.79137695, 51.3633862],
+            [-2.80573884, 51.36328835]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 32,
+        "id": 33,
+        "species": "Greater Horseshoe Bat",
+        "year": 2021,
+        "osgr": "ST4464",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.8058965, 51.3722793],
+            [-2.80605422, 51.38127025],
+            [-2.79168683, 51.38136815],
+            [-2.79153188, 51.37237718],
+            [-2.8058965, 51.3722793]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 33,
+        "id": 34,
+        "species": "Greater Horseshoe Bat",
+        "year": 2022,
+        "osgr": "ST4465",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80605422, 51.38127025],
+            [-2.80621201, 51.39026119],
+            [-2.79184184, 51.39035911],
+            [-2.79168683, 51.38136815],
+            [-2.80605422, 51.38127025]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 34,
+        "id": 35,
+        "species": "Greater Horseshoe Bat",
+        "year": 2022,
+        "osgr": "ST4466",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80621201, 51.39026119],
+            [-2.80636993, 51.39925209],
+            [-2.79199692, 51.39935005],
+            [-2.79184184, 51.39035911],
+            [-2.80621201, 51.39026119]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 35,
+        "id": 36,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4468",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80652806, 51.40824293],
+            [-2.80668637, 51.41723371],
+            [-2.79230756, 51.4173318],
+            [-2.79215212, 51.40834097],
+            [-2.80652806, 51.40824293]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 36,
+        "id": 37,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4472",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80716151, 51.44420587],
+            [-2.80731995, 51.45319658],
+            [-2.79292973, 51.45329474],
+            [-2.79277415, 51.44430402],
+            [-2.80716151, 51.44420587]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 37,
+        "id": 38,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4473",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80731995, 51.45319658],
+            [-2.80747862, 51.46218735],
+            [-2.79308551, 51.46228553],
+            [-2.79292973, 51.45329474],
+            [-2.80731995, 51.45319658]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 38,
+        "id": 39,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4474",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80747862, 51.46218735],
+            [-2.80763746, 51.47117814],
+            [-2.79324149, 51.47127633],
+            [-2.79308551, 51.46228553],
+            [-2.80747862, 51.46218735]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 39,
+        "id": 40,
+        "species": "Greater Horseshoe Bat",
+        "year": 2007,
+        "osgr": "ST4558",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79060308, 51.31843121],
+            [-2.79075778, 51.32742221],
+            [-2.77640681, 51.32751824],
+            [-2.77625489, 51.31852721],
+            [-2.79060308, 51.31843121]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 40,
+        "id": 41,
+        "species": "Greater Horseshoe Bat",
+        "year": 1988,
+        "osgr": "ST4559",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79075778, 51.32742221],
+            [-2.79091249, 51.33641322],
+            [-2.77655876, 51.33650926],
+            [-2.77640681, 51.32751824],
+            [-2.79075778, 51.32742221]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 41,
+        "id": 42,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4560",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79091249, 51.33641322],
+            [-2.79106724, 51.34540423],
+            [-2.77671073, 51.34550029],
+            [-2.77655876, 51.33650926],
+            [-2.79091249, 51.33641322]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 42,
+        "id": 43,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4562",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79122206, 51.35439522],
+            [-2.79137695, 51.3633862],
+            [-2.77701486, 51.36348232],
+            [-2.77686275, 51.35449131],
+            [-2.79122206, 51.35439522]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 43,
+        "id": 44,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4563",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79137695, 51.3633862],
+            [-2.79153188, 51.37237718],
+            [-2.77716703, 51.37247331],
+            [-2.77701486, 51.36348232],
+            [-2.79137695, 51.3633862]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 44,
+        "id": 45,
+        "species": "Greater Horseshoe Bat",
+        "year": 2019,
+        "osgr": "ST4564",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79153188, 51.37237718],
+            [-2.79168683, 51.38136815],
+            [-2.77731925, 51.3814643],
+            [-2.77716703, 51.37247331],
+            [-2.79153188, 51.37237718]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 45,
+        "id": 46,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4565",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79168683, 51.38136815],
+            [-2.79184184, 51.39035911],
+            [-2.77747152, 51.39045528],
+            [-2.77731925, 51.3814643],
+            [-2.79168683, 51.38136815]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 46,
+        "id": 47,
+        "species": "Greater Horseshoe Bat",
+        "year": 2021,
+        "osgr": "ST4566",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79184184, 51.39035911],
+            [-2.79199692, 51.39935005],
+            [-2.77762382, 51.39944625],
+            [-2.77747152, 51.39045528],
+            [-2.79184184, 51.39035911]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 47,
+        "id": 48,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4568",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79215212, 51.40834097],
+            [-2.79230756, 51.4173318],
+            [-2.7779287, 51.41742811],
+            [-2.77777618, 51.40843721],
+            [-2.79215212, 51.40834097]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 48,
+        "id": 49,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4569",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79230756, 51.4173318],
+            [-2.79246312, 51.4263226],
+            [-2.7780814, 51.42641895],
+            [-2.7779287, 51.41742811],
+            [-2.79230756, 51.4173318]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 49,
+        "id": 50,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4570",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79246312, 51.4263226],
+            [-2.79261872, 51.43531336],
+            [-2.77823414, 51.43540973],
+            [-2.7780814, 51.42641895],
+            [-2.79246312, 51.4263226]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 50,
+        "id": 51,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4571",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79261872, 51.43531336],
+            [-2.79277415, 51.44430402],
+            [-2.77838671, 51.44440041],
+            [-2.77823414, 51.43540973],
+            [-2.79261872, 51.43531336]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 51,
+        "id": 52,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4572",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79277415, 51.44430402],
+            [-2.79292973, 51.45329474],
+            [-2.77853943, 51.45339114],
+            [-2.77838671, 51.44440041],
+            [-2.79277415, 51.44430402]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 52,
+        "id": 53,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4574",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79308551, 51.46228553],
+            [-2.79324149, 51.47127633],
+            [-2.77884545, 51.47137276],
+            [-2.77869235, 51.46238194],
+            [-2.79308551, 51.46228553]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 53,
+        "id": 54,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4661",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77671073, 51.34550029],
+            [-2.77686275, 51.35449131],
+            [-2.76250335, 51.35458565],
+            [-2.76235411, 51.34559459],
+            [-2.77671073, 51.34550029]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 54,
+        "id": 55,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4662",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77686275, 51.35449131],
+            [-2.77701486, 51.36348232],
+            [-2.76265265, 51.36357668],
+            [-2.76250335, 51.35458565],
+            [-2.77686275, 51.35449131]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 55,
+        "id": 56,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4663",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77701486, 51.36348232],
+            [-2.77716703, 51.37247331],
+            [-2.76280202, 51.3725677],
+            [-2.76265265, 51.36357668],
+            [-2.77701486, 51.36348232]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 56,
+        "id": 57,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4664",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77716703, 51.37247331],
+            [-2.77731925, 51.3814643],
+            [-2.76295146, 51.38155871],
+            [-2.76280202, 51.3725677],
+            [-2.77716703, 51.37247331]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 57,
+        "id": 58,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4665",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77731925, 51.3814643],
+            [-2.77747152, 51.39045528],
+            [-2.76310098, 51.3905497],
+            [-2.76295146, 51.38155871],
+            [-2.77731925, 51.3814643]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 58,
+        "id": 59,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4666",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77747152, 51.39045528],
+            [-2.77762382, 51.39944625],
+            [-2.76325054, 51.3995407],
+            [-2.76310098, 51.3905497],
+            [-2.77747152, 51.39045528]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 59,
+        "id": 60,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4667",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77762382, 51.39944625],
+            [-2.77777618, 51.40843721],
+            [-2.76340016, 51.40853167],
+            [-2.76325054, 51.3995407],
+            [-2.77762382, 51.39944625]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 60,
+        "id": 61,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4668",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77777618, 51.40843721],
+            [-2.7779287, 51.41742811],
+            [-2.7635498, 51.41752264],
+            [-2.76340016, 51.40853167],
+            [-2.77777618, 51.40843721]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 61,
+        "id": 62,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4669",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.7779287, 51.41742811],
+            [-2.7780814, 51.42641895],
+            [-2.76369962, 51.42651354],
+            [-2.7635498, 51.41752264],
+            [-2.7779287, 51.41742811]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 62,
+        "id": 63,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST4672",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77838671, 51.44440041],
+            [-2.77853943, 51.45339114],
+            [-2.76414906, 51.45348577],
+            [-2.76399919, 51.44449503],
+            [-2.77838671, 51.44440041]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 63,
+        "id": 64,
+        "species": "Greater Horseshoe Bat",
+        "year": 1997,
+        "osgr": "ST4673",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.77853943, 51.45339114],
+            [-2.77869235, 51.46238194],
+            [-2.76429913, 51.46247659],
+            [-2.76414906, 51.45348577],
+            [-2.77853943, 51.45339114]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 64,
+        "id": 65,
+        "species": "Greater Horseshoe Bat",
+        "year": 2007,
+        "osgr": "ST4758",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76190661, 51.31862145],
+            [-2.76205573, 51.32761251],
+            [-2.74770457, 51.32770501],
+            [-2.74755826, 51.31871393],
+            [-2.76190661, 51.31862145]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 65,
+        "id": 66,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4761",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76235411, 51.34559459],
+            [-2.76250335, 51.35458565],
+            [-2.74814386, 51.35467822],
+            [-2.7479974, 51.34568715],
+            [-2.76235411, 51.34559459]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 66,
+        "id": 67,
+        "species": "Greater Horseshoe Bat",
+        "year": 2019,
+        "osgr": "ST4762",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76250335, 51.35458565],
+            [-2.76265265, 51.36357668],
+            [-2.74829036, 51.36366928],
+            [-2.74814386, 51.35467822],
+            [-2.76250335, 51.35458565]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 67,
+        "id": 68,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4763",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76265265, 51.36357668],
+            [-2.76280202, 51.3725677],
+            [-2.74843691, 51.37266033],
+            [-2.74829036, 51.36366928],
+            [-2.76265265, 51.36357668]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 68,
+        "id": 69,
+        "species": "Greater Horseshoe Bat",
+        "year": 2019,
+        "osgr": "ST4764",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76280202, 51.3725677],
+            [-2.76295146, 51.38155871],
+            [-2.74858355, 51.38165137],
+            [-2.74843691, 51.37266033],
+            [-2.76280202, 51.3725677]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 69,
+        "id": 70,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4765",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76295146, 51.38155871],
+            [-2.76310098, 51.3905497],
+            [-2.74873026, 51.39064239],
+            [-2.74858355, 51.38165137],
+            [-2.76295146, 51.38155871]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 70,
+        "id": 71,
+        "species": "Greater Horseshoe Bat",
+        "year": 2023,
+        "osgr": "ST4766",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76310098, 51.3905497],
+            [-2.76325054, 51.3995407],
+            [-2.74887704, 51.39963341],
+            [-2.74873026, 51.39064239],
+            [-2.76310098, 51.3905497]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 71,
+        "id": 72,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4767",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76325054, 51.3995407],
+            [-2.76340016, 51.40853167],
+            [-2.7490239, 51.4086244],
+            [-2.74887704, 51.39963341],
+            [-2.76325054, 51.3995407]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 72,
+        "id": 73,
+        "species": "Greater Horseshoe Bat",
+        "year": 2004,
+        "osgr": "ST4768",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76340016, 51.40853167],
+            [-2.7635498, 51.41752264],
+            [-2.74917081, 51.41761539],
+            [-2.7490239, 51.4086244],
+            [-2.76340016, 51.40853167]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 73,
+        "id": 74,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST4769",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.7635498, 51.41752264],
+            [-2.76369962, 51.42651354],
+            [-2.74931777, 51.42660635],
+            [-2.74917081, 51.41761539],
+            [-2.7635498, 51.41752264]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 74,
+        "id": 75,
+        "species": "Greater Horseshoe Bat",
+        "year": 2002,
+        "osgr": "ST4858",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74755826, 51.31871393],
+            [-2.74770457, 51.32770501],
+            [-2.73335335, 51.32779576],
+            [-2.73320985, 51.31880466],
+            [-2.74755826, 51.31871393]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 75,
+        "id": 76,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4862",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74814386, 51.35467822],
+            [-2.74829036, 51.36366928],
+            [-2.733928, 51.36376012],
+            [-2.73378428, 51.35476903],
+            [-2.74814386, 51.35467822]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 76,
+        "id": 77,
+        "species": "Greater Horseshoe Bat",
+        "year": 2014,
+        "osgr": "ST4863",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74829036, 51.36366928],
+            [-2.74843691, 51.37266033],
+            [-2.73407174, 51.37275121],
+            [-2.733928, 51.36376012],
+            [-2.74829036, 51.36366928]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 77,
+        "id": 78,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4865",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74858355, 51.38165137],
+            [-2.74873026, 51.39064239],
+            [-2.73435944, 51.39073332],
+            [-2.73421555, 51.38174227],
+            [-2.74858355, 51.38165137]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 78,
+        "id": 79,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4866",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74873026, 51.39064239],
+            [-2.74887704, 51.39963341],
+            [-2.73450342, 51.39972437],
+            [-2.73435944, 51.39073332],
+            [-2.74873026, 51.39064239]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 79,
+        "id": 80,
+        "species": "Greater Horseshoe Bat",
+        "year": 2014,
+        "osgr": "ST4867",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74887704, 51.39963341],
+            [-2.7490239, 51.4086244],
+            [-2.73464746, 51.40871538],
+            [-2.73450342, 51.39972437],
+            [-2.74887704, 51.39963341]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 80,
+        "id": 81,
+        "species": "Greater Horseshoe Bat",
+        "year": 2004,
+        "osgr": "ST4868",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.7490239, 51.4086244],
+            [-2.74917081, 51.41761539],
+            [-2.73479157, 51.4177064],
+            [-2.73464746, 51.40871538],
+            [-2.7490239, 51.4086244]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 81,
+        "id": 82,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST4874",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.74990586, 51.4625695],
+            [-2.75005322, 51.47156036],
+            [-2.73565711, 51.47165164],
+            [-2.73551261, 51.46266078],
+            [-2.74990586, 51.4625695]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 82,
+        "id": 83,
+        "species": "Greater Horseshoe Bat",
+        "year": 2019,
+        "osgr": "ST4964",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.73407174, 51.37275121],
+            [-2.73421555, 51.38174227],
+            [-2.71984748, 51.38183141],
+            [-2.71970649, 51.37284032],
+            [-2.73407174, 51.37275121]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 83,
+        "id": 84,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST4966",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.73435944, 51.39073332],
+            [-2.73450342, 51.39972437],
+            [-2.72012971, 51.39981356],
+            [-2.71998857, 51.3908225],
+            [-2.73435944, 51.39073332]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 84,
+        "id": 85,
+        "species": "Greater Horseshoe Bat",
+        "year": 2008,
+        "osgr": "ST4967",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.73450342, 51.39972437],
+            [-2.73464746, 51.40871538],
+            [-2.72027094, 51.40880461],
+            [-2.72012971, 51.39981356],
+            [-2.73450342, 51.39972437]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 85,
+        "id": 86,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST4976",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.73580182, 51.48064245],
+            [-2.73594687, 51.48963318],
+            [-2.72154522, 51.4897227],
+            [-2.7214029, 51.48073205],
+            [-2.73580182, 51.48064245]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 86,
+        "id": 87,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5062",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.71942457, 51.35485811],
+            [-2.71956553, 51.36384921],
+            [-2.70520295, 51.36393655],
+            [-2.70506478, 51.35494543],
+            [-2.71942457, 51.35485811]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 87,
+        "id": 88,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5063",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.71956553, 51.36384921],
+            [-2.71970649, 51.37284032],
+            [-2.70534114, 51.37292766],
+            [-2.70520295, 51.36393655],
+            [-2.71956553, 51.36384921]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 88,
+        "id": 89,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST5064",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.71970649, 51.37284032],
+            [-2.71984748, 51.38183141],
+            [-2.70547935, 51.38191878],
+            [-2.70534114, 51.37292766],
+            [-2.71970649, 51.37284032]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 89,
+        "id": 90,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5067",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.72012971, 51.39981356],
+            [-2.72027094, 51.40880461],
+            [-2.70589435, 51.40889207],
+            [-2.70575594, 51.39990099],
+            [-2.72012971, 51.39981356]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 90,
+        "id": 91,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5068",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.72027094, 51.40880461],
+            [-2.72041223, 51.41779566],
+            [-2.70603278, 51.41788313],
+            [-2.70589435, 51.40889207],
+            [-2.72027094, 51.40880461]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 91,
+        "id": 92,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST5069",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.72041223, 51.41779566],
+            [-2.72055352, 51.42678667],
+            [-2.70617114, 51.42687414],
+            [-2.70603278, 51.41788313],
+            [-2.72041223, 51.41779566]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 92,
+        "id": 93,
+        "species": "Greater Horseshoe Bat",
+        "year": 2011,
+        "osgr": "ST5071",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.72069497, 51.43577772],
+            [-2.72083648, 51.44476871],
+            [-2.70644857, 51.44485633],
+            [-2.70630979, 51.43586523],
+            [-2.72069497, 51.43577772]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 93,
+        "id": 94,
+        "species": "Greater Horseshoe Bat",
+        "year": 2013,
+        "osgr": "ST5075",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.72126098, 51.47174125],
+            [-2.7214029, 51.48073205],
+            [-2.7070039, 51.4808199],
+            [-2.7068648, 51.47182909],
+            [-2.72126098, 51.47174125]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 94,
+        "id": 95,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5161",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.70492668, 51.3459543],
+            [-2.70506478, 51.35494543],
+            [-2.69070492, 51.35503099],
+            [-2.69056962, 51.34603984],
+            [-2.70492668, 51.3459543]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 95,
+        "id": 96,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5162",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.70506478, 51.35494543],
+            [-2.70520295, 51.36393655],
+            [-2.69084028, 51.36402213],
+            [-2.69070492, 51.35503099],
+            [-2.70506478, 51.35494543]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 96,
+        "id": 97,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5163",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.70520295, 51.36393655],
+            [-2.70534114, 51.37292766],
+            [-2.69097569, 51.37301327],
+            [-2.69084028, 51.36402213],
+            [-2.70520295, 51.36393655]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 97,
+        "id": 98,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST5165",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.70547935, 51.38191878],
+            [-2.70561761, 51.3909099],
+            [-2.69124658, 51.39099554],
+            [-2.69111113, 51.3820044],
+            [-2.70547935, 51.38191878]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 98,
+        "id": 99,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5167",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.70575594, 51.39990099],
+            [-2.70589435, 51.40889207],
+            [-2.69151769, 51.40897777],
+            [-2.6913821, 51.39998666],
+            [-2.70575594, 51.39990099]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 99,
+        "id": 100,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5168",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.70589435, 51.40889207],
+            [-2.70603278, 51.41788313],
+            [-2.69165318, 51.41796883],
+            [-2.69151769, 51.40897777],
+            [-2.70589435, 51.40889207]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 100,
+        "id": 101,
+        "species": "Greater Horseshoe Bat",
+        "year": 1990,
+        "osgr": "ST5171",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.70630979, 51.43586523],
+            [-2.70644857, 51.44485633],
+            [-2.69206051, 51.44494212],
+            [-2.69192451, 51.43595098],
+            [-2.70630979, 51.43586523]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 101,
+        "id": 102,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5261",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.69056962, 51.34603984],
+            [-2.69070492, 51.35503099],
+            [-2.67634498, 51.35511479],
+            [-2.67621249, 51.34612361],
+            [-2.69056962, 51.34603984]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 102,
+        "id": 103,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5262",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.69070492, 51.35503099],
+            [-2.69084028, 51.36402213],
+            [-2.67647753, 51.36410596],
+            [-2.67634498, 51.35511479],
+            [-2.69070492, 51.35503099]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 103,
+        "id": 104,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST5267",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.6913821, 51.39998666],
+            [-2.69151769, 51.40897777],
+            [-2.6771409, 51.40906169],
+            [-2.67700818, 51.40007057],
+            [-2.6913821, 51.39998666]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 104,
+        "id": 105,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST5268",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.69151769, 51.40897777],
+            [-2.69165318, 51.41796883],
+            [-2.67727344, 51.41805274],
+            [-2.6771409, 51.40906169],
+            [-2.69151769, 51.40897777]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 105,
+        "id": 106,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST5269",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.69165318, 51.41796883],
+            [-2.69178867, 51.42695986],
+            [-2.67740615, 51.42704381],
+            [-2.67727344, 51.41805274],
+            [-2.69165318, 51.41796883]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 106,
+        "id": 107,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5363",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.67647753, 51.36410596],
+            [-2.67661015, 51.37309712],
+            [-2.66224452, 51.37317921],
+            [-2.66211471, 51.36418803],
+            [-2.67647753, 51.36410596]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 107,
+        "id": 108,
+        "species": "Greater Horseshoe Bat",
+        "year": 2006,
+        "osgr": "ST5367",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.67700818, 51.40007057],
+            [-2.6771409, 51.40906169],
+            [-2.66276395, 51.40914382],
+            [-2.66263418, 51.40015271],
+            [-2.67700818, 51.40007057]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 108,
+        "id": 109,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST5369",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.67727344, 51.41805274],
+            [-2.67740615, 51.42704381],
+            [-2.6630236, 51.427126],
+            [-2.66289362, 51.41813488],
+            [-2.67727344, 51.41805274]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 109,
+        "id": 110,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST5375",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.67807216, 51.47199943],
+            [-2.67820567, 51.4809903],
+            [-2.66380663, 51.48107277],
+            [-2.66367582, 51.47208183],
+            [-2.67807216, 51.47199943]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 110,
+        "id": 111,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST5456",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66120791, 51.30124938],
+            [-2.66133725, 51.31024066],
+            [-2.64699127, 51.31032085],
+            [-2.64686474, 51.30132956],
+            [-2.66120791, 51.30124938]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 111,
+        "id": 112,
+        "species": "Greater Horseshoe Bat",
+        "year": 2003,
+        "osgr": "ST5467",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66263418, 51.40015271],
+            [-2.66276395, 51.40914382],
+            [-2.64838708, 51.40922425],
+            [-2.64826006, 51.40023312],
+            [-2.66263418, 51.40015271]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 112,
+        "id": 113,
+        "species": "Greater Horseshoe Bat",
+        "year": 2009,
+        "osgr": "ST5471",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66315386, 51.43611719],
+            [-2.66328425, 51.44510838],
+            [-2.64889633, 51.44518885],
+            [-2.64876867, 51.43619764],
+            [-2.66315386, 51.43611719]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 113,
+        "id": 114,
+        "species": "Greater Horseshoe Bat",
+        "year": 2015,
+        "osgr": "ST5472",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66328425, 51.44510838],
+            [-2.6634147, 51.45409955],
+            [-2.64902409, 51.45418006],
+            [-2.64889633, 51.44518885],
+            [-2.66328425, 51.44510838]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 114,
+        "id": 115,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST5474",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66354521, 51.46309072],
+            [-2.66367582, 51.47208183],
+            [-2.64927986, 51.47216239],
+            [-2.64915191, 51.46317126],
+            [-2.66354521, 51.46309072]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 115,
+        "id": 116,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST5566",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.648133, 51.39124195],
+            [-2.64826006, 51.40023312],
+            [-2.63388572, 51.40031194],
+            [-2.63376158, 51.39132071],
+            [-2.648133, 51.39124195]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 116,
+        "id": 117,
+        "species": "Greater Horseshoe Bat",
+        "year": 2021,
+        "osgr": "ST5569",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64851398, 51.41821535],
+            [-2.6486412, 51.42720648],
+            [-2.63425943, 51.42728546],
+            [-2.63413527, 51.41829442],
+            [-2.64851398, 51.41821535]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 117,
+        "id": 118,
+        "species": "Greater Horseshoe Bat",
+        "year": 1990,
+        "osgr": "ST5578",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64966311, 51.49913504],
+            [-2.64979087, 51.50812583],
+            [-2.63538277, 51.50820489],
+            [-2.635258, 51.49921403],
+            [-2.64966311, 51.49913504]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 118,
+        "id": 119,
+        "species": "Greater Horseshoe Bat",
+        "year": 1992,
+        "osgr": "ST5655",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.63239797, 51.29241664],
+            [-2.63252163, 51.30140805],
+            [-2.61817854, 51.30148472],
+            [-2.61805776, 51.29249314],
+            [-2.63239797, 51.29241664]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 119,
+        "id": 120,
+        "species": "Greater Horseshoe Bat",
+        "year": 2015,
+        "osgr": "ST5671",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.63438362, 51.43627633],
+            [-2.63450847, 51.4452675],
+            [-2.62012023, 51.4453446],
+            [-2.61999907, 51.43635377],
+            [-2.63438362, 51.43627633]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 120,
+        "id": 121,
+        "species": "Greater Horseshoe Bat",
+        "year": 1999,
+        "osgr": "ST5673",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.63463361, 51.45425876],
+            [-2.63475876, 51.46325001],
+            [-2.6203644, 51.46332714],
+            [-2.62024214, 51.4543358],
+            [-2.63463361, 51.45425876]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 121,
+        "id": 122,
+        "species": "Greater Horseshoe Bat",
+        "year": 2015,
+        "osgr": "ST6060",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.57559869, 51.33766994],
+            [-2.57571121, 51.34666136],
+            [-2.56135365, 51.34673092],
+            [-2.56124397, 51.33773946],
+            [-2.57559869, 51.33766994]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 122,
+        "id": 123,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST6083",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.57820615, 51.54446739],
+            [-2.5783203, 51.55345863],
+            [-2.56389734, 51.55352896],
+            [-2.56378616, 51.54453773],
+            [-2.57820615, 51.54446739]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 123,
+        "id": 124,
+        "species": "Greater Horseshoe Bat",
+        "year": 2020,
+        "osgr": "ST6261",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.546996, 51.34679872],
+            [-2.54710294, 51.35579017],
+            [-2.53274238, 51.35585625],
+            [-2.53263836, 51.34686474],
+            [-2.546996, 51.34679872]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 124,
+        "id": 125,
+        "species": "Greater Horseshoe Bat",
+        "year": 2012,
+        "osgr": "ST6267",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54763908, 51.40074699],
+            [-2.54774643, 51.40973833],
+            [-2.533369, 51.40980454],
+            [-2.53326442, 51.4008132],
+            [-2.54763908, 51.40074699]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 125,
+        "id": 126,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST6276",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.54860852, 51.48166822],
+            [-2.54871655, 51.49065937],
+            [-2.5343138, 51.49072584],
+            [-2.53420871, 51.48173465],
+            [-2.54860852, 51.48166822]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 126,
+        "id": 127,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST6391",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.53579146, 51.61660262],
+            [-2.53589736, 51.62559376],
+            [-2.52145172, 51.62565883],
+            [-2.52134867, 51.61666766],
+            [-2.53579146, 51.61660262]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 127,
+        "id": 128,
+        "species": "Greater Horseshoe Bat",
+        "year": 2015,
+        "osgr": "ST6466",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.51878796, 51.39188626],
+            [-2.51888967, 51.40087765],
+            [-2.50451493, 51.40094033],
+            [-2.50441599, 51.39194892],
+            [-2.51878796, 51.39188626]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 128,
+        "id": 129,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST6556",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.50343181, 51.3020336],
+            [-2.50353009, 51.31102514],
+            [-2.48918305, 51.31108623],
+            [-2.48908756, 51.3020947],
+            [-2.50343181, 51.3020336]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 129,
+        "id": 130,
+        "species": "Greater Horseshoe Bat",
+        "year": 2009,
+        "osgr": "ST6754",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.47455785, 51.28417061],
+            [-2.4746507, 51.29316228],
+            [-2.46030965, 51.29321951],
+            [-2.46021945, 51.2842278],
+            [-2.47455785, 51.28417061]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 130,
+        "id": 131,
+        "species": "Greater Horseshoe Bat",
+        "year": 1993,
+        "osgr": "ST6758",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.4749287, 51.32013709],
+            [-2.47502146, 51.32912858],
+            [-2.46066894, 51.32918609],
+            [-2.460579, 51.32019457],
+            [-2.4749287, 51.32013709]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 131,
+        "id": 132,
+        "species": "Greater Horseshoe Bat",
+        "year": 2010,
+        "osgr": "ST6854",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.46021945, 51.2842278],
+            [-2.46030965, 51.29321951],
+            [-2.44596856, 51.29327481],
+            [-2.44588104, 51.28428312],
+            [-2.46021945, 51.2842278]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 132,
+        "id": 133,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST6954",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.44588104, 51.28428312],
+            [-2.44596856, 51.29327481],
+            [-2.43162711, 51.29332842],
+            [-2.43154265, 51.28433675],
+            [-2.44588104, 51.28428312]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 133,
+        "id": 134,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST6955",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.44596856, 51.29327481],
+            [-2.44605558, 51.30226663],
+            [-2.43171146, 51.30232017],
+            [-2.43162711, 51.29332842],
+            [-2.44596856, 51.29327481]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 134,
+        "id": 135,
+        "species": "Greater Horseshoe Bat",
+        "year": 2005,
+        "osgr": "ST6965",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.44684064, 51.38319059],
+            [-2.44692819, 51.39218212],
+            [-2.43255627, 51.39223606],
+            [-2.43247166, 51.38324449],
+            [-2.44684064, 51.38319059]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 135,
+        "id": 136,
+        "species": "Greater Horseshoe Bat",
+        "year": 2014,
+        "osgr": "ST6966",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.44692819, 51.39218212],
+            [-2.44701616, 51.40117364],
+            [-2.43264139, 51.4012276],
+            [-2.43255627, 51.39223606],
+            [-2.44692819, 51.39218212]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 136,
+        "id": 137,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7054",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43154265, 51.28433675],
+            [-2.43162711, 51.29332842],
+            [-2.41728558, 51.29338053],
+            [-2.41720408, 51.28438881],
+            [-2.43154265, 51.28433675]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 137,
+        "id": 138,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7059",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43196426, 51.32929554],
+            [-2.4320486, 51.33828713],
+            [-2.41769344, 51.3383392],
+            [-2.41761193, 51.32934747],
+            [-2.43196426, 51.32929554]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 138,
+        "id": 139,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7061",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.432133, 51.34727866],
+            [-2.43221748, 51.35627017],
+            [-2.41785672, 51.35632228],
+            [-2.417775, 51.34733079],
+            [-2.432133, 51.34727866]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 139,
+        "id": 140,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7062",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43221748, 51.35627017],
+            [-2.43230208, 51.36526163],
+            [-2.41793871, 51.36531369],
+            [-2.41785672, 51.35632228],
+            [-2.43221748, 51.35627017]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 140,
+        "id": 141,
+        "species": "Greater Horseshoe Bat",
+        "year": 2004,
+        "osgr": "ST7064",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43238691, 51.37425302],
+            [-2.43247166, 51.38324449],
+            [-2.41810262, 51.38329665],
+            [-2.41802084, 51.37430506],
+            [-2.43238691, 51.37425302]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 141,
+        "id": 142,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7065",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43247166, 51.38324449],
+            [-2.43255627, 51.39223606],
+            [-2.41818439, 51.39228823],
+            [-2.41810262, 51.38329665],
+            [-2.43247166, 51.38324449]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 142,
+        "id": 143,
+        "species": "Greater Horseshoe Bat",
+        "year": 1975,
+        "osgr": "ST7069",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43281183, 51.41921061],
+            [-2.43289712, 51.4282021],
+            [-2.41851382, 51.42825435],
+            [-2.41843137, 51.41926284],
+            [-2.43281183, 51.41921061]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 143,
+        "id": 144,
+        "species": "Greater Horseshoe Bat",
+        "year": 2007,
+        "osgr": "ST7075",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.43332249, 51.47315898],
+            [-2.43340762, 51.48215037],
+            [-2.41900718, 51.48220276],
+            [-2.41892489, 51.47321134],
+            [-2.43332249, 51.47315898]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 144,
+        "id": 145,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7157",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41744869, 51.31136396],
+            [-2.41753031, 51.32035569],
+            [-2.40318039, 51.32040609],
+            [-2.40310157, 51.31141438],
+            [-2.41744869, 51.31136396]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 145,
+        "id": 146,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7158",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41753031, 51.32035569],
+            [-2.41761193, 51.32934747],
+            [-2.40325923, 51.32939779],
+            [-2.40318039, 51.32040609],
+            [-2.41753031, 51.32035569]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 146,
+        "id": 147,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7159",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41761193, 51.32934747],
+            [-2.41769344, 51.3383392],
+            [-2.40333808, 51.33838948],
+            [-2.40325923, 51.32939779],
+            [-2.41761193, 51.32934747]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 147,
+        "id": 148,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7162",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41785672, 51.35632228],
+            [-2.41793871, 51.36531369],
+            [-2.40357539, 51.36536399],
+            [-2.4034961, 51.3563726],
+            [-2.41785672, 51.35632228]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 148,
+        "id": 149,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7163",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41793871, 51.36531369],
+            [-2.41802084, 51.37430506],
+            [-2.4036546, 51.37435544],
+            [-2.40357539, 51.36536399],
+            [-2.41793871, 51.36531369]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 149,
+        "id": 150,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7164",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.41802084, 51.37430506],
+            [-2.41810262, 51.38329665],
+            [-2.40373354, 51.38334703],
+            [-2.4036546, 51.37435544],
+            [-2.41802084, 51.37430506]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 150,
+        "id": 151,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7258",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.40318039, 51.32040609],
+            [-2.40325923, 51.32939779],
+            [-2.38890655, 51.32944643],
+            [-2.38883047, 51.32045475],
+            [-2.40318039, 51.32040609]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 151,
+        "id": 152,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7259",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.40325923, 51.32939779],
+            [-2.40333808, 51.33838948],
+            [-2.3889827, 51.33843809],
+            [-2.38890655, 51.32944643],
+            [-2.40325923, 51.32939779]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 152,
+        "id": 153,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7260",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.40333808, 51.33838948],
+            [-2.403417, 51.34738111],
+            [-2.38905891, 51.34742972],
+            [-2.3889827, 51.33843809],
+            [-2.40333808, 51.33838948]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 153,
+        "id": 154,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7261",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.403417, 51.34738111],
+            [-2.4034961, 51.3563726],
+            [-2.38913522, 51.35642126],
+            [-2.38905891, 51.34742972],
+            [-2.403417, 51.34738111]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 154,
+        "id": 155,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7262",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.4034961, 51.3563726],
+            [-2.40357539, 51.36536399],
+            [-2.38921169, 51.36541269],
+            [-2.38913522, 51.35642126],
+            [-2.4034961, 51.3563726]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 155,
+        "id": 156,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7263",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.40357539, 51.36536399],
+            [-2.4036546, 51.37435544],
+            [-2.38928816, 51.37440412],
+            [-2.38921169, 51.36541269],
+            [-2.40357539, 51.36536399]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 156,
+        "id": 157,
+        "species": "Greater Horseshoe Bat",
+        "year": 1975,
+        "osgr": "ST7270",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.40413044, 51.42830482],
+            [-2.40420984, 51.43729626],
+            [-2.38982342, 51.43734496],
+            [-2.38974695, 51.42835351],
+            [-2.40413044, 51.42830482]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 157,
+        "id": 158,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7359",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.38890655, 51.32944643],
+            [-2.3889827, 51.33843809],
+            [-2.37462743, 51.33848493],
+            [-2.37455402, 51.32949325],
+            [-2.38890655, 51.32944643]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 158,
+        "id": 159,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7360",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3889827, 51.33843809],
+            [-2.38905891, 51.34742972],
+            [-2.37470086, 51.34747657],
+            [-2.37462743, 51.33848493],
+            [-2.3889827, 51.33843809]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 159,
+        "id": 160,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7361",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.38905891, 51.34742972],
+            [-2.38913522, 51.35642126],
+            [-2.37477432, 51.35646815],
+            [-2.37470086, 51.34747657],
+            [-2.38905891, 51.34742972]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 160,
+        "id": 161,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7362",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.38913522, 51.35642126],
+            [-2.38921169, 51.36541269],
+            [-2.37484786, 51.36545966],
+            [-2.37477432, 51.35646815],
+            [-2.38913522, 51.35642126]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 161,
+        "id": 162,
+        "species": "Greater Horseshoe Bat",
+        "year": 2018,
+        "osgr": "ST7363",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.38921169, 51.36541269],
+            [-2.38928816, 51.37440412],
+            [-2.37492149, 51.37445113],
+            [-2.37484786, 51.36545966],
+            [-2.38921169, 51.36541269]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 162,
+        "id": 163,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7459",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37455402, 51.32949325],
+            [-2.37462743, 51.33848493],
+            [-2.36027219, 51.33853],
+            [-2.36020157, 51.32953831],
+            [-2.37455402, 51.32949325]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 163,
+        "id": 164,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7460",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37462743, 51.33848493],
+            [-2.37470086, 51.34747657],
+            [-2.36034279, 51.34752164],
+            [-2.36027219, 51.33853],
+            [-2.37462743, 51.33848493]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 164,
+        "id": 165,
+        "species": "Greater Horseshoe Bat",
+        "year": 2004,
+        "osgr": "ST7461",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37470086, 51.34747657],
+            [-2.37477432, 51.35646815],
+            [-2.36041341, 51.35651324],
+            [-2.36034279, 51.34752164],
+            [-2.37470086, 51.34747657]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 165,
+        "id": 166,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7462",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37477432, 51.35646815],
+            [-2.37484786, 51.36545966],
+            [-2.36048407, 51.36550481],
+            [-2.36041341, 51.35651324],
+            [-2.37477432, 51.35646815]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 166,
+        "id": 167,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7463",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37484786, 51.36545966],
+            [-2.37492149, 51.37445113],
+            [-2.3605548, 51.37449636],
+            [-2.36048407, 51.36550481],
+            [-2.37484786, 51.36545966]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 167,
+        "id": 168,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST7465",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37499507, 51.38344263],
+            [-2.37506853, 51.39243419],
+            [-2.36069639, 51.39247937],
+            [-2.36062559, 51.38348786],
+            [-2.37499507, 51.38344263]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 168,
+        "id": 169,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST7468",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37521577, 51.41041739],
+            [-2.37528964, 51.41940894],
+            [-2.3609089, 51.4194541],
+            [-2.36083797, 51.41046255],
+            [-2.37521577, 51.41041739]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 169,
+        "id": 170,
+        "species": "Greater Horseshoe Bat",
+        "year": 2007,
+        "osgr": "ST7487",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37662047, 51.58125486],
+            [-2.37669489, 51.59024625],
+            [-2.36226024, 51.59029169],
+            [-2.36218863, 51.5813003],
+            [-2.37662047, 51.58125486]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 170,
+        "id": 171,
+        "species": "Greater Horseshoe Bat",
+        "year": 2010,
+        "osgr": "ST7488",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37669489, 51.59024625],
+            [-2.37676939, 51.59923762],
+            [-2.36233189, 51.59928307],
+            [-2.36226024, 51.59029169],
+            [-2.37669489, 51.59024625]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 171,
+        "id": 172,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7557",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3600604, 51.31155486],
+            [-2.36013096, 51.32054659],
+            [-2.34578132, 51.32058988],
+            [-2.34571352, 51.31159811],
+            [-2.3600604, 51.31155486]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 172,
+        "id": 173,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7558",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36013096, 51.32054659],
+            [-2.36020157, 51.32953831],
+            [-2.34584912, 51.32958163],
+            [-2.34578132, 51.32058988],
+            [-2.36013096, 51.32054659]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 173,
+        "id": 174,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7559",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36020157, 51.32953831],
+            [-2.36027219, 51.33853],
+            [-2.3459169, 51.33857331],
+            [-2.34584912, 51.32958163],
+            [-2.36020157, 51.32953831]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 174,
+        "id": 175,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7560",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36027219, 51.33853],
+            [-2.36034279, 51.34752164],
+            [-2.34598468, 51.34756494],
+            [-2.3459169, 51.33857331],
+            [-2.36027219, 51.33853]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 175,
+        "id": 176,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7561",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36034279, 51.34752164],
+            [-2.36041341, 51.35651324],
+            [-2.34605248, 51.35655655],
+            [-2.34598468, 51.34756494],
+            [-2.36034279, 51.34752164]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 176,
+        "id": 177,
+        "species": "Greater Horseshoe Bat",
+        "year": 2007,
+        "osgr": "ST7562",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36041341, 51.35651324],
+            [-2.36048407, 51.36550481],
+            [-2.34612033, 51.36554815],
+            [-2.34605248, 51.35655655],
+            [-2.36041341, 51.35651324]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 177,
+        "id": 178,
+        "species": "Greater Horseshoe Bat",
+        "year": 2001,
+        "osgr": "ST7563",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.36048407, 51.36550481],
+            [-2.3605548, 51.37449636],
+            [-2.3461882, 51.37453974],
+            [-2.34612033, 51.36554815],
+            [-2.36048407, 51.36550481]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 178,
+        "id": 179,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7659",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34584912, 51.32958163],
+            [-2.3459169, 51.33857331],
+            [-2.33156157, 51.33861485],
+            [-2.33149661, 51.32962317],
+            [-2.34584912, 51.32958163]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 179,
+        "id": 180,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7660",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3459169, 51.33857331],
+            [-2.34598468, 51.34756494],
+            [-2.33162653, 51.34760648],
+            [-2.33156157, 51.33861485],
+            [-2.3459169, 51.33857331]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 180,
+        "id": 181,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7661",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34598468, 51.34756494],
+            [-2.34605248, 51.35655655],
+            [-2.33169153, 51.35659811],
+            [-2.33162653, 51.34760648],
+            [-2.34598468, 51.34756494]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 181,
+        "id": 182,
+        "species": "Greater Horseshoe Bat",
+        "year": 2019,
+        "osgr": "ST7662",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34605248, 51.35655655],
+            [-2.34612033, 51.36554815],
+            [-2.33175656, 51.36558972],
+            [-2.33169153, 51.35659811],
+            [-2.34605248, 51.35655655]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 182,
+        "id": 183,
+        "species": "Greater Horseshoe Bat",
+        "year": 2016,
+        "osgr": "ST7663",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34612033, 51.36554815],
+            [-2.3461882, 51.37453974],
+            [-2.33182162, 51.37458132],
+            [-2.33175656, 51.36558972],
+            [-2.34612033, 51.36554815]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 183,
+        "id": 184,
+        "species": "Greater Horseshoe Bat",
+        "year": 2008,
+        "osgr": "ST7671",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.34666401, 51.43748063],
+            [-2.34673202, 51.44647218],
+            [-2.33234269, 51.44651391],
+            [-2.33227752, 51.43752235],
+            [-2.34666401, 51.43748063]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 184,
+        "id": 185,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7758",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33143165, 51.32063144],
+            [-2.33149661, 51.32962317],
+            [-2.31714407, 51.32966295],
+            [-2.31708194, 51.32067124],
+            [-2.33143165, 51.32063144]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 185,
+        "id": 186,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7759",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33149661, 51.32962317],
+            [-2.33156157, 51.33861485],
+            [-2.31720619, 51.33865461],
+            [-2.31714407, 51.32966295],
+            [-2.33149661, 51.32962317]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 186,
+        "id": 187,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7760",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33156157, 51.33861485],
+            [-2.33162653, 51.34760648],
+            [-2.31726834, 51.34764627],
+            [-2.31720619, 51.33865461],
+            [-2.33156157, 51.33861485]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 187,
+        "id": 188,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7762",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33169153, 51.35659811],
+            [-2.33175656, 51.36558972],
+            [-2.31739274, 51.36562954],
+            [-2.31733053, 51.35663791],
+            [-2.33169153, 51.35659811]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 188,
+        "id": 189,
+        "species": "Greater Horseshoe Bat",
+        "year": 2017,
+        "osgr": "ST7764",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33182162, 51.37458132],
+            [-2.33188671, 51.3835729],
+            [-2.31751727, 51.38361274],
+            [-2.317455, 51.37462114],
+            [-2.33182162, 51.37458132]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 189,
+        "id": 190,
+        "species": "Greater Horseshoe Bat",
+        "year": 1988,
+        "osgr": "ST7765",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33188671, 51.3835729],
+            [-2.33195184, 51.39256448],
+            [-2.31757956, 51.39260435],
+            [-2.31751727, 51.38361274],
+            [-2.33188671, 51.3835729]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 190,
+        "id": 191,
+        "species": "Greater Horseshoe Bat",
+        "year": 2008,
+        "osgr": "ST7770",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33221237, 51.42853078],
+            [-2.33227752, 51.43752235],
+            [-2.31789108, 51.43756231],
+            [-2.31782875, 51.42857073],
+            [-2.33221237, 51.42853078]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 191,
+        "id": 192,
+        "species": "Greater Horseshoe Bat",
+        "year": 1986,
+        "osgr": "ST7779",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33279989, 51.50945442],
+            [-2.33286534, 51.51844587],
+            [-2.31845344, 51.51848595],
+            [-2.31839082, 51.50949449],
+            [-2.33279989, 51.50945442]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 192,
+        "id": 193,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7859",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.31714407, 51.32966295],
+            [-2.31720619, 51.33865461],
+            [-2.30285079, 51.33869263],
+            [-2.30279148, 51.32970096],
+            [-2.31714407, 51.32966295]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 193,
+        "id": 194,
+        "species": "Greater Horseshoe Bat",
+        "year": 2014,
+        "osgr": "ST7863",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.31739274, 51.36562954],
+            [-2.317455, 51.37462114],
+            [-2.30308832, 51.37465923],
+            [-2.3030289, 51.36566759],
+            [-2.31739274, 51.36562954]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 194,
+        "id": 195,
+        "species": "Greater Horseshoe Bat",
+        "year": 2004,
+        "osgr": "ST7864",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.317455, 51.37462114],
+            [-2.31751727, 51.38361274],
+            [-2.30314771, 51.3836509],
+            [-2.30308832, 51.37465923],
+            [-2.317455, 51.37462114]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 195,
+        "id": 196,
+        "species": "Greater Horseshoe Bat",
+        "year": 2008,
+        "osgr": "ST7869",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.31776643, 51.41957916],
+            [-2.31782875, 51.42857073],
+            [-2.30344507, 51.42860894],
+            [-2.30338552, 51.4196174],
+            [-2.31776643, 51.41957916]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 196,
+        "id": 197,
+        "species": "Greater Horseshoe Bat",
+        "year": 2008,
+        "osgr": "ST7870",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.31782875, 51.42857073],
+            [-2.31789108, 51.43756231],
+            [-2.30350461, 51.43760051],
+            [-2.30344507, 51.42860894],
+            [-2.31782875, 51.42857073]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 197,
+        "id": 198,
+        "species": "Greater Horseshoe Bat",
+        "year": 2000,
+        "osgr": "ST7958",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30273218, 51.32070924],
+            [-2.30279148, 51.32970096],
+            [-2.28843885, 51.3297372],
+            [-2.28838237, 51.32074549],
+            [-2.30273218, 51.32070924]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 198,
+        "id": 199,
+        "species": "Greater Horseshoe Bat",
+        "year": 2004,
+        "osgr": "ST7960",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30285079, 51.33869263],
+            [-2.30291014, 51.34768429],
+            [-2.28855188, 51.34772057],
+            [-2.28849535, 51.33872889],
+            [-2.30285079, 51.33869263]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 199,
+        "id": 200,
+        "species": "Greater Horseshoe Bat",
+        "year": 2013,
+        "osgr": "ST7965",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30314771, 51.3836509],
+            [-2.3032071, 51.39264257],
+            [-2.28883459, 51.39267902],
+            [-2.28877803, 51.38368734],
+            [-2.30314771, 51.3836509]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 200,
+        "id": 201,
+        "species": "Greater Horseshoe Bat",
+        "year": 2013,
+        "osgr": "ST7966",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.3032071, 51.39264257],
+            [-2.30326651, 51.40163422],
+            [-2.2888912, 51.40167069],
+            [-2.28883459, 51.39267902],
+            [-2.3032071, 51.39264257]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 201,
+        "id": 202,
+        "species": "Greater Horseshoe Bat",
+        "year": 2008,
+        "osgr": "ST7970",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.30344507, 51.42860894],
+            [-2.30350461, 51.43760051],
+            [-2.28911807, 51.43763697],
+            [-2.28906131, 51.42864543],
+            [-2.30344507, 51.42860894]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 202,
+        "id": 203,
+        "species": "Greater Horseshoe Bat",
+        "year": 2008,
+        "osgr": "ST8058",
+        "record_type": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.28838237, 51.32074549],
+            [-2.28843885, 51.3297372],
+            [-2.27408618, 51.32977169],
+            [-2.27403252, 51.32077997],
+            [-2.28838237, 51.32074549]
+          ]
+        ]
+      }
+    }
+  ]
 }

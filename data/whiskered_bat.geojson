@@ -1,0 +1,2019 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.84848614,
+                            51.34500553
+                        ],
+                        [
+                            -2.83413016,
+                            51.34510866
+                        ],
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ],
+                        [
+                            -2.8483201,
+                            51.3360148
+                        ],
+                        [
+                            -2.84848614,
+                            51.34500553
+                        ]
+                    ]
+                ]
+            },
+            "id": 4814,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2021,
+                "osgr_1km": "ST4160",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83364072,
+                            51.31813635
+                        ],
+                        [
+                            -2.81929308,
+                            51.31823763
+                        ],
+                        [
+                            -2.8191329,
+                            51.3092468
+                        ],
+                        [
+                            -2.83347774,
+                            51.30914555
+                        ],
+                        [
+                            -2.83364072,
+                            51.31813635
+                        ]
+                    ]
+                ]
+            },
+            "id": 2904,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST4257",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ],
+                        [
+                            -2.81961368,
+                            51.33621925
+                        ],
+                        [
+                            -2.81945334,
+                            51.32722845
+                        ],
+                        [
+                            -2.83380378,
+                            51.32712714
+                        ],
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ]
+                    ]
+                ]
+            },
+            "id": 691,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1987,
+                "osgr_1km": "ST4259",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.83478394,
+                            51.38107154
+                        ],
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ]
+                    ]
+                ]
+            },
+            "id": 2839,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST4265",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82106049,
+                            51.41713583
+                        ],
+                        [
+                            -2.80668184,
+                            51.4172357
+                        ],
+                        [
+                            -2.80652357,
+                            51.40824499
+                        ],
+                        [
+                            -2.8208994,
+                            51.40814515
+                        ],
+                        [
+                            -2.82106049,
+                            51.41713583
+                        ]
+                    ]
+                ]
+            },
+            "id": 2778,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2011,
+                "osgr_1km": "ST4368",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ],
+                        [
+                            -2.7913716,
+                            51.36338917
+                        ],
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ]
+                    ]
+                ]
+            },
+            "id": 5701,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2019,
+                "osgr_1km": "ST4463",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80636538,
+                            51.39925427
+                        ],
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.80620727,
+                            51.39026354
+                        ],
+                        [
+                            -2.80636538,
+                            51.39925427
+                        ]
+                    ]
+                ]
+            },
+            "id": 4123,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2019,
+                "osgr_1km": "ST4466",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79075221,
+                            51.32742579
+                        ],
+                        [
+                            -2.77640152,
+                            51.32752183
+                        ],
+                        [
+                            -2.77624967,
+                            51.31853092
+                        ],
+                        [
+                            -2.79059756,
+                            51.31843491
+                        ],
+                        [
+                            -2.79075221,
+                            51.32742579
+                        ]
+                    ]
+                ]
+            },
+            "id": 355,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1982,
+                "osgr_1km": "ST4558",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79090693,
+                            51.33641666
+                        ],
+                        [
+                            -2.77655344,
+                            51.33651272
+                        ],
+                        [
+                            -2.77640152,
+                            51.32752183
+                        ],
+                        [
+                            -2.79075221,
+                            51.32742579
+                        ],
+                        [
+                            -2.79090693,
+                            51.33641666
+                        ]
+                    ]
+                ]
+            },
+            "id": 191,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1988,
+                "osgr_1km": "ST4559",
+                "data_provider_id": "dp116",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ],
+                        [
+                            -2.7776191,
+                            51.3994486
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ]
+                    ]
+                ]
+            },
+            "id": 2011,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST4566",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.7776191,
+                            51.3994486
+                        ],
+                        [
+                            -2.76324584,
+                            51.39954312
+                        ],
+                        [
+                            -2.76309619,
+                            51.39055229
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.7776191,
+                            51.3994486
+                        ]
+                    ]
+                ]
+            },
+            "id": 1337,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST4666",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ],
+                        [
+                            -2.7482856,
+                            51.36367236
+                        ],
+                        [
+                            -2.74813907,
+                            51.35468145
+                        ],
+                        [
+                            -2.76249833,
+                            51.35458884
+                        ],
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ]
+                    ]
+                ]
+            },
+            "id": 1295,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST4762",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76324584,
+                            51.39954312
+                        ],
+                        [
+                            -2.74887251,
+                            51.39963587
+                        ],
+                        [
+                            -2.74872567,
+                            51.39064502
+                        ],
+                        [
+                            -2.76309619,
+                            51.39055229
+                        ],
+                        [
+                            -2.76324584,
+                            51.39954312
+                        ]
+                    ]
+                ]
+            },
+            "id": 5625,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1986,
+                "osgr_1km": "ST4766",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.72083274,
+                            51.44477046
+                        ],
+                        [
+                            -2.70644507,
+                            51.44485807
+                        ],
+                        [
+                            -2.70630633,
+                            51.43586719
+                        ],
+                        [
+                            -2.72069117,
+                            51.43577961
+                        ],
+                        [
+                            -2.72083274,
+                            51.44477046
+                        ]
+                    ]
+                ]
+            },
+            "id": 4251,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2018,
+                "osgr_1km": "ST5071",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64851155,
+                            51.41821787
+                        ],
+                        [
+                            -2.63413201,
+                            51.41829658
+                        ],
+                        [
+                            -2.63400758,
+                            51.40930553
+                        ],
+                        [
+                            -2.6483843,
+                            51.40922685
+                        ],
+                        [
+                            -2.64851155,
+                            51.41821787
+                        ]
+                    ]
+                ]
+            },
+            "id": 3157,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1998,
+                "osgr_1km": "ST5568",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.62121669,
+                            51.52626526
+                        ],
+                        [
+                            -2.60680307,
+                            51.52634073
+                        ],
+                        [
+                            -2.60668353,
+                            51.5173498
+                        ],
+                        [
+                            -2.62109432,
+                            51.51727436
+                        ],
+                        [
+                            -2.62121669,
+                            51.52626526
+                        ]
+                    ]
+                ]
+            },
+            "id": 5810,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1993,
+                "osgr_1km": "ST5780",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57570963,
+                            51.34666425
+                        ],
+                        [
+                            -2.5613523,
+                            51.34673395
+                        ],
+                        [
+                            -2.56124242,
+                            51.33774268
+                        ],
+                        [
+                            -2.57559694,
+                            51.33767299
+                        ],
+                        [
+                            -2.57570963,
+                            51.34666425
+                        ]
+                    ]
+                ]
+            },
+            "id": 5183,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2014,
+                "osgr_1km": "ST6060",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54667387,
+                            51.31982797
+                        ],
+                        [
+                            -2.53232485,
+                            51.3198941
+                        ],
+                        [
+                            -2.53222075,
+                            51.31090274
+                        ],
+                        [
+                            -2.54656697,
+                            51.31083663
+                        ],
+                        [
+                            -2.54667387,
+                            51.31982797
+                        ]
+                    ]
+                ]
+            },
+            "id": 2738,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2000,
+                "osgr_1km": "ST6257",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ],
+                        [
+                            -2.53368304,
+                            51.4367805
+                        ],
+                        [
+                            -2.53357824,
+                            51.42778932
+                        ],
+                        [
+                            -2.54796103,
+                            51.42772294
+                        ],
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ]
+                    ]
+                ]
+            },
+            "id": 5927,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6270",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54817633,
+                            51.44570524
+                        ],
+                        [
+                            -2.5337879,
+                            51.44577166
+                        ],
+                        [
+                            -2.53368304,
+                            51.4367805
+                        ],
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ],
+                        [
+                            -2.54817633,
+                            51.44570524
+                        ]
+                    ]
+                ]
+            },
+            "id": 3878,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2000,
+                "osgr_1km": "ST6271",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54839186,
+                            51.46368748
+                        ],
+                        [
+                            -2.53399777,
+                            51.46375395
+                        ],
+                        [
+                            -2.53389281,
+                            51.45476281
+                        ],
+                        [
+                            -2.54828407,
+                            51.45469637
+                        ],
+                        [
+                            -2.54839186,
+                            51.46368748
+                        ]
+                    ]
+                ]
+            },
+            "id": 5525,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6273",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.53389281,
+                            51.45476281
+                        ],
+                        [
+                            -2.5195015,
+                            51.45482749
+                        ],
+                        [
+                            -2.51939941,
+                            51.44583632
+                        ],
+                        [
+                            -2.5337879,
+                            51.44577166
+                        ],
+                        [
+                            -2.53389281,
+                            51.45476281
+                        ]
+                    ]
+                ]
+            },
+            "id": 5355,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6372",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51980806,
+                            51.48180092
+                        ],
+                        [
+                            -2.50540821,
+                            51.48186389
+                        ],
+                        [
+                            -2.5053088,
+                            51.47287274
+                        ],
+                        [
+                            -2.51970582,
+                            51.47280979
+                        ],
+                        [
+                            -2.51980806,
+                            51.48180092
+                        ]
+                    ]
+                ]
+            },
+            "id": 1944,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6475",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.52001271,
+                            51.49978313
+                        ],
+                        [
+                            -2.50560719,
+                            51.49984614
+                        ],
+                        [
+                            -2.50550768,
+                            51.49085502
+                        ],
+                        [
+                            -2.51991036,
+                            51.49079203
+                        ],
+                        [
+                            -2.52001271,
+                            51.49978313
+                        ]
+                    ]
+                ]
+            },
+            "id": 3363,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6477",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50441641,
+                            51.39195178
+                        ],
+                        [
+                            -2.49004475,
+                            51.39201278
+                        ],
+                        [
+                            -2.48994866,
+                            51.38302148
+                        ],
+                        [
+                            -2.50431751,
+                            51.38296049
+                        ],
+                        [
+                            -2.50441641,
+                            51.39195178
+                        ]
+                    ]
+                ]
+            },
+            "id": 3060,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2020,
+                "osgr_1km": "ST6565",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ],
+                        [
+                            -2.49033329,
+                            51.41898662
+                        ],
+                        [
+                            -2.49023706,
+                            51.40999536
+                        ],
+                        [
+                            -2.50461436,
+                            51.40993431
+                        ],
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ]
+                    ]
+                ]
+            },
+            "id": 3257,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2018,
+                "osgr_1km": "ST6568",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.48937321,
+                            51.32907333
+                        ],
+                        [
+                            -2.47502118,
+                            51.32913245
+                        ],
+                        [
+                            -2.47492825,
+                            51.32014102
+                        ],
+                        [
+                            -2.48927748,
+                            51.32008193
+                        ],
+                        [
+                            -2.48937321,
+                            51.32907333
+                        ]
+                    ]
+                ]
+            },
+            "id": 2059,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1992,
+                "osgr_1km": "ST6658",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49004475,
+                            51.39201278
+                        ],
+                        [
+                            -2.47567303,
+                            51.39207203
+                        ],
+                        [
+                            -2.47557977,
+                            51.3830807
+                        ],
+                        [
+                            -2.48994866,
+                            51.38302148
+                        ],
+                        [
+                            -2.49004475,
+                            51.39201278
+                        ]
+                    ]
+                ]
+            },
+            "id": 3090,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2004,
+                "osgr_1km": "ST6665",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49062229,
+                            51.44596034
+                        ],
+                        [
+                            -2.47623365,
+                            51.4460197
+                        ],
+                        [
+                            -2.47614009,
+                            51.43702845
+                        ],
+                        [
+                            -2.4905259,
+                            51.43696911
+                        ],
+                        [
+                            -2.49062229,
+                            51.44596034
+                        ]
+                    ]
+                ]
+            },
+            "id": 3001,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2018,
+                "osgr_1km": "ST6671",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.46030889,
+                            51.29322394
+                        ],
+                        [
+                            -2.44596798,
+                            51.29327947
+                        ],
+                        [
+                            -2.44588084,
+                            51.28428795
+                        ],
+                        [
+                            -2.46021895,
+                            51.28423245
+                        ],
+                        [
+                            -2.46030889,
+                            51.29322394
+                        ]
+                    ]
+                ]
+            },
+            "id": 3139,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6854",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ],
+                        [
+                            -2.44798462,
+                            51.5000805
+                        ],
+                        [
+                            -2.44789644,
+                            51.4910893
+                        ],
+                        [
+                            -2.46229932,
+                            51.49103339
+                        ],
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ]
+                    ]
+                ]
+            },
+            "id": 3390,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1996,
+                "osgr_1km": "ST6877",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.44596798,
+                            51.29327947
+                        ],
+                        [
+                            -2.43162702,
+                            51.29333324
+                        ],
+                        [
+                            -2.43154269,
+                            51.28434171
+                        ],
+                        [
+                            -2.44588084,
+                            51.28428795
+                        ],
+                        [
+                            -2.44596798,
+                            51.29327947
+                        ]
+                    ]
+                ]
+            },
+            "id": 1359,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6954",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.44631698,
+                            51.3292454
+                        ],
+                        [
+                            -2.43196481,
+                            51.32929924
+                        ],
+                        [
+                            -2.4318803,
+                            51.32030776
+                        ],
+                        [
+                            -2.44622966,
+                            51.32025394
+                        ],
+                        [
+                            -2.44631698,
+                            51.3292454
+                        ]
+                    ]
+                ]
+            },
+            "id": 6106,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2019,
+                "osgr_1km": "ST6958",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.4484262,
+                            51.54503627
+                        ],
+                        [
+                            -2.43400625,
+                            51.54509052
+                        ],
+                        [
+                            -2.43392069,
+                            51.53609938
+                        ],
+                        [
+                            -2.4483378,
+                            51.53604514
+                        ],
+                        [
+                            -2.4484262,
+                            51.54503627
+                        ]
+                    ]
+                ]
+            },
+            "id": 6409,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2000,
+                "osgr_1km": "ST6982",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.44860316,
+                            51.56301848
+                        ],
+                        [
+                            -2.43417752,
+                            51.56307276
+                        ],
+                        [
+                            -2.43409187,
+                            51.55408165
+                        ],
+                        [
+                            -2.44851466,
+                            51.55402738
+                        ],
+                        [
+                            -2.44860316,
+                            51.56301848
+                        ]
+                    ]
+                ]
+            },
+            "id": 5747,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST6984",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.43426322,
+                            51.57206386
+                        ],
+                        [
+                            -2.4198347,
+                            51.5721164
+                        ],
+                        [
+                            -2.41975184,
+                            51.56312528
+                        ],
+                        [
+                            -2.43417752,
+                            51.56307276
+                        ],
+                        [
+                            -2.43426322,
+                            51.57206386
+                        ]
+                    ]
+                ]
+            },
+            "id": 1840,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST7085",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41818571,
+                            51.39229139
+                        ],
+                        [
+                            -2.40381377,
+                            51.39234182
+                        ],
+                        [
+                            -2.40373459,
+                            51.38335041
+                        ],
+                        [
+                            -2.41810371,
+                            51.38329999
+                        ],
+                        [
+                            -2.41818571,
+                            51.39229139
+                        ]
+                    ]
+                ]
+            },
+            "id": 5024,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2004,
+                "osgr_1km": "ST7165",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41958626,
+                            51.545143
+                        ],
+                        [
+                            -2.40516622,
+                            51.54519371
+                        ],
+                        [
+                            -2.40508633,
+                            51.53620253
+                        ],
+                        [
+                            -2.41950353,
+                            51.53615184
+                        ],
+                        [
+                            -2.41958626,
+                            51.545143
+                        ]
+                    ]
+                ]
+            },
+            "id": 4402,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2021,
+                "osgr_1km": "ST7182",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.38928909,
+                            51.37440762
+                        ],
+                        [
+                            -2.37492271,
+                            51.3744545
+                        ],
+                        [
+                            -2.37484923,
+                            51.36546303
+                        ],
+                        [
+                            -2.3892128,
+                            51.36541617
+                        ],
+                        [
+                            -2.38928909,
+                            51.37440762
+                        ]
+                    ]
+                ]
+            },
+            "id": 2063,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2019,
+                "osgr_1km": "ST7363",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ],
+                        [
+                            -2.36062698,
+                            51.38349109
+                        ],
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ],
+                        [
+                            -2.37492271,
+                            51.3744545
+                        ],
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ]
+                    ]
+                ]
+            },
+            "id": 2872,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST7464",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37669761,
+                            51.59024564
+                        ],
+                        [
+                            -2.36226323,
+                            51.5902911
+                        ],
+                        [
+                            -2.36219168,
+                            51.58129995
+                        ],
+                        [
+                            -2.37662322,
+                            51.5812545
+                        ],
+                        [
+                            -2.37669761,
+                            51.59024564
+                        ]
+                    ]
+                ]
+            },
+            "id": 2126,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2007,
+                "osgr_1km": "ST7487",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37677205,
+                            51.59923676
+                        ],
+                        [
+                            -2.36233481,
+                            51.59928224
+                        ],
+                        [
+                            -2.36226323,
+                            51.5902911
+                        ],
+                        [
+                            -2.37669761,
+                            51.59024564
+                        ],
+                        [
+                            -2.37677205,
+                            51.59923676
+                        ]
+                    ]
+                ]
+            },
+            "id": 4069,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2010,
+                "osgr_1km": "ST7488",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36048561,
+                            51.36550814
+                        ],
+                        [
+                            -2.34612196,
+                            51.36555148
+                        ],
+                        [
+                            -2.34605415,
+                            51.35655996
+                        ],
+                        [
+                            -2.36041499,
+                            51.35651664
+                        ],
+                        [
+                            -2.36048561,
+                            51.36550814
+                        ]
+                    ]
+                ]
+            },
+            "id": 752,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1985,
+                "osgr_1km": "ST7562",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ],
+                        [
+                            -2.34618981,
+                            51.37454298
+                        ],
+                        [
+                            -2.34612196,
+                            51.36555148
+                        ],
+                        [
+                            -2.36048561,
+                            51.36550814
+                        ],
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ]
+                    ]
+                ]
+            },
+            "id": 3503,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2001,
+                "osgr_1km": "ST7563",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36062698,
+                            51.38349109
+                        ],
+                        [
+                            -2.3462577,
+                            51.38353446
+                        ],
+                        [
+                            -2.34618981,
+                            51.37454298
+                        ],
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ],
+                        [
+                            -2.36062698,
+                            51.38349109
+                        ]
+                    ]
+                ]
+            },
+            "id": 467,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2018,
+                "osgr_1km": "ST7564",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36076849,
+                            51.401474
+                        ],
+                        [
+                            -2.34639358,
+                            51.40151739
+                        ],
+                        [
+                            -2.34632562,
+                            51.39252594
+                        ],
+                        [
+                            -2.36069772,
+                            51.39248255
+                        ],
+                        [
+                            -2.36076849,
+                            51.401474
+                        ]
+                    ]
+                ]
+            },
+            "id": 4421,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST7566",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34612196,
+                            51.36555148
+                        ],
+                        [
+                            -2.33175828,
+                            51.36559306
+                        ],
+                        [
+                            -2.33169328,
+                            51.35660153
+                        ],
+                        [
+                            -2.34605415,
+                            51.35655996
+                        ],
+                        [
+                            -2.34612196,
+                            51.36555148
+                        ]
+                    ]
+                ]
+            },
+            "id": 733,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1985,
+                "osgr_1km": "ST7662",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34769144,
+                            51.57235245
+                        ],
+                        [
+                            -2.33326268,
+                            51.57239434
+                        ],
+                        [
+                            -2.33319689,
+                            51.56340313
+                        ],
+                        [
+                            -2.34762281,
+                            51.56336125
+                        ],
+                        [
+                            -2.34769144,
+                            51.57235245
+                        ]
+                    ]
+                ]
+            },
+            "id": 922,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2003,
+                "osgr_1km": "ST7685",
+                "data_provider_id": "dp116",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.33175828,
+                            51.36559306
+                        ],
+                        [
+                            -2.31739456,
+                            51.36563288
+                        ],
+                        [
+                            -2.31733237,
+                            51.35664134
+                        ],
+                        [
+                            -2.33169328,
+                            51.35660153
+                        ],
+                        [
+                            -2.33175828,
+                            51.36559306
+                        ]
+                    ]
+                ]
+            },
+            "id": 4732,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1985,
+                "osgr_1km": "ST7762",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.33247554,
+                            51.46449894
+                        ],
+                        [
+                            -2.31808079,
+                            51.4645389
+                        ],
+                        [
+                            -2.31801824,
+                            51.45554751
+                        ],
+                        [
+                            -2.33241016,
+                            51.45550756
+                        ],
+                        [
+                            -2.33247554,
+                            51.46449894
+                        ]
+                    ]
+                ]
+            },
+            "id": 2093,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 2017,
+                "osgr_1km": "ST7773",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.31720808,
+                            51.33865822
+                        ],
+                        [
+                            -2.30285276,
+                            51.33869624
+                        ],
+                        [
+                            -2.30279348,
+                            51.32970465
+                        ],
+                        [
+                            -2.31714599,
+                            51.32966664
+                        ],
+                        [
+                            -2.31720808,
+                            51.33865822
+                        ]
+                    ]
+                ]
+            },
+            "id": 5673,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1987,
+                "osgr_1km": "ST7859",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.30326863,
+                            51.40163701
+                        ],
+                        [
+                            -2.28889359,
+                            51.40167336
+                        ],
+                        [
+                            -2.2888369,
+                            51.39268185
+                        ],
+                        [
+                            -2.30320913,
+                            51.39264551
+                        ],
+                        [
+                            -2.30326863,
+                            51.40163701
+                        ]
+                    ]
+                ]
+            },
+            "id": 4189,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1991,
+                "osgr_1km": "ST7966",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.30350695,
+                            51.43760286
+                        ],
+                        [
+                            -2.28912062,
+                            51.43763925
+                        ],
+                        [
+                            -2.28906382,
+                            51.4286478
+                        ],
+                        [
+                            -2.30344732,
+                            51.42861142
+                        ],
+                        [
+                            -2.30350695,
+                            51.43760286
+                        ]
+                    ]
+                ]
+            },
+            "id": 39,
+            "properties": {
+                "species": "Whiskered Bat",
+                "year": 1983,
+                "osgr_1km": "ST7970",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        }
+    ]
+}

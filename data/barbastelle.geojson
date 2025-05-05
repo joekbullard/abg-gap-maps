@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.91990462, 51.32648236],
+            [-2.90555471, 51.32659422],
+            [-2.90537762, 51.3176036],
+            [-2.91972473, 51.31749178],
+            [-2.91990462, 51.32648236]
+          ]
+        ]
+      },
+      "id": 5988,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2017,
+        "osgr_1km": "ST3658",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.80636538, 51.39925427],
+            [-2.79199228, 51.39935232],
+            [-2.79183699, 51.39036155],
+            [-2.80620727, 51.39026354],
+            [-2.80636538, 51.39925427]
+          ]
+        ]
+      },
+      "id": 4566,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2007,
+        "osgr_1km": "ST4466",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.79292571, 51.45329661],
+            [-2.7785356, 51.45339308],
+            [-2.77838265, 51.44440237],
+            [-2.79276994, 51.44430593],
+            [-2.79292571, 51.45329661]
+          ]
+        ]
+      },
+      "id": 6831,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2005,
+        "osgr_1km": "ST4572",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.76324584, 51.39954312],
+            [-2.74887251, 51.39963587],
+            [-2.74872567, 51.39064502],
+            [-2.76309619, 51.39055229],
+            [-2.76324584, 51.39954312]
+          ]
+        ]
+      },
+      "id": 5602,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2019,
+        "osgr_1km": "ST4766",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.73421112, 51.38174508],
+            [-2.71984327, 51.38183426],
+            [-2.71970221, 51.37284331],
+            [-2.73406725, 51.37275417],
+            [-2.73421112, 51.38174508]
+          ]
+        ]
+      },
+      "id": 1167,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2019,
+        "osgr_1km": "ST4964",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.67820262, 51.48099155],
+            [-2.66380343, 51.48107397],
+            [-2.66367288, 51.47208307],
+            [-2.67806924, 51.47200068],
+            [-2.67820262, 51.48099155]
+          ]
+        ]
+      },
+      "id": 3247,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2018,
+        "osgr_1km": "ST5375",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.66328165, 51.4451103],
+            [-2.64889371, 51.44519085],
+            [-2.64876626, 51.43619987],
+            [-2.66315138, 51.43611935],
+            [-2.66328165, 51.4451103]
+          ]
+        ]
+      },
+      "id": 1432,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2004,
+        "osgr_1km": "ST5471",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.64902122, 51.45418181],
+            [-2.63463039, 51.45426062],
+            [-2.6345057, 51.44526963],
+            [-2.64889371, 51.44519085],
+            [-2.64902122, 51.45418181]
+          ]
+        ]
+      },
+      "id": 3478,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2004,
+        "osgr_1km": "ST5572",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.53589646, 51.62559199],
+            [-2.52145117, 51.62565706],
+            [-2.52134808, 51.61666616],
+            [-2.53579051, 51.61660111],
+            [-2.53589646, 51.62559199]
+          ]
+        ]
+      },
+      "id": 1124,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2016,
+        "osgr_1km": "ST6391",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37669761, 51.59024564],
+            [-2.36226323, 51.5902911],
+            [-2.36219168, 51.58129995],
+            [-2.37662322, 51.5812545],
+            [-2.37669761, 51.59024564]
+          ]
+        ]
+      },
+      "id": 4008,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2007,
+        "osgr_1km": "ST7487",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.37677205, 51.59923676],
+            [-2.36233481, 51.59928224],
+            [-2.36226323, 51.5902911],
+            [-2.37669761, 51.59024564],
+            [-2.37677205, 51.59923676]
+          ]
+        ]
+      },
+      "id": 5804,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2010,
+        "osgr_1km": "ST7488",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.33247554, 51.46449894],
+            [-2.31808079, 51.4645389],
+            [-2.31801824, 51.45554751],
+            [-2.33241016, 51.45550756],
+            [-2.33247554, 51.46449894]
+          ]
+        ]
+      },
+      "id": 3754,
+      "properties": {
+        "species": "Barbastelle",
+        "year": 2017,
+        "osgr_1km": "ST7773",
+        "data_provider_id": "dp107",
+        "record_type": "Unknown"
+      }
+    }
+  ]
+}

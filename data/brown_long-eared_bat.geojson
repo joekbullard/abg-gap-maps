@@ -1,0 +1,6123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.99165278,
+                            51.32589671
+                        ],
+                        [
+                            -2.97730334,
+                            51.32601736
+                        ],
+                        [
+                            -2.97711224,
+                            51.31702693
+                        ],
+                        [
+                            -2.99145887,
+                            51.31690632
+                        ],
+                        [
+                            -2.99165278,
+                            51.32589671
+                        ]
+                    ]
+                ]
+            },
+            "id": 1066,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2015,
+                "osgr_1km": "ST3158",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.97806877,
+                            51.36197893
+                        ],
+                        [
+                            -2.963708,
+                            51.36209797
+                        ],
+                        [
+                            -2.96351931,
+                            51.35310756
+                        ],
+                        [
+                            -2.97787726,
+                            51.35298856
+                        ],
+                        [
+                            -2.97806877,
+                            51.36197893
+                        ]
+                    ]
+                ]
+            },
+            "id": 4850,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2007,
+                "osgr_1km": "ST3262",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.96351931,
+                            51.35310756
+                        ],
+                        [
+                            -2.94916125,
+                            51.3532248
+                        ],
+                        [
+                            -2.94897546,
+                            51.34423434
+                        ],
+                        [
+                            -2.96333071,
+                            51.34411714
+                        ],
+                        [
+                            -2.96351931,
+                            51.35310756
+                        ]
+                    ]
+                ]
+            },
+            "id": 1869,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST3361",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.91990462,
+                            51.32648236
+                        ],
+                        [
+                            -2.90555471,
+                            51.32659422
+                        ],
+                        [
+                            -2.90537762,
+                            51.3176036
+                        ],
+                        [
+                            -2.91972473,
+                            51.31749178
+                        ],
+                        [
+                            -2.91990462,
+                            51.32648236
+                        ]
+                    ]
+                ]
+            },
+            "id": 3484,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST3658",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.90626397,
+                            51.36255653
+                        ],
+                        [
+                            -2.89190273,
+                            51.36266677
+                        ],
+                        [
+                            -2.89172809,
+                            51.35367618
+                        ],
+                        [
+                            -2.90608652,
+                            51.35356597
+                        ],
+                        [
+                            -2.90626397,
+                            51.36255653
+                        ]
+                    ]
+                ]
+            },
+            "id": 737,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2007,
+                "osgr_1km": "ST3762",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.86233574,
+                            51.31792852
+                        ],
+                        [
+                            -2.84798827,
+                            51.31803332
+                        ],
+                        [
+                            -2.84782249,
+                            51.30904255
+                        ],
+                        [
+                            -2.86216716,
+                            51.30893779
+                        ],
+                        [
+                            -2.86233574,
+                            51.31792852
+                        ]
+                    ]
+                ]
+            },
+            "id": 3331,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2009,
+                "osgr_1km": "ST4057",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.8483201,
+                            51.3360148
+                        ],
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ],
+                        [
+                            -2.83380378,
+                            51.32712714
+                        ],
+                        [
+                            -2.84815414,
+                            51.32702407
+                        ],
+                        [
+                            -2.8483201,
+                            51.3360148
+                        ]
+                    ]
+                ]
+            },
+            "id": 2959,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2006,
+                "osgr_1km": "ST4159",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.84848614,
+                            51.34500553
+                        ],
+                        [
+                            -2.83413016,
+                            51.34510866
+                        ],
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ],
+                        [
+                            -2.8483201,
+                            51.3360148
+                        ],
+                        [
+                            -2.84848614,
+                            51.34500553
+                        ]
+                    ]
+                ]
+            },
+            "id": 3676,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2021,
+                "osgr_1km": "ST4160",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.85031825,
+                            51.44390254
+                        ],
+                        [
+                            -2.8359313,
+                            51.44400603
+                        ],
+                        [
+                            -2.83576714,
+                            51.43501543
+                        ],
+                        [
+                            -2.85015127,
+                            51.43491197
+                        ],
+                        [
+                            -2.85031825,
+                            51.44390254
+                        ]
+                    ]
+                ]
+            },
+            "id": 5100,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2014,
+                "osgr_1km": "ST4171",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83347774,
+                            51.30914555
+                        ],
+                        [
+                            -2.8191329,
+                            51.3092468
+                        ],
+                        [
+                            -2.81897281,
+                            51.30025595
+                        ],
+                        [
+                            -2.83331484,
+                            51.30015474
+                        ],
+                        [
+                            -2.83347774,
+                            51.30914555
+                        ]
+                    ]
+                ]
+            },
+            "id": 7368,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2004,
+                "osgr_1km": "ST4256",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83364072,
+                            51.31813635
+                        ],
+                        [
+                            -2.81929308,
+                            51.31823763
+                        ],
+                        [
+                            -2.8191329,
+                            51.3092468
+                        ],
+                        [
+                            -2.83347774,
+                            51.30914555
+                        ],
+                        [
+                            -2.83364072,
+                            51.31813635
+                        ]
+                    ]
+                ]
+            },
+            "id": 1273,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST4257",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ],
+                        [
+                            -2.81961368,
+                            51.33621925
+                        ],
+                        [
+                            -2.81945334,
+                            51.32722845
+                        ],
+                        [
+                            -2.83380378,
+                            51.32712714
+                        ],
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ]
+                    ]
+                ]
+            },
+            "id": 749,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1990,
+                "osgr_1km": "ST4259",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.83478394,
+                            51.38107154
+                        ],
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ]
+                    ]
+                ]
+            },
+            "id": 3176,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST4265",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83511133,
+                            51.3990529
+                        ],
+                        [
+                            -2.8207384,
+                            51.39915446
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ],
+                        [
+                            -2.83511133,
+                            51.3990529
+                        ]
+                    ]
+                ]
+            },
+            "id": 2759,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST4266",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.82025588,
+                            51.37218231
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ]
+                    ]
+                ]
+            },
+            "id": 6459,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST4364",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.80620727,
+                            51.39026354
+                        ],
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ]
+                    ]
+                ]
+            },
+            "id": 463,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2016,
+                "osgr_1km": "ST4365",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82154426,
+                            51.44410776
+                        ],
+                        [
+                            -2.80715714,
+                            51.44420773
+                        ],
+                        [
+                            -2.80699863,
+                            51.43521707
+                        ],
+                        [
+                            -2.82138292,
+                            51.43511713
+                        ],
+                        [
+                            -2.82154426,
+                            51.44410776
+                        ]
+                    ]
+                ]
+            },
+            "id": 3108,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST4371",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82170569,
+                            51.45309838
+                        ],
+                        [
+                            -2.80731574,
+                            51.45319838
+                        ],
+                        [
+                            -2.80715714,
+                            51.44420773
+                        ],
+                        [
+                            -2.82154426,
+                            51.44410776
+                        ],
+                        [
+                            -2.82170569,
+                            51.45309838
+                        ]
+                    ]
+                ]
+            },
+            "id": 2921,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2003,
+                "osgr_1km": "ST4372",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ],
+                        [
+                            -2.7913716,
+                            51.36338917
+                        ],
+                        [
+                            -2.79121663,
+                            51.35439834
+                        ],
+                        [
+                            -2.80557566,
+                            51.35430046
+                        ],
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ]
+                    ]
+                ]
+            },
+            "id": 5887,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2016,
+                "osgr_1km": "ST4462",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ],
+                        [
+                            -2.7913716,
+                            51.36338917
+                        ],
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ]
+                    ]
+                ]
+            },
+            "id": 5290,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1993,
+                "osgr_1km": "ST4463",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80684019,
+                            51.42622639
+                        ],
+                        [
+                            -2.79245863,
+                            51.42632453
+                        ],
+                        [
+                            -2.7923031,
+                            51.4173338
+                        ],
+                        [
+                            -2.80668184,
+                            51.4172357
+                        ],
+                        [
+                            -2.80684019,
+                            51.42622639
+                        ]
+                    ]
+                ]
+            },
+            "id": 4793,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2015,
+                "osgr_1km": "ST4469",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80731574,
+                            51.45319838
+                        ],
+                        [
+                            -2.79292571,
+                            51.45329661
+                        ],
+                        [
+                            -2.79276994,
+                            51.44430593
+                        ],
+                        [
+                            -2.80715714,
+                            51.44420773
+                        ],
+                        [
+                            -2.80731574,
+                            51.45319838
+                        ]
+                    ]
+                ]
+            },
+            "id": 4869,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2006,
+                "osgr_1km": "ST4472",
+                "data_provider_id": "dp35",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79106174,
+                            51.34540751
+                        ],
+                        [
+                            -2.77670544,
+                            51.3455036
+                        ],
+                        [
+                            -2.77655344,
+                            51.33651272
+                        ],
+                        [
+                            -2.79090693,
+                            51.33641666
+                        ],
+                        [
+                            -2.79106174,
+                            51.34540751
+                        ]
+                    ]
+                ]
+            },
+            "id": 3568,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST4560",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ],
+                        [
+                            -2.77716192,
+                            51.37247616
+                        ],
+                        [
+                            -2.77700968,
+                            51.36348533
+                        ],
+                        [
+                            -2.7913716,
+                            51.36338917
+                        ],
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ]
+                    ]
+                ]
+            },
+            "id": 1928,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST4563",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79168178,
+                            51.38137077
+                        ],
+                        [
+                            -2.77731423,
+                            51.38146699
+                        ],
+                        [
+                            -2.77716192,
+                            51.37247616
+                        ],
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ],
+                        [
+                            -2.79168178,
+                            51.38137077
+                        ]
+                    ]
+                ]
+            },
+            "id": 318,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST4564",
+                "data_provider_id": "dp35",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.77731423,
+                            51.38146699
+                        ],
+                        [
+                            -2.79168178,
+                            51.38137077
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ]
+                    ]
+                ]
+            },
+            "id": 2906,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1997,
+                "osgr_1km": "ST4565",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ],
+                        [
+                            -2.7776191,
+                            51.3994486
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ]
+                    ]
+                ]
+            },
+            "id": 1303,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST4566",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.7932375,
+                            51.47127793
+                        ],
+                        [
+                            -2.77884174,
+                            51.47137446
+                        ],
+                        [
+                            -2.77868863,
+                            51.46238378
+                        ],
+                        [
+                            -2.79308157,
+                            51.46228728
+                        ],
+                        [
+                            -2.7932375,
+                            51.47127793
+                        ]
+                    ]
+                ]
+            },
+            "id": 2863,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST4574",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79339352,
+                            51.48026857
+                        ],
+                        [
+                            -2.77899492,
+                            51.48036513
+                        ],
+                        [
+                            -2.77884174,
+                            51.47137446
+                        ],
+                        [
+                            -2.7932375,
+                            51.47127793
+                        ],
+                        [
+                            -2.79339352,
+                            51.48026857
+                        ]
+                    ]
+                ]
+            },
+            "id": 1339,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2013,
+                "osgr_1km": "ST4575",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.7776191,
+                            51.3994486
+                        ],
+                        [
+                            -2.76324584,
+                            51.39954312
+                        ],
+                        [
+                            -2.76309619,
+                            51.39055229
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.7776191,
+                            51.3994486
+                        ]
+                    ]
+                ]
+            },
+            "id": 1818,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST4666",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76205075,
+                            51.3276161
+                        ],
+                        [
+                            -2.74769991,
+                            51.32770862
+                        ],
+                        [
+                            -2.74755367,
+                            51.31871765
+                        ],
+                        [
+                            -2.76190171,
+                            51.31862516
+                        ],
+                        [
+                            -2.76205075,
+                            51.3276161
+                        ]
+                    ]
+                ]
+            },
+            "id": 68,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2007,
+                "osgr_1km": "ST4758",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ],
+                        [
+                            -2.7482856,
+                            51.36367236
+                        ],
+                        [
+                            -2.74813907,
+                            51.35468145
+                        ],
+                        [
+                            -2.76249833,
+                            51.35458884
+                        ],
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ]
+                    ]
+                ]
+            },
+            "id": 1326,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST4762",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.7627971,
+                            51.37257059
+                        ],
+                        [
+                            -2.74843221,
+                            51.37266326
+                        ],
+                        [
+                            -2.7482856,
+                            51.36367236
+                        ],
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ],
+                        [
+                            -2.7627971,
+                            51.37257059
+                        ]
+                    ]
+                ]
+            },
+            "id": 954,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1999,
+                "osgr_1km": "ST4763",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76294661,
+                            51.38156145
+                        ],
+                        [
+                            -2.7485789,
+                            51.38165415
+                        ],
+                        [
+                            -2.74843221,
+                            51.37266326
+                        ],
+                        [
+                            -2.7627971,
+                            51.37257059
+                        ],
+                        [
+                            -2.76294661,
+                            51.38156145
+                        ]
+                    ]
+                ]
+            },
+            "id": 5662,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST4764",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76309619,
+                            51.39055229
+                        ],
+                        [
+                            -2.74872567,
+                            51.39064502
+                        ],
+                        [
+                            -2.7485789,
+                            51.38165415
+                        ],
+                        [
+                            -2.76294661,
+                            51.38156145
+                        ],
+                        [
+                            -2.76309619,
+                            51.39055229
+                        ]
+                    ]
+                ]
+            },
+            "id": 379,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2022,
+                "osgr_1km": "ST4765",
+                "data_provider_id": "dp35",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76384525,
+                            51.43550628
+                        ],
+                        [
+                            -2.74946063,
+                            51.43559916
+                        ],
+                        [
+                            -2.74931348,
+                            51.42660836
+                        ],
+                        [
+                            -2.76369528,
+                            51.42651551
+                        ],
+                        [
+                            -2.76384525,
+                            51.43550628
+                        ]
+                    ]
+                ]
+            },
+            "id": 4306,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2012,
+                "osgr_1km": "ST4770",
+                "data_provider_id": "dp8",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76399529,
+                            51.44449704
+                        ],
+                        [
+                            -2.74960785,
+                            51.44458994
+                        ],
+                        [
+                            -2.74946063,
+                            51.43559916
+                        ],
+                        [
+                            -2.76384525,
+                            51.43550628
+                        ],
+                        [
+                            -2.76399529,
+                            51.44449704
+                        ]
+                    ]
+                ]
+            },
+            "id": 2879,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1998,
+                "osgr_1km": "ST4771",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.74901942,
+                            51.40862672
+                        ],
+                        [
+                            -2.73464319,
+                            51.40871774
+                        ],
+                        [
+                            -2.7344991,
+                            51.39972687
+                        ],
+                        [
+                            -2.74887251,
+                            51.39963587
+                        ],
+                        [
+                            -2.74901942,
+                            51.40862672
+                        ]
+                    ]
+                ]
+            },
+            "id": 804,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2003,
+                "osgr_1km": "ST4867",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.74916642,
+                            51.41761754
+                        ],
+                        [
+                            -2.73478737,
+                            51.4177086
+                        ],
+                        [
+                            -2.73464319,
+                            51.40871774
+                        ],
+                        [
+                            -2.74901942,
+                            51.40862672
+                        ],
+                        [
+                            -2.74916642,
+                            51.41761754
+                        ]
+                    ]
+                ]
+            },
+            "id": 2952,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1984,
+                "osgr_1km": "ST4868",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.74946063,
+                            51.43559916
+                        ],
+                        [
+                            -2.73507594,
+                            51.43569027
+                        ],
+                        [
+                            -2.73493161,
+                            51.42669944
+                        ],
+                        [
+                            -2.74931348,
+                            51.42660836
+                        ],
+                        [
+                            -2.74946063,
+                            51.43559916
+                        ]
+                    ]
+                ]
+            },
+            "id": 2860,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1993,
+                "osgr_1km": "ST4870",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.73435507,
+                            51.39073598
+                        ],
+                        [
+                            -2.7199844,
+                            51.39082518
+                        ],
+                        [
+                            -2.71984327,
+                            51.38183426
+                        ],
+                        [
+                            -2.73421112,
+                            51.38174508
+                        ],
+                        [
+                            -2.73435507,
+                            51.39073598
+                        ]
+                    ]
+                ]
+            },
+            "id": 1821,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1988,
+                "osgr_1km": "ST4965",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.73493161,
+                            51.42669944
+                        ],
+                        [
+                            -2.72054967,
+                            51.42678876
+                        ],
+                        [
+                            -2.72040824,
+                            51.41779788
+                        ],
+                        [
+                            -2.73478737,
+                            51.4177086
+                        ],
+                        [
+                            -2.73493161,
+                            51.42669944
+                        ]
+                    ]
+                ]
+            },
+            "id": 4981,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2014,
+                "osgr_1km": "ST4969",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.73594344,
+                            51.48963494
+                        ],
+                        [
+                            -2.7215417,
+                            51.48972446
+                        ],
+                        [
+                            -2.72139976,
+                            51.48073369
+                        ],
+                        [
+                            -2.73579867,
+                            51.4806442
+                        ],
+                        [
+                            -2.73594344,
+                            51.48963494
+                        ]
+                    ]
+                ]
+            },
+            "id": 951,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST4976",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.71913869,
+                            51.3368794
+                        ],
+                        [
+                            -2.70478482,
+                            51.33696668
+                        ],
+                        [
+                            -2.70464693,
+                            51.32797563
+                        ],
+                        [
+                            -2.718998,
+                            51.32788839
+                        ],
+                        [
+                            -2.71913869,
+                            51.3368794
+                        ]
+                    ]
+                ]
+            },
+            "id": 2315,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2013,
+                "osgr_1km": "ST5059",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.72054967,
+                            51.42678876
+                        ],
+                        [
+                            -2.70616765,
+                            51.42687631
+                        ],
+                        [
+                            -2.70602904,
+                            51.41788541
+                        ],
+                        [
+                            -2.72040824,
+                            51.41779788
+                        ],
+                        [
+                            -2.72054967,
+                            51.42678876
+                        ]
+                    ]
+                ]
+            },
+            "id": 1729,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2014,
+                "osgr_1km": "ST5069",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.72083274,
+                            51.44477046
+                        ],
+                        [
+                            -2.70644507,
+                            51.44485807
+                        ],
+                        [
+                            -2.70630633,
+                            51.43586719
+                        ],
+                        [
+                            -2.72069117,
+                            51.43577961
+                        ],
+                        [
+                            -2.72083274,
+                            51.44477046
+                        ]
+                    ]
+                ]
+            },
+            "id": 4945,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST5071",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.72139976,
+                            51.48073369
+                        ],
+                        [
+                            -2.70700079,
+                            51.48082141
+                        ],
+                        [
+                            -2.70686175,
+                            51.4718306
+                        ],
+                        [
+                            -2.7212579,
+                            51.4717429
+                        ],
+                        [
+                            -2.72139976,
+                            51.48073369
+                        ]
+                    ]
+                ]
+            },
+            "id": 6696,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2013,
+                "osgr_1km": "ST5075",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.70533709,
+                            51.3729307
+                        ],
+                        [
+                            -2.69097191,
+                            51.37301632
+                        ],
+                        [
+                            -2.69083655,
+                            51.36402531
+                        ],
+                        [
+                            -2.70519892,
+                            51.36393971
+                        ],
+                        [
+                            -2.70533709,
+                            51.3729307
+                        ]
+                    ]
+                ]
+            },
+            "id": 1682,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST5163",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.70561366,
+                            51.39091263
+                        ],
+                        [
+                            -2.69124285,
+                            51.3909983
+                        ],
+                        [
+                            -2.69110734,
+                            51.38200732
+                        ],
+                        [
+                            -2.70547534,
+                            51.38192167
+                        ],
+                        [
+                            -2.70561366,
+                            51.39091263
+                        ]
+                    ]
+                ]
+            },
+            "id": 1014,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST5165",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.70658389,
+                            51.45384892
+                        ],
+                        [
+                            -2.69219333,
+                            51.45393479
+                        ],
+                        [
+                            -2.69205734,
+                            51.44494391
+                        ],
+                        [
+                            -2.70644507,
+                            51.44485807
+                        ],
+                        [
+                            -2.70658389,
+                            51.45384892
+                        ]
+                    ]
+                ]
+            },
+            "id": 2,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1993,
+                "osgr_1km": "ST5172",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.69110734,
+                            51.38200732
+                        ],
+                        [
+                            -2.67673927,
+                            51.38209121
+                        ],
+                        [
+                            -2.67660665,
+                            51.37310019
+                        ],
+                        [
+                            -2.69097191,
+                            51.37301632
+                        ],
+                        [
+                            -2.69110734,
+                            51.38200732
+                        ]
+                    ]
+                ]
+            },
+            "id": 2368,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST5264",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.69192141,
+                            51.43595301
+                        ],
+                        [
+                            -2.67753643,
+                            51.43603706
+                        ],
+                        [
+                            -2.6774034,
+                            51.42704612
+                        ],
+                        [
+                            -2.69178556,
+                            51.4269621
+                        ],
+                        [
+                            -2.69192141,
+                            51.43595301
+                        ]
+                    ]
+                ]
+            },
+            "id": 2012,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2022,
+                "osgr_1km": "ST5270",
+                "data_provider_id": "dp35",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.67793594,
+                            51.4630098
+                        ],
+                        [
+                            -2.66354241,
+                            51.46309216
+                        ],
+                        [
+                            -2.66341199,
+                            51.45410124
+                        ],
+                        [
+                            -2.6778027,
+                            51.4540189
+                        ],
+                        [
+                            -2.67793594,
+                            51.4630098
+                        ]
+                    ]
+                ]
+            },
+            "id": 5040,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2008,
+                "osgr_1km": "ST5373",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.66146391,
+                            51.31923569
+                        ],
+                        [
+                            -2.64711537,
+                            51.31931587
+                        ],
+                        [
+                            -2.64698884,
+                            51.3103247
+                        ],
+                        [
+                            -2.66133458,
+                            51.31024454
+                        ],
+                        [
+                            -2.66146391,
+                            51.31923569
+                        ]
+                    ]
+                ]
+            },
+            "id": 664,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2013,
+                "osgr_1km": "ST5457",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.66328165,
+                            51.4451103
+                        ],
+                        [
+                            -2.64889371,
+                            51.44519085
+                        ],
+                        [
+                            -2.64876626,
+                            51.43619987
+                        ],
+                        [
+                            -2.66315138,
+                            51.43611935
+                        ],
+                        [
+                            -2.66328165,
+                            51.4451103
+                        ]
+                    ]
+                ]
+            },
+            "id": 4830,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2004,
+                "osgr_1km": "ST5471",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.66341199,
+                            51.45410124
+                        ],
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ],
+                        [
+                            -2.64889371,
+                            51.44519085
+                        ],
+                        [
+                            -2.66328165,
+                            51.4451103
+                        ],
+                        [
+                            -2.66341199,
+                            51.45410124
+                        ]
+                    ]
+                ]
+            },
+            "id": 1455,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2015,
+                "osgr_1km": "ST5472",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.66367288,
+                            51.47208307
+                        ],
+                        [
+                            -2.64927646,
+                            51.4721637
+                        ],
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ],
+                        [
+                            -2.66354241,
+                            51.46309216
+                        ],
+                        [
+                            -2.66367288,
+                            51.47208307
+                        ]
+                    ]
+                ]
+            },
+            "id": 1352,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST5474",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64876626,
+                            51.43619987
+                        ],
+                        [
+                            -2.63438107,
+                            51.43627863
+                        ],
+                        [
+                            -2.63425651,
+                            51.42728761
+                        ],
+                        [
+                            -2.64863887,
+                            51.42720888
+                        ],
+                        [
+                            -2.64876626,
+                            51.43619987
+                        ]
+                    ]
+                ]
+            },
+            "id": 3256,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2003,
+                "osgr_1km": "ST5570",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ],
+                        [
+                            -2.63463039,
+                            51.45426062
+                        ],
+                        [
+                            -2.6345057,
+                            51.44526963
+                        ],
+                        [
+                            -2.64889371,
+                            51.44519085
+                        ],
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ]
+                    ]
+                ]
+            },
+            "id": 5138,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2009,
+                "osgr_1km": "ST5572",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ],
+                        [
+                            -2.63475514,
+                            51.46325159
+                        ],
+                        [
+                            -2.63463039,
+                            51.45426062
+                        ],
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ],
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ]
+                    ]
+                ]
+            },
+            "id": 2749,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST5573",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64927646,
+                            51.4721637
+                        ],
+                        [
+                            -2.63487997,
+                            51.47224255
+                        ],
+                        [
+                            -2.63475514,
+                            51.46325159
+                        ],
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ],
+                        [
+                            -2.64927646,
+                            51.4721637
+                        ]
+                    ]
+                ]
+            },
+            "id": 5170,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2013,
+                "osgr_1km": "ST5574",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64978772,
+                            51.5081273
+                        ],
+                        [
+                            -2.6353799,
+                            51.50820625
+                        ],
+                        [
+                            -2.63525482,
+                            51.49921535
+                        ],
+                        [
+                            -2.6496598,
+                            51.49913642
+                        ],
+                        [
+                            -2.64978772,
+                            51.5081273
+                        ]
+                    ]
+                ]
+            },
+            "id": 5121,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2003,
+                "osgr_1km": "ST5578",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6353799,
+                            51.50820625
+                        ],
+                        [
+                            -2.62097201,
+                            51.50828344
+                        ],
+                        [
+                            -2.62084976,
+                            51.49929251
+                        ],
+                        [
+                            -2.63525482,
+                            51.49921535
+                        ],
+                        [
+                            -2.6353799,
+                            51.50820625
+                        ]
+                    ]
+                ]
+            },
+            "id": 4702,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2010,
+                "osgr_1km": "ST5678",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.63550504,
+                            51.51719715
+                        ],
+                        [
+                            -2.62109432,
+                            51.51727436
+                        ],
+                        [
+                            -2.62097201,
+                            51.50828344
+                        ],
+                        [
+                            -2.6353799,
+                            51.50820625
+                        ],
+                        [
+                            -2.63550504,
+                            51.51719715
+                        ]
+                    ]
+                ]
+            },
+            "id": 5722,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST5679",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.63563025,
+                            51.52618802
+                        ],
+                        [
+                            -2.62121669,
+                            51.52626526
+                        ],
+                        [
+                            -2.62109432,
+                            51.51727436
+                        ],
+                        [
+                            -2.63550504,
+                            51.51719715
+                        ],
+                        [
+                            -2.63563025,
+                            51.52618802
+                        ]
+                    ]
+                ]
+            },
+            "id": 5854,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1997,
+                "osgr_1km": "ST5680",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.61817632,
+                            51.30148851
+                        ],
+                        [
+                            -2.6038332,
+                            51.30156338
+                        ],
+                        [
+                            -2.6037152,
+                            51.2925721
+                        ],
+                        [
+                            -2.61805552,
+                            51.29249726
+                        ],
+                        [
+                            -2.61817632,
+                            51.30148851
+                        ]
+                    ]
+                ]
+            },
+            "id": 4104,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2016,
+                "osgr_1km": "ST5755",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.61914496,
+                            51.37341803
+                        ],
+                        [
+                            -2.60477938,
+                            51.37349309
+                        ],
+                        [
+                            -2.60466089,
+                            51.36450192
+                        ],
+                        [
+                            -2.61902367,
+                            51.36442689
+                        ],
+                        [
+                            -2.61914496,
+                            51.37341803
+                        ]
+                    ]
+                ]
+            },
+            "id": 5102,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST5763",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.62072758,
+                            51.49030157
+                        ],
+                        [
+                            -2.6063253,
+                            51.49037694
+                        ],
+                        [
+                            -2.60620601,
+                            51.48138596
+                        ],
+                        [
+                            -2.62060546,
+                            51.48131061
+                        ],
+                        [
+                            -2.62072758,
+                            51.49030157
+                        ]
+                    ]
+                ]
+            },
+            "id": 5367,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2011,
+                "osgr_1km": "ST5776",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.60620601,
+                            51.48138596
+                        ],
+                        [
+                            -2.5918065,
+                            51.48145954
+                        ],
+                        [
+                            -2.59169011,
+                            51.47246852
+                        ],
+                        [
+                            -2.60608679,
+                            51.47239497
+                        ],
+                        [
+                            -2.60620601,
+                            51.48138596
+                        ]
+                    ]
+                ]
+            },
+            "id": 1445,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST5875",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.58949002,
+                            51.30163649
+                        ],
+                        [
+                            -2.57514678,
+                            51.30170784
+                        ],
+                        [
+                            -2.57503438,
+                            51.29271652
+                        ],
+                        [
+                            -2.58937482,
+                            51.29264519
+                        ],
+                        [
+                            -2.58949002,
+                            51.30163649
+                        ]
+                    ]
+                ]
+            },
+            "id": 3065,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1989,
+                "osgr_1km": "ST5955",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.59087703,
+                            51.409531
+                        ],
+                        [
+                            -2.57650006,
+                            51.40960262
+                        ],
+                        [
+                            -2.57638697,
+                            51.40061147
+                        ],
+                        [
+                            -2.59076112,
+                            51.40053986
+                        ],
+                        [
+                            -2.59087703,
+                            51.409531
+                        ]
+                    ]
+                ]
+            },
+            "id": 1960,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST5967",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.59122513,
+                            51.43650431
+                        ],
+                        [
+                            -2.5768397,
+                            51.436576
+                        ],
+                        [
+                            -2.57672643,
+                            51.42758489
+                        ],
+                        [
+                            -2.59110904,
+                            51.42751322
+                        ],
+                        [
+                            -2.59122513,
+                            51.43650431
+                        ]
+                    ]
+                ]
+            },
+            "id": 4216,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2016,
+                "osgr_1km": "ST5970",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.59273983,
+                            51.55338719
+                        ],
+                        [
+                            -2.57831756,
+                            51.55345918
+                        ],
+                        [
+                            -2.57820353,
+                            51.54446825
+                        ],
+                        [
+                            -2.59262295,
+                            51.54439628
+                        ],
+                        [
+                            -2.59273983,
+                            51.55338719
+                        ]
+                    ]
+                ]
+            },
+            "id": 5423,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2016,
+                "osgr_1km": "ST5983",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.59309083,
+                            51.58035982
+                        ],
+                        [
+                            -2.57866003,
+                            51.58043188
+                        ],
+                        [
+                            -2.57854581,
+                            51.571441
+                        ],
+                        [
+                            -2.59297377,
+                            51.57136896
+                        ],
+                        [
+                            -2.59309083,
+                            51.58035982
+                        ]
+                    ]
+                ]
+            },
+            "id": 431,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1998,
+                "osgr_1km": "ST5986",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57570963,
+                            51.34666425
+                        ],
+                        [
+                            -2.5613523,
+                            51.34673395
+                        ],
+                        [
+                            -2.56124242,
+                            51.33774268
+                        ],
+                        [
+                            -2.57559694,
+                            51.33767299
+                        ],
+                        [
+                            -2.57570963,
+                            51.34666425
+                        ]
+                    ]
+                ]
+            },
+            "id": 5296,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2014,
+                "osgr_1km": "ST6060",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57717986,
+                            51.46354925
+                        ],
+                        [
+                            -2.56278589,
+                            51.46361925
+                        ],
+                        [
+                            -2.56267527,
+                            51.45462816
+                        ],
+                        [
+                            -2.57706641,
+                            51.45455818
+                        ],
+                        [
+                            -2.57717986,
+                            51.46354925
+                        ]
+                    ]
+                ]
+            },
+            "id": 3140,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1997,
+                "osgr_1km": "ST6073",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57831756,
+                            51.55345918
+                        ],
+                        [
+                            -2.56389524,
+                            51.5535294
+                        ],
+                        [
+                            -2.56378404,
+                            51.54453845
+                        ],
+                        [
+                            -2.57820353,
+                            51.54446825
+                        ],
+                        [
+                            -2.57831756,
+                            51.55345918
+                        ]
+                    ]
+                ]
+            },
+            "id": 1363,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6083",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.56168227,
+                            51.3737077
+                        ],
+                        [
+                            -2.54731645,
+                            51.37377571
+                        ],
+                        [
+                            -2.54720922,
+                            51.36478446
+                        ],
+                        [
+                            -2.56157222,
+                            51.36471646
+                        ],
+                        [
+                            -2.56168227,
+                            51.3737077
+                        ]
+                    ]
+                ]
+            },
+            "id": 658,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2001,
+                "osgr_1km": "ST6163",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.56190254,
+                            51.39169012
+                        ],
+                        [
+                            -2.54753109,
+                            51.39175818
+                        ],
+                        [
+                            -2.54742374,
+                            51.38276695
+                        ],
+                        [
+                            -2.56179238,
+                            51.38269891
+                        ],
+                        [
+                            -2.56190254,
+                            51.39169012
+                        ]
+                    ]
+                ]
+            },
+            "id": 6663,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1983,
+                "osgr_1km": "ST6165",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5630073,
+                            51.48160139
+                        ],
+                        [
+                            -2.54860761,
+                            51.48166967
+                        ],
+                        [
+                            -2.54849971,
+                            51.47267858
+                        ],
+                        [
+                            -2.56289656,
+                            51.47261033
+                        ],
+                        [
+                            -2.5630073,
+                            51.48160139
+                        ]
+                    ]
+                ]
+            },
+            "id": 560,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2003,
+                "osgr_1km": "ST6175",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.56311809,
+                            51.49059244
+                        ],
+                        [
+                            -2.54871557,
+                            51.49066074
+                        ],
+                        [
+                            -2.54860761,
+                            51.48166967
+                        ],
+                        [
+                            -2.5630073,
+                            51.48160139
+                        ],
+                        [
+                            -2.56311809,
+                            51.49059244
+                        ]
+                    ]
+                ]
+            },
+            "id": 7342,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST6176",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5641178,
+                            51.57151126
+                        ],
+                        [
+                            -2.54968972,
+                            51.57157976
+                        ],
+                        [
+                            -2.54958126,
+                            51.56258881
+                        ],
+                        [
+                            -2.56400649,
+                            51.56252034
+                        ],
+                        [
+                            -2.5641178,
+                            51.57151126
+                        ]
+                    ]
+                ]
+            },
+            "id": 2229,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2015,
+                "osgr_1km": "ST6185",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54678083,
+                            51.3288193
+                        ],
+                        [
+                            -2.532429,
+                            51.32888544
+                        ],
+                        [
+                            -2.53232485,
+                            51.3198941
+                        ],
+                        [
+                            -2.54667387,
+                            51.31982797
+                        ],
+                        [
+                            -2.54678083,
+                            51.3288193
+                        ]
+                    ]
+                ]
+            },
+            "id": 6314,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST6258",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54710204,
+                            51.35579319
+                        ],
+                        [
+                            -2.53274179,
+                            51.3558594
+                        ],
+                        [
+                            -2.53263747,
+                            51.34686809
+                        ],
+                        [
+                            -2.54699491,
+                            51.3468019
+                        ],
+                        [
+                            -2.54710204,
+                            51.35579319
+                        ]
+                    ]
+                ]
+            },
+            "id": 3956,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2020,
+                "osgr_1km": "ST6261",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54774595,
+                            51.40974059
+                        ],
+                        [
+                            -2.5333688,
+                            51.40980693
+                        ],
+                        [
+                            -2.53326417,
+                            51.40081571
+                        ],
+                        [
+                            -2.54763849,
+                            51.40074939
+                        ],
+                        [
+                            -2.54774595,
+                            51.40974059
+                        ]
+                    ]
+                ]
+            },
+            "id": 2075,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2012,
+                "osgr_1km": "ST6267",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54785346,
+                            51.41873177
+                        ],
+                        [
+                            -2.5334735,
+                            51.41879813
+                        ],
+                        [
+                            -2.5333688,
+                            51.40980693
+                        ],
+                        [
+                            -2.54774595,
+                            51.40974059
+                        ],
+                        [
+                            -2.54785346,
+                            51.41873177
+                        ]
+                    ]
+                ]
+            },
+            "id": 6628,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2015,
+                "osgr_1km": "ST6268",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54796103,
+                            51.42772294
+                        ],
+                        [
+                            -2.53357824,
+                            51.42778932
+                        ],
+                        [
+                            -2.5334735,
+                            51.41879813
+                        ],
+                        [
+                            -2.54785346,
+                            51.41873177
+                        ],
+                        [
+                            -2.54796103,
+                            51.42772294
+                        ]
+                    ]
+                ]
+            },
+            "id": 4246,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1994,
+                "osgr_1km": "ST6269",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ],
+                        [
+                            -2.53368304,
+                            51.4367805
+                        ],
+                        [
+                            -2.53357824,
+                            51.42778932
+                        ],
+                        [
+                            -2.54796103,
+                            51.42772294
+                        ],
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ]
+                    ]
+                ]
+            },
+            "id": 5941,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6270",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.55001545,
+                            51.59855251
+                        ],
+                        [
+                            -2.53557878,
+                            51.5986193
+                        ],
+                        [
+                            -2.53547299,
+                            51.58962837
+                        ],
+                        [
+                            -2.54990682,
+                            51.58956161
+                        ],
+                        [
+                            -2.55001545,
+                            51.59855251
+                        ]
+                    ]
+                ]
+            },
+            "id": 7083,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6288",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.55023289,
+                            51.61653428
+                        ],
+                        [
+                            -2.53579051,
+                            51.61660111
+                        ],
+                        [
+                            -2.53568462,
+                            51.60761021
+                        ],
+                        [
+                            -2.55012414,
+                            51.6075434
+                        ],
+                        [
+                            -2.55023289,
+                            51.61653428
+                        ]
+                    ]
+                ]
+            },
+            "id": 4475,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST6290",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.53211671,
+                            51.30191136
+                        ],
+                        [
+                            -2.51777324,
+                            51.30197569
+                        ],
+                        [
+                            -2.51767205,
+                            51.29298428
+                        ],
+                        [
+                            -2.53201272,
+                            51.29291997
+                        ],
+                        [
+                            -2.53211671,
+                            51.30191136
+                        ]
+                    ]
+                ]
+            },
+            "id": 3720,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST6355",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.53232485,
+                            51.3198941
+                        ],
+                        [
+                            -2.51797578,
+                            51.31995846
+                        ],
+                        [
+                            -2.51787449,
+                            51.31096708
+                        ],
+                        [
+                            -2.53222075,
+                            51.31090274
+                        ],
+                        [
+                            -2.53232485,
+                            51.3198941
+                        ]
+                    ]
+                ]
+            },
+            "id": 2662,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2014,
+                "osgr_1km": "ST6357",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5346287,
+                            51.51770047
+                        ],
+                        [
+                            -2.52021756,
+                            51.51776529
+                        ],
+                        [
+                            -2.52011511,
+                            51.50877422
+                        ],
+                        [
+                            -2.53452341,
+                            51.50870942
+                        ],
+                        [
+                            -2.5346287,
+                            51.51770047
+                        ]
+                    ]
+                ]
+            },
+            "id": 3292,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6379",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51868631,
+                            51.38289774
+                        ],
+                        [
+                            -2.50431751,
+                            51.38296049
+                        ],
+                        [
+                            -2.50421866,
+                            51.37396918
+                        ],
+                        [
+                            -2.51858465,
+                            51.37390645
+                        ],
+                        [
+                            -2.51868631,
+                            51.38289774
+                        ]
+                    ]
+                ]
+            },
+            "id": 476,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1999,
+                "osgr_1km": "ST6464",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51878802,
+                            51.391889
+                        ],
+                        [
+                            -2.50441641,
+                            51.39195178
+                        ],
+                        [
+                            -2.50431751,
+                            51.38296049
+                        ],
+                        [
+                            -2.51868631,
+                            51.38289774
+                        ],
+                        [
+                            -2.51878802,
+                            51.391889
+                        ]
+                    ]
+                ]
+            },
+            "id": 283,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1990,
+                "osgr_1km": "ST6465",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51888979,
+                            51.40088026
+                        ],
+                        [
+                            -2.50451536,
+                            51.40094305
+                        ],
+                        [
+                            -2.50441641,
+                            51.39195178
+                        ],
+                        [
+                            -2.51878802,
+                            51.391889
+                        ],
+                        [
+                            -2.51888979,
+                            51.40088026
+                        ]
+                    ]
+                ]
+            },
+            "id": 3223,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2015,
+                "osgr_1km": "ST6466",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5195015,
+                            51.45482749
+                        ],
+                        [
+                            -2.50511013,
+                            51.4548904
+                        ],
+                        [
+                            -2.50501088,
+                            51.44589921
+                        ],
+                        [
+                            -2.51939941,
+                            51.44583632
+                        ],
+                        [
+                            -2.5195015,
+                            51.45482749
+                        ]
+                    ]
+                ]
+            },
+            "id": 2557,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1997,
+                "osgr_1km": "ST6472",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.52001271,
+                            51.49978313
+                        ],
+                        [
+                            -2.50560719,
+                            51.49984614
+                        ],
+                        [
+                            -2.50550768,
+                            51.49085502
+                        ],
+                        [
+                            -2.51991036,
+                            51.49079203
+                        ],
+                        [
+                            -2.52001271,
+                            51.49978313
+                        ]
+                    ]
+                ]
+            },
+            "id": 3797,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6477",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.52134808,
+                            51.61666616
+                        ],
+                        [
+                            -2.50690559,
+                            51.61672943
+                        ],
+                        [
+                            -2.5068054,
+                            51.60773849
+                        ],
+                        [
+                            -2.52124503,
+                            51.60767524
+                        ],
+                        [
+                            -2.52134808,
+                            51.61666616
+                        ]
+                    ]
+                ]
+            },
+            "id": 7288,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2020,
+                "osgr_1km": "ST6490",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.503233,
+                            51.28405539
+                        ],
+                        [
+                            -2.48889503,
+                            51.28411616
+                        ],
+                        [
+                            -2.48879954,
+                            51.27512469
+                        ],
+                        [
+                            -2.50313471,
+                            51.27506393
+                        ],
+                        [
+                            -2.503233,
+                            51.28405539
+                        ]
+                    ]
+                ]
+            },
+            "id": 5412,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST6553",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50333134,
+                            51.29304683
+                        ],
+                        [
+                            -2.48899057,
+                            51.29310762
+                        ],
+                        [
+                            -2.48889503,
+                            51.28411616
+                        ],
+                        [
+                            -2.503233,
+                            51.28405539
+                        ],
+                        [
+                            -2.50333134,
+                            51.29304683
+                        ]
+                    ]
+                ]
+            },
+            "id": 5871,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1983,
+                "osgr_1km": "ST6554",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50451536,
+                            51.40094305
+                        ],
+                        [
+                            -2.49014088,
+                            51.40100408
+                        ],
+                        [
+                            -2.49004475,
+                            51.39201278
+                        ],
+                        [
+                            -2.50441641,
+                            51.39195178
+                        ],
+                        [
+                            -2.50451536,
+                            51.40094305
+                        ]
+                    ]
+                ]
+            },
+            "id": 2901,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1987,
+                "osgr_1km": "ST6566",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ],
+                        [
+                            -2.49033329,
+                            51.41898662
+                        ],
+                        [
+                            -2.49023706,
+                            51.40999536
+                        ],
+                        [
+                            -2.50461436,
+                            51.40993431
+                        ],
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ]
+                    ]
+                ]
+            },
+            "id": 5077,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST6568",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50540821,
+                            51.48186389
+                        ],
+                        [
+                            -2.49100831,
+                            51.48192509
+                        ],
+                        [
+                            -2.49091173,
+                            51.47293392
+                        ],
+                        [
+                            -2.5053088,
+                            51.47287274
+                        ],
+                        [
+                            -2.50540821,
+                            51.48186389
+                        ]
+                    ]
+                ]
+            },
+            "id": 4273,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1997,
+                "osgr_1km": "ST6575",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50580637,
+                            51.51782834
+                        ],
+                        [
+                            -2.49139513,
+                            51.51788962
+                        ],
+                        [
+                            -2.49129835,
+                            51.50889851
+                        ],
+                        [
+                            -2.50570676,
+                            51.50883725
+                        ],
+                        [
+                            -2.50580637,
+                            51.51782834
+                        ]
+                    ]
+                ]
+            },
+            "id": 3101,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2004,
+                "osgr_1km": "ST6579",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50600576,
+                            51.53581048
+                        ],
+                        [
+                            -2.49158885,
+                            51.53587181
+                        ],
+                        [
+                            -2.49149196,
+                            51.52688072
+                        ],
+                        [
+                            -2.50590604,
+                            51.52681942
+                        ],
+                        [
+                            -2.50600576,
+                            51.53581048
+                        ]
+                    ]
+                ]
+            },
+            "id": 5259,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST6581",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50740731,
+                            51.66168391
+                        ],
+                        [
+                            -2.49295048,
+                            51.66174551
+                        ],
+                        [
+                            -2.4928529,
+                            51.65275462
+                        ],
+                        [
+                            -2.50730686,
+                            51.65269304
+                        ],
+                        [
+                            -2.50740731,
+                            51.66168391
+                        ]
+                    ]
+                ]
+            },
+            "id": 2866,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1999,
+                "osgr_1km": "ST6595",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49004475,
+                            51.39201278
+                        ],
+                        [
+                            -2.47567303,
+                            51.39207203
+                        ],
+                        [
+                            -2.47557977,
+                            51.3830807
+                        ],
+                        [
+                            -2.48994866,
+                            51.38302148
+                        ],
+                        [
+                            -2.49004475,
+                            51.39201278
+                        ]
+                    ]
+                ]
+            },
+            "id": 157,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6665",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.4905259,
+                            51.43696911
+                        ],
+                        [
+                            -2.47614009,
+                            51.43702845
+                        ],
+                        [
+                            -2.47604658,
+                            51.4280372
+                        ],
+                        [
+                            -2.49042957,
+                            51.42797788
+                        ],
+                        [
+                            -2.4905259,
+                            51.43696911
+                        ]
+                    ]
+                ]
+            },
+            "id": 5447,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1999,
+                "osgr_1km": "ST6670",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49062229,
+                            51.44596034
+                        ],
+                        [
+                            -2.47623365,
+                            51.4460197
+                        ],
+                        [
+                            -2.47614009,
+                            51.43702845
+                        ],
+                        [
+                            -2.4905259,
+                            51.43696911
+                        ],
+                        [
+                            -2.49062229,
+                            51.44596034
+                        ]
+                    ]
+                ]
+            },
+            "id": 6233,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1998,
+                "osgr_1km": "ST6671",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49071872,
+                            51.45495155
+                        ],
+                        [
+                            -2.47632725,
+                            51.45501093
+                        ],
+                        [
+                            -2.47623365,
+                            51.4460197
+                        ],
+                        [
+                            -2.49062229,
+                            51.44596034
+                        ],
+                        [
+                            -2.49071872,
+                            51.45495155
+                        ]
+                    ]
+                ]
+            },
+            "id": 3535,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1993,
+                "osgr_1km": "ST6672",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49100831,
+                            51.48192509
+                        ],
+                        [
+                            -2.47660835,
+                            51.48198453
+                        ],
+                        [
+                            -2.4765146,
+                            51.47299334
+                        ],
+                        [
+                            -2.49091173,
+                            51.47293392
+                        ],
+                        [
+                            -2.49100831,
+                            51.48192509
+                        ]
+                    ]
+                ]
+            },
+            "id": 5727,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6675",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49187979,
+                            51.56284497
+                        ],
+                        [
+                            -2.4774543,
+                            51.56290458
+                        ],
+                        [
+                            -2.47736011,
+                            51.55391352
+                        ],
+                        [
+                            -2.49178276,
+                            51.55385393
+                        ],
+                        [
+                            -2.49187979,
+                            51.56284497
+                        ]
+                    ]
+                ]
+            },
+            "id": 2731,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2006,
+                "osgr_1km": "ST6684",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49246305,
+                            51.61679093
+                        ],
+                        [
+                            -2.47802046,
+                            51.61685065
+                        ],
+                        [
+                            -2.47792598,
+                            51.60785967
+                        ],
+                        [
+                            -2.49236571,
+                            51.60779997
+                        ],
+                        [
+                            -2.49246305,
+                            51.61679093
+                        ]
+                    ]
+                ]
+            },
+            "id": 860,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6690",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.47492825,
+                            51.32014102
+                        ],
+                        [
+                            -2.46057898,
+                            51.32019836
+                        ],
+                        [
+                            -2.4604889,
+                            51.3112069
+                        ],
+                        [
+                            -2.47483537,
+                            51.31114958
+                        ],
+                        [
+                            -2.47492825,
+                            51.32014102
+                        ]
+                    ]
+                ]
+            },
+            "id": 2340,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2004,
+                "osgr_1km": "ST6757",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.47539338,
+                            51.36509801
+                        ],
+                        [
+                            -2.46103006,
+                            51.36515544
+                        ],
+                        [
+                            -2.46093975,
+                            51.35616405
+                        ],
+                        [
+                            -2.47530026,
+                            51.35610664
+                        ],
+                        [
+                            -2.47539338,
+                            51.36509801
+                        ]
+                    ]
+                ]
+            },
+            "id": 4768,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2005,
+                "osgr_1km": "ST6762",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.476796,
+                            51.49996686
+                        ],
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ],
+                        [
+                            -2.46229932,
+                            51.49103339
+                        ],
+                        [
+                            -2.47670215,
+                            51.4909757
+                        ],
+                        [
+                            -2.476796,
+                            51.49996686
+                        ]
+                    ]
+                ]
+            },
+            "id": 3603,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6777",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.47792598,
+                            51.60785967
+                        ],
+                        [
+                            -2.46348619,
+                            51.6079176
+                        ],
+                        [
+                            -2.46339461,
+                            51.59892659
+                        ],
+                        [
+                            -2.47783154,
+                            51.59886868
+                        ],
+                        [
+                            -2.47792598,
+                            51.60785967
+                        ]
+                    ]
+                ]
+            },
+            "id": 5053,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2008,
+                "osgr_1km": "ST6789",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.46139177,
+                            51.40112084
+                        ],
+                        [
+                            -2.44701714,
+                            51.40117658
+                        ],
+                        [
+                            -2.44692946,
+                            51.39218523
+                        ],
+                        [
+                            -2.46130127,
+                            51.39212951
+                        ],
+                        [
+                            -2.46139177,
+                            51.40112084
+                        ]
+                    ]
+                ]
+            },
+            "id": 802,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2003,
+                "osgr_1km": "ST6866",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ],
+                        [
+                            -2.44798462,
+                            51.5000805
+                        ],
+                        [
+                            -2.44789644,
+                            51.4910893
+                        ],
+                        [
+                            -2.46229932,
+                            51.49103339
+                        ],
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ]
+                    ]
+                ]
+            },
+            "id": 1756,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6877",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.46293741,
+                            51.55397133
+                        ],
+                        [
+                            -2.44851466,
+                            51.55402738
+                        ],
+                        [
+                            -2.4484262,
+                            51.54503627
+                        ],
+                        [
+                            -2.46284611,
+                            51.54498024
+                        ],
+                        [
+                            -2.46293741,
+                            51.55397133
+                        ]
+                    ]
+                ]
+            },
+            "id": 1383,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2018,
+                "osgr_1km": "ST6883",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.44596798,
+                            51.29327947
+                        ],
+                        [
+                            -2.43162702,
+                            51.29333324
+                        ],
+                        [
+                            -2.43154269,
+                            51.28434171
+                        ],
+                        [
+                            -2.44588084,
+                            51.28428795
+                        ],
+                        [
+                            -2.44596798,
+                            51.29327947
+                        ]
+                    ]
+                ]
+            },
+            "id": 1417,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST6954",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.44701714,
+                            51.40117658
+                        ],
+                        [
+                            -2.43264247,
+                            51.40123056
+                        ],
+                        [
+                            -2.43255761,
+                            51.39223919
+                        ],
+                        [
+                            -2.44692946,
+                            51.39218523
+                        ],
+                        [
+                            -2.44701714,
+                            51.40117658
+                        ]
+                    ]
+                ]
+            },
+            "id": 1554,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2005,
+                "osgr_1km": "ST6966",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.43289732,
+                            51.42820457
+                        ],
+                        [
+                            -2.41851415,
+                            51.42825684
+                        ],
+                        [
+                            -2.41843197,
+                            51.4192655
+                        ],
+                        [
+                            -2.43281233,
+                            51.41921325
+                        ],
+                        [
+                            -2.43289732,
+                            51.42820457
+                        ]
+                    ]
+                ]
+            },
+            "id": 2445,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2004,
+                "osgr_1km": "ST7069",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.43306744,
+                            51.44618718
+                        ],
+                        [
+                            -2.41867862,
+                            51.44623948
+                        ],
+                        [
+                            -2.41859636,
+                            51.43724816
+                        ],
+                        [
+                            -2.43298236,
+                            51.43719588
+                        ],
+                        [
+                            -2.43306744,
+                            51.44618718
+                        ]
+                    ]
+                ]
+            },
+            "id": 124,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1974,
+                "osgr_1km": "ST7071",
+                "data_provider_id": "dp77",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.43426322,
+                            51.57206386
+                        ],
+                        [
+                            -2.4198347,
+                            51.5721164
+                        ],
+                        [
+                            -2.41975184,
+                            51.56312528
+                        ],
+                        [
+                            -2.43417752,
+                            51.56307276
+                        ],
+                        [
+                            -2.43426322,
+                            51.57206386
+                        ]
+                    ]
+                ]
+            },
+            "id": 2835,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST7085",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.4346924,
+                            51.61701916
+                        ],
+                        [
+                            -2.42024962,
+                            51.61707177
+                        ],
+                        [
+                            -2.42016655,
+                            51.60808073
+                        ],
+                        [
+                            -2.43460647,
+                            51.60802813
+                        ],
+                        [
+                            -2.4346924,
+                            51.61701916
+                        ]
+                    ]
+                ]
+            },
+            "id": 3124,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2021,
+                "osgr_1km": "ST7090",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41810371,
+                            51.38329999
+                        ],
+                        [
+                            -2.40373459,
+                            51.38335041
+                        ],
+                        [
+                            -2.40365544,
+                            51.37435898
+                        ],
+                        [
+                            -2.41802175,
+                            51.37430858
+                        ],
+                        [
+                            -2.41810371,
+                            51.38329999
+                        ]
+                    ]
+                ]
+            },
+            "id": 2213,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2000,
+                "osgr_1km": "ST7164",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41966903,
+                            51.55413415
+                        ],
+                        [
+                            -2.40524615,
+                            51.55418487
+                        ],
+                        [
+                            -2.40516622,
+                            51.54519371
+                        ],
+                        [
+                            -2.41958626,
+                            51.545143
+                        ],
+                        [
+                            -2.41966903,
+                            51.55413415
+                        ]
+                    ]
+                ]
+            },
+            "id": 5243,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1983,
+                "osgr_1km": "ST7183",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41975184,
+                            51.56312528
+                        ],
+                        [
+                            -2.40532611,
+                            51.56317602
+                        ],
+                        [
+                            -2.40524615,
+                            51.55418487
+                        ],
+                        [
+                            -2.41966903,
+                            51.55413415
+                        ],
+                        [
+                            -2.41975184,
+                            51.56312528
+                        ]
+                    ]
+                ]
+            },
+            "id": 1539,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST7184",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.40373459,
+                            51.38335041
+                        ],
+                        [
+                            -2.38936542,
+                            51.38339907
+                        ],
+                        [
+                            -2.38928909,
+                            51.37440762
+                        ],
+                        [
+                            -2.40365544,
+                            51.37435898
+                        ],
+                        [
+                            -2.40373459,
+                            51.38335041
+                        ]
+                    ]
+                ]
+            },
+            "id": 5335,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2020,
+                "osgr_1km": "ST7264",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.40405158,
+                            51.41931598
+                        ],
+                        [
+                            -2.38967114,
+                            51.4193647
+                        ],
+                        [
+                            -2.38959465,
+                            51.41037331
+                        ],
+                        [
+                            -2.40397227,
+                            51.41032461
+                        ],
+                        [
+                            -2.40405158,
+                            51.41931598
+                        ]
+                    ]
+                ]
+            },
+            "id": 5985,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST7268",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.40556627,
+                            51.59014938
+                        ],
+                        [
+                            -2.39113196,
+                            51.59019839
+                        ],
+                        [
+                            -2.39105472,
+                            51.58120727
+                        ],
+                        [
+                            -2.40548618,
+                            51.58115827
+                        ],
+                        [
+                            -2.40556627,
+                            51.59014938
+                        ]
+                    ]
+                ]
+            },
+            "id": 5463,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2005,
+                "osgr_1km": "ST7287",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.4056464,
+                            51.59914047
+                        ],
+                        [
+                            -2.39120925,
+                            51.5991895
+                        ],
+                        [
+                            -2.39113196,
+                            51.59019839
+                        ],
+                        [
+                            -2.40556627,
+                            51.59014938
+                        ],
+                        [
+                            -2.4056464,
+                            51.59914047
+                        ]
+                    ]
+                ]
+            },
+            "id": 1126,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2006,
+                "osgr_1km": "ST7288",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.38936542,
+                            51.38339907
+                        ],
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ],
+                        [
+                            -2.37492271,
+                            51.3744545
+                        ],
+                        [
+                            -2.38928909,
+                            51.37440762
+                        ],
+                        [
+                            -2.38936542,
+                            51.38339907
+                        ]
+                    ]
+                ]
+            },
+            "id": 302,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1993,
+                "osgr_1km": "ST7364",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.39059209,
+                            51.52726025
+                        ],
+                        [
+                            -2.37617765,
+                            51.52730739
+                        ],
+                        [
+                            -2.37610352,
+                            51.51831615
+                        ],
+                        [
+                            -2.39051512,
+                            51.51826903
+                        ],
+                        [
+                            -2.39059209,
+                            51.52726025
+                        ]
+                    ]
+                ]
+            },
+            "id": 2516,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2000,
+                "osgr_1km": "ST7380",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3745557,
+                            51.32949701
+                        ],
+                        [
+                            -2.36020333,
+                            51.32954205
+                        ],
+                        [
+                            -2.36013284,
+                            51.3205505
+                        ],
+                        [
+                            -2.37448241,
+                            51.32050546
+                        ],
+                        [
+                            -2.3745557,
+                            51.32949701
+                        ]
+                    ]
+                ]
+            },
+            "id": 4913,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2013,
+                "osgr_1km": "ST7458",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37470239,
+                            51.34748005
+                        ],
+                        [
+                            -2.3603444,
+                            51.34752512
+                        ],
+                        [
+                            -2.36027384,
+                            51.33853359
+                        ],
+                        [
+                            -2.37462903,
+                            51.33848853
+                        ],
+                        [
+                            -2.37470239,
+                            51.34748005
+                        ]
+                    ]
+                ]
+            },
+            "id": 5473,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2004,
+                "osgr_1km": "ST7460",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37477579,
+                            51.35647155
+                        ],
+                        [
+                            -2.36041499,
+                            51.35651664
+                        ],
+                        [
+                            -2.3603444,
+                            51.34752512
+                        ],
+                        [
+                            -2.37470239,
+                            51.34748005
+                        ],
+                        [
+                            -2.37477579,
+                            51.35647155
+                        ]
+                    ]
+                ]
+            },
+            "id": 5579,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2000,
+                "osgr_1km": "ST7461",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ],
+                        [
+                            -2.36062698,
+                            51.38349109
+                        ],
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ],
+                        [
+                            -2.37492271,
+                            51.3744545
+                        ],
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ]
+                    ]
+                ]
+            },
+            "id": 1502,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2014,
+                "osgr_1km": "ST7464",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37521699,
+                            51.41042025
+                        ],
+                        [
+                            -2.3608393,
+                            51.41046543
+                        ],
+                        [
+                            -2.36076849,
+                            51.401474
+                        ],
+                        [
+                            -2.37514336,
+                            51.40142883
+                        ],
+                        [
+                            -2.37521699,
+                            51.41042025
+                        ]
+                    ]
+                ]
+            },
+            "id": 6055,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST7467",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37529066,
+                            51.41941165
+                        ],
+                        [
+                            -2.36091014,
+                            51.41945684
+                        ],
+                        [
+                            -2.3608393,
+                            51.41046543
+                        ],
+                        [
+                            -2.37521699,
+                            51.41042025
+                        ],
+                        [
+                            -2.37529066,
+                            51.41941165
+                        ]
+                    ]
+                ]
+            },
+            "id": 3930,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST7468",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37543811,
+                            51.43739441
+                        ],
+                        [
+                            -2.36105195,
+                            51.43743963
+                        ],
+                        [
+                            -2.36098103,
+                            51.42844824
+                        ],
+                        [
+                            -2.37536437,
+                            51.42840304
+                        ],
+                        [
+                            -2.37543811,
+                            51.43739441
+                        ]
+                    ]
+                ]
+            },
+            "id": 1632,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2005,
+                "osgr_1km": "ST7470",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3758074,
+                            51.48235107
+                        ],
+                        [
+                            -2.3614071,
+                            51.48239637
+                        ],
+                        [
+                            -2.361336,
+                            51.47340505
+                        ],
+                        [
+                            -2.37573347,
+                            51.47335977
+                        ],
+                        [
+                            -2.3758074,
+                            51.48235107
+                        ]
+                    ]
+                ]
+            },
+            "id": 82,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST7475",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37647454,
+                            51.56327218
+                        ],
+                        [
+                            -2.36204869,
+                            51.56331761
+                        ],
+                        [
+                            -2.36197726,
+                            51.55432641
+                        ],
+                        [
+                            -2.37640026,
+                            51.554281
+                        ],
+                        [
+                            -2.37647454,
+                            51.56327218
+                        ]
+                    ]
+                ]
+            },
+            "id": 3868,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1993,
+                "osgr_1km": "ST7484",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37669761,
+                            51.59024564
+                        ],
+                        [
+                            -2.36226323,
+                            51.5902911
+                        ],
+                        [
+                            -2.36219168,
+                            51.58129995
+                        ],
+                        [
+                            -2.37662322,
+                            51.5812545
+                        ],
+                        [
+                            -2.37669761,
+                            51.59024564
+                        ]
+                    ]
+                ]
+            },
+            "id": 2620,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2007,
+                "osgr_1km": "ST7487",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37677205,
+                            51.59923676
+                        ],
+                        [
+                            -2.36233481,
+                            51.59928224
+                        ],
+                        [
+                            -2.36226323,
+                            51.5902911
+                        ],
+                        [
+                            -2.37669761,
+                            51.59024564
+                        ],
+                        [
+                            -2.37677205,
+                            51.59923676
+                        ]
+                    ]
+                ]
+            },
+            "id": 1129,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2023,
+                "osgr_1km": "ST7488",
+                "data_provider_id": "dp35",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36048561,
+                            51.36550814
+                        ],
+                        [
+                            -2.34612196,
+                            51.36555148
+                        ],
+                        [
+                            -2.34605415,
+                            51.35655996
+                        ],
+                        [
+                            -2.36041499,
+                            51.35651664
+                        ],
+                        [
+                            -2.36048561,
+                            51.36550814
+                        ]
+                    ]
+                ]
+            },
+            "id": 3321,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST7562",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ],
+                        [
+                            -2.34618981,
+                            51.37454298
+                        ],
+                        [
+                            -2.34612196,
+                            51.36555148
+                        ],
+                        [
+                            -2.36048561,
+                            51.36550814
+                        ],
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ]
+                    ]
+                ]
+            },
+            "id": 5931,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2001,
+                "osgr_1km": "ST7563",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36169188,
+                            51.5183615
+                        ],
+                        [
+                            -2.34728021,
+                            51.51840508
+                        ],
+                        [
+                            -2.34721179,
+                            51.5094138
+                        ],
+                        [
+                            -2.36162063,
+                            51.50937024
+                        ],
+                        [
+                            -2.36169188,
+                            51.5183615
+                        ]
+                    ]
+                ]
+            },
+            "id": 442,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2005,
+                "osgr_1km": "ST7579",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.36176317,
+                            51.52735275
+                        ],
+                        [
+                            -2.34734866,
+                            51.52739634
+                        ],
+                        [
+                            -2.34728021,
+                            51.51840508
+                        ],
+                        [
+                            -2.36169188,
+                            51.5183615
+                        ],
+                        [
+                            -2.36176317,
+                            51.52735275
+                        ]
+                    ]
+                ]
+            },
+            "id": 3717,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2005,
+                "osgr_1km": "ST7580",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34598637,
+                            51.34756844
+                        ],
+                        [
+                            -2.33162831,
+                            51.34760999
+                        ],
+                        [
+                            -2.33156337,
+                            51.33861844
+                        ],
+                        [
+                            -2.34591862,
+                            51.33857689
+                        ],
+                        [
+                            -2.34598637,
+                            51.34756844
+                        ]
+                    ]
+                ]
+            },
+            "id": 829,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2019,
+                "osgr_1km": "ST7660",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3462577,
+                            51.38353446
+                        ],
+                        [
+                            -2.33188839,
+                            51.38357607
+                        ],
+                        [
+                            -2.33182332,
+                            51.37458457
+                        ],
+                        [
+                            -2.34618981,
+                            51.37454298
+                        ],
+                        [
+                            -2.3462577,
+                            51.38353446
+                        ]
+                    ]
+                ]
+            },
+            "id": 2444,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2005,
+                "osgr_1km": "ST7664",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34762281,
+                            51.56336125
+                        ],
+                        [
+                            -2.33319689,
+                            51.56340313
+                        ],
+                        [
+                            -2.33313115,
+                            51.55441191
+                        ],
+                        [
+                            -2.34755422,
+                            51.55437005
+                        ],
+                        [
+                            -2.34762281,
+                            51.56336125
+                        ]
+                    ]
+                ]
+            },
+            "id": 4752,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2009,
+                "osgr_1km": "ST7684",
+                "data_provider_id": "dp116",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.34769144,
+                            51.57235245
+                        ],
+                        [
+                            -2.33326268,
+                            51.57239434
+                        ],
+                        [
+                            -2.33319689,
+                            51.56340313
+                        ],
+                        [
+                            -2.34762281,
+                            51.56336125
+                        ],
+                        [
+                            -2.34769144,
+                            51.57235245
+                        ]
+                    ]
+                ]
+            },
+            "id": 2382,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2009,
+                "osgr_1km": "ST7685",
+                "data_provider_id": "dp116",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.33188839,
+                            51.38357607
+                        ],
+                        [
+                            -2.31751904,
+                            51.38361592
+                        ],
+                        [
+                            -2.31745678,
+                            51.37462441
+                        ],
+                        [
+                            -2.33182332,
+                            51.37458457
+                        ],
+                        [
+                            -2.33188839,
+                            51.38357607
+                        ]
+                    ]
+                ]
+            },
+            "id": 3153,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST7764",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.33247554,
+                            51.46449894
+                        ],
+                        [
+                            -2.31808079,
+                            51.4645389
+                        ],
+                        [
+                            -2.31801824,
+                            51.45554751
+                        ],
+                        [
+                            -2.33241016,
+                            51.45550756
+                        ],
+                        [
+                            -2.33247554,
+                            51.46449894
+                        ]
+                    ]
+                ]
+            },
+            "id": 4140,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2017,
+                "osgr_1km": "ST7773",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.31745678,
+                            51.37462441
+                        ],
+                        [
+                            -2.30309022,
+                            51.37466248
+                        ],
+                        [
+                            -2.30303081,
+                            51.36567094
+                        ],
+                        [
+                            -2.31739456,
+                            51.36563288
+                        ],
+                        [
+                            -2.31745678,
+                            51.37462441
+                        ]
+                    ]
+                ]
+            },
+            "id": 5216,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 2014,
+                "osgr_1km": "ST7863",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.31776838,
+                            51.41958183
+                        ],
+                        [
+                            -2.30338773,
+                            51.41961996
+                        ],
+                        [
+                            -2.30332817,
+                            51.41062849
+                        ],
+                        [
+                            -2.317706,
+                            51.41059037
+                        ],
+                        [
+                            -2.31776838,
+                            51.41958183
+                        ]
+                    ]
+                ]
+            },
+            "id": 137,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1978,
+                "osgr_1km": "ST7868",
+                "data_provider_id": "dp77",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.31883388,
+                            51.57243445
+                        ],
+                        [
+                            -2.30440505,
+                            51.57247279
+                        ],
+                        [
+                            -2.30434496,
+                            51.56348156
+                        ],
+                        [
+                            -2.31877094,
+                            51.56344323
+                        ],
+                        [
+                            -2.31883388,
+                            51.57243445
+                        ]
+                    ]
+                ]
+            },
+            "id": 1007,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1999,
+                "osgr_1km": "ST7885",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.30350695,
+                            51.43760286
+                        ],
+                        [
+                            -2.28912062,
+                            51.43763925
+                        ],
+                        [
+                            -2.28906382,
+                            51.4286478
+                        ],
+                        [
+                            -2.30344732,
+                            51.42861142
+                        ],
+                        [
+                            -2.30350695,
+                            51.43760286
+                        ]
+                    ]
+                ]
+            },
+            "id": 1065,
+            "properties": {
+                "species": "Brown Long-eared Bat",
+                "year": 1985,
+                "osgr_1km": "ST7970",
+                "data_provider_id": "dp83",
+                "record_type": "Unknown"
+            }
+        }
+    ]
+}

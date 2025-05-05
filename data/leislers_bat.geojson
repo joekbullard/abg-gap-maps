@@ -1,0 +1,3881 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.96314221,
+                            51.3351267
+                        ],
+                        [
+                            -2.94878977,
+                            51.33524387
+                        ],
+                        [
+                            -2.94860418,
+                            51.32625337
+                        ],
+                        [
+                            -2.96295381,
+                            51.32613624
+                        ],
+                        [
+                            -2.96314221,
+                            51.3351267
+                        ]
+                    ]
+                ]
+            },
+            "id": 4360,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST3359",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.92098593,
+                            51.38042553
+                        ],
+                        [
+                            -2.90661915,
+                            51.3805376
+                        ],
+                        [
+                            -2.90644152,
+                            51.37154707
+                        ],
+                        [
+                            -2.92080548,
+                            51.37143504
+                        ],
+                        [
+                            -2.92098593,
+                            51.38042553
+                        ]
+                    ]
+                ]
+            },
+            "id": 3327,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 1999,
+                "osgr_1km": "ST3664",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.86267318,
+                            51.33590995
+                        ],
+                        [
+                            -2.8483201,
+                            51.3360148
+                        ],
+                        [
+                            -2.84815414,
+                            51.32702407
+                        ],
+                        [
+                            -2.86250442,
+                            51.32691924
+                        ],
+                        [
+                            -2.86267318,
+                            51.33590995
+                        ]
+                    ]
+                ]
+            },
+            "id": 4356,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2015,
+                "osgr_1km": "ST4059",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.84782249,
+                            51.30904255
+                        ],
+                        [
+                            -2.83347774,
+                            51.30914555
+                        ],
+                        [
+                            -2.83331484,
+                            51.30015474
+                        ],
+                        [
+                            -2.84765679,
+                            51.30005177
+                        ],
+                        [
+                            -2.84782249,
+                            51.30904255
+                        ]
+                    ]
+                ]
+            },
+            "id": 5934,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2010,
+                "osgr_1km": "ST4156",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.84815414,
+                            51.32702407
+                        ],
+                        [
+                            -2.83380378,
+                            51.32712714
+                        ],
+                        [
+                            -2.83364072,
+                            51.31813635
+                        ],
+                        [
+                            -2.84798827,
+                            51.31803332
+                        ],
+                        [
+                            -2.84815414,
+                            51.32702407
+                        ]
+                    ]
+                ]
+            },
+            "id": 6010,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST4158",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.84848614,
+                            51.34500553
+                        ],
+                        [
+                            -2.83413016,
+                            51.34510866
+                        ],
+                        [
+                            -2.83396693,
+                            51.33611791
+                        ],
+                        [
+                            -2.8483201,
+                            51.3360148
+                        ],
+                        [
+                            -2.84848614,
+                            51.34500553
+                        ]
+                    ]
+                ]
+            },
+            "id": 5475,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST4160",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.84965082,
+                            51.40794019
+                        ],
+                        [
+                            -2.83527516,
+                            51.40804355
+                        ],
+                        [
+                            -2.83511133,
+                            51.3990529
+                        ],
+                        [
+                            -2.84948418,
+                            51.39894956
+                        ],
+                        [
+                            -2.84965082,
+                            51.40794019
+                        ]
+                    ]
+                ]
+            },
+            "id": 1807,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST4167",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.85048533,
+                            51.45289309
+                        ],
+                        [
+                            -2.83609555,
+                            51.45299662
+                        ],
+                        [
+                            -2.8359313,
+                            51.44400603
+                        ],
+                        [
+                            -2.85031825,
+                            51.44390254
+                        ],
+                        [
+                            -2.85048533,
+                            51.45289309
+                        ]
+                    ]
+                ]
+            },
+            "id": 2242,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST4172",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83364072,
+                            51.31813635
+                        ],
+                        [
+                            -2.81929308,
+                            51.31823763
+                        ],
+                        [
+                            -2.8191329,
+                            51.3092468
+                        ],
+                        [
+                            -2.83347774,
+                            51.30914555
+                        ],
+                        [
+                            -2.83364072,
+                            51.31813635
+                        ]
+                    ]
+                ]
+            },
+            "id": 5943,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST4257",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.83478394,
+                            51.38107154
+                        ],
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ]
+                    ]
+                ]
+            },
+            "id": 4636,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST4265",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83511133,
+                            51.3990529
+                        ],
+                        [
+                            -2.8207384,
+                            51.39915446
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ],
+                        [
+                            -2.83511133,
+                            51.3990529
+                        ]
+                    ]
+                ]
+            },
+            "id": 2953,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2019,
+                "osgr_1km": "ST4266",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83527516,
+                            51.40804355
+                        ],
+                        [
+                            -2.8208994,
+                            51.40814515
+                        ],
+                        [
+                            -2.8207384,
+                            51.39915446
+                        ],
+                        [
+                            -2.83511133,
+                            51.3990529
+                        ],
+                        [
+                            -2.83527516,
+                            51.40804355
+                        ]
+                    ]
+                ]
+            },
+            "id": 4431,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST4267",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83609555,
+                            51.45299662
+                        ],
+                        [
+                            -2.82170569,
+                            51.45309838
+                        ],
+                        [
+                            -2.82154426,
+                            51.44410776
+                        ],
+                        [
+                            -2.8359313,
+                            51.44400603
+                        ],
+                        [
+                            -2.83609555,
+                            51.45299662
+                        ]
+                    ]
+                ]
+            },
+            "id": 6021,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST4272",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.82025588,
+                            51.37218231
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ]
+                    ]
+                ]
+            },
+            "id": 5279,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2019,
+                "osgr_1km": "ST4364",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.80620727,
+                            51.39026354
+                        ],
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ]
+                    ]
+                ]
+            },
+            "id": 2979,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2019,
+                "osgr_1km": "ST4365",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82154426,
+                            51.44410776
+                        ],
+                        [
+                            -2.80715714,
+                            51.44420773
+                        ],
+                        [
+                            -2.80699863,
+                            51.43521707
+                        ],
+                        [
+                            -2.82138292,
+                            51.43511713
+                        ],
+                        [
+                            -2.82154426,
+                            51.44410776
+                        ]
+                    ]
+                ]
+            },
+            "id": 6216,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST4371",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82170569,
+                            51.45309838
+                        ],
+                        [
+                            -2.80731574,
+                            51.45319838
+                        ],
+                        [
+                            -2.80715714,
+                            51.44420773
+                        ],
+                        [
+                            -2.82154426,
+                            51.44410776
+                        ],
+                        [
+                            -2.82170569,
+                            51.45309838
+                        ]
+                    ]
+                ]
+            },
+            "id": 2576,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST4372",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ],
+                        [
+                            -2.7913716,
+                            51.36338917
+                        ],
+                        [
+                            -2.79121663,
+                            51.35439834
+                        ],
+                        [
+                            -2.80557566,
+                            51.35430046
+                        ],
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ]
+                    ]
+                ]
+            },
+            "id": 2558,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST4462",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ],
+                        [
+                            -2.7913716,
+                            51.36338917
+                        ],
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ]
+                    ]
+                ]
+            },
+            "id": 4775,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST4463",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ],
+                        [
+                            -2.79168178,
+                            51.38137077
+                        ],
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ]
+                    ]
+                ]
+            },
+            "id": 5415,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST4464",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80636538,
+                            51.39925427
+                        ],
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.80620727,
+                            51.39026354
+                        ],
+                        [
+                            -2.80636538,
+                            51.39925427
+                        ]
+                    ]
+                ]
+            },
+            "id": 7369,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2022,
+                "osgr_1km": "ST4466",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79106174,
+                            51.34540751
+                        ],
+                        [
+                            -2.77670544,
+                            51.3455036
+                        ],
+                        [
+                            -2.77655344,
+                            51.33651272
+                        ],
+                        [
+                            -2.79090693,
+                            51.33641666
+                        ],
+                        [
+                            -2.79106174,
+                            51.34540751
+                        ]
+                    ]
+                ]
+            },
+            "id": 2232,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST4560",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.77731423,
+                            51.38146699
+                        ],
+                        [
+                            -2.79168178,
+                            51.38137077
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ]
+                    ]
+                ]
+            },
+            "id": 616,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST4565",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ],
+                        [
+                            -2.7776191,
+                            51.3994486
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ]
+                    ]
+                ]
+            },
+            "id": 6887,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST4566",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.7932375,
+                            51.47127793
+                        ],
+                        [
+                            -2.77884174,
+                            51.47137446
+                        ],
+                        [
+                            -2.77868863,
+                            51.46238378
+                        ],
+                        [
+                            -2.79308157,
+                            51.46228728
+                        ],
+                        [
+                            -2.7932375,
+                            51.47127793
+                        ]
+                    ]
+                ]
+            },
+            "id": 2414,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST4574",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79354961,
+                            51.48925919
+                        ],
+                        [
+                            -2.77914819,
+                            51.48935578
+                        ],
+                        [
+                            -2.77899492,
+                            51.48036513
+                        ],
+                        [
+                            -2.79339352,
+                            51.48026857
+                        ],
+                        [
+                            -2.79354961,
+                            51.48925919
+                        ]
+                    ]
+                ]
+            },
+            "id": 1011,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST4576",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ],
+                        [
+                            -2.7482856,
+                            51.36367236
+                        ],
+                        [
+                            -2.74813907,
+                            51.35468145
+                        ],
+                        [
+                            -2.76249833,
+                            51.35458884
+                        ],
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ]
+                    ]
+                ]
+            },
+            "id": 2304,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST4762",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76294661,
+                            51.38156145
+                        ],
+                        [
+                            -2.7485789,
+                            51.38165415
+                        ],
+                        [
+                            -2.74843221,
+                            51.37266326
+                        ],
+                        [
+                            -2.7627971,
+                            51.37257059
+                        ],
+                        [
+                            -2.76294661,
+                            51.38156145
+                        ]
+                    ]
+                ]
+            },
+            "id": 5430,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2019,
+                "osgr_1km": "ST4764",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.74975515,
+                            51.45358071
+                        ],
+                        [
+                            -2.7353648,
+                            51.45367188
+                        ],
+                        [
+                            -2.73522033,
+                            51.44468108
+                        ],
+                        [
+                            -2.74960785,
+                            51.44458994
+                        ],
+                        [
+                            -2.74975515,
+                            51.45358071
+                        ]
+                    ]
+                ]
+            },
+            "id": 6828,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST4872",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.74990252,
+                            51.46257147
+                        ],
+                        [
+                            -2.73550935,
+                            51.46266267
+                        ],
+                        [
+                            -2.7353648,
+                            51.45367188
+                        ],
+                        [
+                            -2.74975515,
+                            51.45358071
+                        ],
+                        [
+                            -2.74990252,
+                            51.46257147
+                        ]
+                    ]
+                ]
+            },
+            "id": 1680,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST4873",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.73594344,
+                            51.48963494
+                        ],
+                        [
+                            -2.7215417,
+                            51.48972446
+                        ],
+                        [
+                            -2.72139976,
+                            51.48073369
+                        ],
+                        [
+                            -2.73579867,
+                            51.4806442
+                        ],
+                        [
+                            -2.73594344,
+                            51.48963494
+                        ]
+                    ]
+                ]
+            },
+            "id": 928,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST4976",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.72054967,
+                            51.42678876
+                        ],
+                        [
+                            -2.70616765,
+                            51.42687631
+                        ],
+                        [
+                            -2.70602904,
+                            51.41788541
+                        ],
+                        [
+                            -2.72040824,
+                            51.41779788
+                        ],
+                        [
+                            -2.72054967,
+                            51.42678876
+                        ]
+                    ]
+                ]
+            },
+            "id": 6310,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST5069",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.72083274,
+                            51.44477046
+                        ],
+                        [
+                            -2.70644507,
+                            51.44485807
+                        ],
+                        [
+                            -2.70630633,
+                            51.43586719
+                        ],
+                        [
+                            -2.72069117,
+                            51.43577961
+                        ],
+                        [
+                            -2.72083274,
+                            51.44477046
+                        ]
+                    ]
+                ]
+            },
+            "id": 4746,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2011,
+                "osgr_1km": "ST5071",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.70561366,
+                            51.39091263
+                        ],
+                        [
+                            -2.69124285,
+                            51.3909983
+                        ],
+                        [
+                            -2.69110734,
+                            51.38200732
+                        ],
+                        [
+                            -2.70547534,
+                            51.38192167
+                        ],
+                        [
+                            -2.70561366,
+                            51.39091263
+                        ]
+                    ]
+                ]
+            },
+            "id": 1565,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST5165",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.69178556,
+                            51.4269621
+                        ],
+                        [
+                            -2.6774034,
+                            51.42704612
+                        ],
+                        [
+                            -2.67727044,
+                            51.41805517
+                        ],
+                        [
+                            -2.69164977,
+                            51.41797117
+                        ],
+                        [
+                            -2.69178556,
+                            51.4269621
+                        ]
+                    ]
+                ]
+            },
+            "id": 5116,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST5269",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6774034,
+                            51.42704612
+                        ],
+                        [
+                            -2.66302117,
+                            51.42712838
+                        ],
+                        [
+                            -2.66289103,
+                            51.4181374
+                        ],
+                        [
+                            -2.67727044,
+                            51.41805517
+                        ],
+                        [
+                            -2.6774034,
+                            51.42704612
+                        ]
+                    ]
+                ]
+            },
+            "id": 2602,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST5369",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.67793594,
+                            51.4630098
+                        ],
+                        [
+                            -2.66354241,
+                            51.46309216
+                        ],
+                        [
+                            -2.66341199,
+                            51.45410124
+                        ],
+                        [
+                            -2.6778027,
+                            51.4540189
+                        ],
+                        [
+                            -2.67793594,
+                            51.4630098
+                        ]
+                    ]
+                ]
+            },
+            "id": 1570,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST5373",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.67820262,
+                            51.48099155
+                        ],
+                        [
+                            -2.66380343,
+                            51.48107397
+                        ],
+                        [
+                            -2.66367288,
+                            51.47208307
+                        ],
+                        [
+                            -2.67806924,
+                            51.47200068
+                        ],
+                        [
+                            -2.67820262,
+                            51.48099155
+                        ]
+                    ]
+                ]
+            },
+            "id": 3547,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST5375",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.67913819,
+                            51.54392724
+                        ],
+                        [
+                            -2.66471915,
+                            51.54400984
+                        ],
+                        [
+                            -2.66458813,
+                            51.53501904
+                        ],
+                        [
+                            -2.67900433,
+                            51.53493647
+                        ],
+                        [
+                            -2.67913819,
+                            51.54392724
+                        ]
+                    ]
+                ]
+            },
+            "id": 996,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST5382",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.66341199,
+                            51.45410124
+                        ],
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ],
+                        [
+                            -2.64889371,
+                            51.44519085
+                        ],
+                        [
+                            -2.66328165,
+                            51.4451103
+                        ],
+                        [
+                            -2.66341199,
+                            51.45410124
+                        ]
+                    ]
+                ]
+            },
+            "id": 3642,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2009,
+                "osgr_1km": "ST5472",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.66367288,
+                            51.47208307
+                        ],
+                        [
+                            -2.64927646,
+                            51.4721637
+                        ],
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ],
+                        [
+                            -2.66354241,
+                            51.46309216
+                        ],
+                        [
+                            -2.66367288,
+                            51.47208307
+                        ]
+                    ]
+                ]
+            },
+            "id": 3759,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST5474",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64825711,
+                            51.40023582
+                        ],
+                        [
+                            -2.63388321,
+                            51.40031447
+                        ],
+                        [
+                            -2.6337589,
+                            51.3913234
+                        ],
+                        [
+                            -2.64812999,
+                            51.39124477
+                        ],
+                        [
+                            -2.64825711,
+                            51.40023582
+                        ]
+                    ]
+                ]
+            },
+            "id": 1210,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2015,
+                "osgr_1km": "ST5566",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ],
+                        [
+                            -2.63463039,
+                            51.45426062
+                        ],
+                        [
+                            -2.6345057,
+                            51.44526963
+                        ],
+                        [
+                            -2.64889371,
+                            51.44519085
+                        ],
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ]
+                    ]
+                ]
+            },
+            "id": 3578,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2009,
+                "osgr_1km": "ST5572",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ],
+                        [
+                            -2.63475514,
+                            51.46325159
+                        ],
+                        [
+                            -2.63463039,
+                            51.45426062
+                        ],
+                        [
+                            -2.64902122,
+                            51.45418181
+                        ],
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ]
+                    ]
+                ]
+            },
+            "id": 1188,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2006,
+                "osgr_1km": "ST5573",
+                "data_provider_id": "dp116",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64927646,
+                            51.4721637
+                        ],
+                        [
+                            -2.63487997,
+                            51.47224255
+                        ],
+                        [
+                            -2.63475514,
+                            51.46325159
+                        ],
+                        [
+                            -2.64914881,
+                            51.46317276
+                        ],
+                        [
+                            -2.64927646,
+                            51.4721637
+                        ]
+                    ]
+                ]
+            },
+            "id": 5041,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST5574",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64940417,
+                            51.48115462
+                        ],
+                        [
+                            -2.63500485,
+                            51.4812335
+                        ],
+                        [
+                            -2.63487997,
+                            51.47224255
+                        ],
+                        [
+                            -2.64927646,
+                            51.4721637
+                        ],
+                        [
+                            -2.64940417,
+                            51.48115462
+                        ]
+                    ]
+                ]
+            },
+            "id": 5859,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 1993,
+                "osgr_1km": "ST5575",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64953196,
+                            51.49014552
+                        ],
+                        [
+                            -2.6351298,
+                            51.49022443
+                        ],
+                        [
+                            -2.63500485,
+                            51.4812335
+                        ],
+                        [
+                            -2.64940417,
+                            51.48115462
+                        ],
+                        [
+                            -2.64953196,
+                            51.49014552
+                        ]
+                    ]
+                ]
+            },
+            "id": 7169,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 1948,
+                "osgr_1km": "ST5576",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6496598,
+                            51.49913642
+                        ],
+                        [
+                            -2.63525482,
+                            51.49921535
+                        ],
+                        [
+                            -2.6351298,
+                            51.49022443
+                        ],
+                        [
+                            -2.64953196,
+                            51.49014552
+                        ],
+                        [
+                            -2.6496598,
+                            51.49913642
+                        ]
+                    ]
+                ]
+            },
+            "id": 4410,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2011,
+                "osgr_1km": "ST5577",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6345057,
+                            51.44526963
+                        ],
+                        [
+                            -2.62011762,
+                            51.44534664
+                        ],
+                        [
+                            -2.61999582,
+                            51.43635562
+                        ],
+                        [
+                            -2.63438107,
+                            51.43627863
+                        ],
+                        [
+                            -2.6345057,
+                            51.44526963
+                        ]
+                    ]
+                ]
+            },
+            "id": 1912,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2015,
+                "osgr_1km": "ST5671",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.63463039,
+                            51.45426062
+                        ],
+                        [
+                            -2.62023949,
+                            51.45433766
+                        ],
+                        [
+                            -2.62011762,
+                            51.44534664
+                        ],
+                        [
+                            -2.6345057,
+                            51.44526963
+                        ],
+                        [
+                            -2.63463039,
+                            51.45426062
+                        ]
+                    ]
+                ]
+            },
+            "id": 1943,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2009,
+                "osgr_1km": "ST5672",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.63475514,
+                            51.46325159
+                        ],
+                        [
+                            -2.62036142,
+                            51.46332866
+                        ],
+                        [
+                            -2.62023949,
+                            51.45433766
+                        ],
+                        [
+                            -2.63463039,
+                            51.45426062
+                        ],
+                        [
+                            -2.63475514,
+                            51.46325159
+                        ]
+                    ]
+                ]
+            },
+            "id": 4870,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST5673",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.63487997,
+                            51.47224255
+                        ],
+                        [
+                            -2.62048341,
+                            51.47231964
+                        ],
+                        [
+                            -2.62036142,
+                            51.46332866
+                        ],
+                        [
+                            -2.63475514,
+                            51.46325159
+                        ],
+                        [
+                            -2.63487997,
+                            51.47224255
+                        ]
+                    ]
+                ]
+            },
+            "id": 7115,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2013,
+                "osgr_1km": "ST5674",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.63500485,
+                            51.4812335
+                        ],
+                        [
+                            -2.62060546,
+                            51.48131061
+                        ],
+                        [
+                            -2.62048341,
+                            51.47231964
+                        ],
+                        [
+                            -2.63487997,
+                            51.47224255
+                        ],
+                        [
+                            -2.63500485,
+                            51.4812335
+                        ]
+                    ]
+                ]
+            },
+            "id": 2483,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST5675",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.62023949,
+                            51.45433766
+                        ],
+                        [
+                            -2.60584852,
+                            51.45441293
+                        ],
+                        [
+                            -2.60572948,
+                            51.4454219
+                        ],
+                        [
+                            -2.62011762,
+                            51.44534664
+                        ],
+                        [
+                            -2.62023949,
+                            51.45433766
+                        ]
+                    ]
+                ]
+            },
+            "id": 2276,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2009,
+                "osgr_1km": "ST5772",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.62036142,
+                            51.46332866
+                        ],
+                        [
+                            -2.60596763,
+                            51.46340396
+                        ],
+                        [
+                            -2.60584852,
+                            51.45441293
+                        ],
+                        [
+                            -2.62023949,
+                            51.45433766
+                        ],
+                        [
+                            -2.62036142,
+                            51.46332866
+                        ]
+                    ]
+                ]
+            },
+            "id": 6420,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2019,
+                "osgr_1km": "ST5773",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.62048341,
+                            51.47231964
+                        ],
+                        [
+                            -2.60608679,
+                            51.47239497
+                        ],
+                        [
+                            -2.60596763,
+                            51.46340396
+                        ],
+                        [
+                            -2.62036142,
+                            51.46332866
+                        ],
+                        [
+                            -2.62048341,
+                            51.47231964
+                        ]
+                    ]
+                ]
+            },
+            "id": 2716,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST5774",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.62072758,
+                            51.49030157
+                        ],
+                        [
+                            -2.6063253,
+                            51.49037694
+                        ],
+                        [
+                            -2.60620601,
+                            51.48138596
+                        ],
+                        [
+                            -2.62060546,
+                            51.48131061
+                        ],
+                        [
+                            -2.62072758,
+                            51.49030157
+                        ]
+                    ]
+                ]
+            },
+            "id": 1959,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2013,
+                "osgr_1km": "ST5776",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.62146162,
+                            51.54424702
+                        ],
+                        [
+                            -2.60704232,
+                            51.54432253
+                        ],
+                        [
+                            -2.60692266,
+                            51.53533164
+                        ],
+                        [
+                            -2.62133913,
+                            51.53525615
+                        ],
+                        [
+                            -2.62146162,
+                            51.54424702
+                        ]
+                    ]
+                ]
+            },
+            "id": 5798,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST5782",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.60537273,
+                            51.4184487
+                        ],
+                        [
+                            -2.590993,
+                            51.41852211
+                        ],
+                        [
+                            -2.59087703,
+                            51.409531
+                        ],
+                        [
+                            -2.60525394,
+                            51.4094576
+                        ],
+                        [
+                            -2.60537273,
+                            51.4184487
+                        ]
+                    ]
+                ]
+            },
+            "id": 1813,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2014,
+                "osgr_1km": "ST5868",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.60596763,
+                            51.46340396
+                        ],
+                        [
+                            -2.59157377,
+                            51.46347749
+                        ],
+                        [
+                            -2.5914575,
+                            51.45448644
+                        ],
+                        [
+                            -2.60584852,
+                            51.45441293
+                        ],
+                        [
+                            -2.60596763,
+                            51.46340396
+                        ]
+                    ]
+                ]
+            },
+            "id": 5239,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 1998,
+                "osgr_1km": "ST5873",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.60608679,
+                            51.47239497
+                        ],
+                        [
+                            -2.59169011,
+                            51.47246852
+                        ],
+                        [
+                            -2.59157377,
+                            51.46347749
+                        ],
+                        [
+                            -2.60596763,
+                            51.46340396
+                        ],
+                        [
+                            -2.60608679,
+                            51.47239497
+                        ]
+                    ]
+                ]
+            },
+            "id": 6276,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST5874",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.60620601,
+                            51.48138596
+                        ],
+                        [
+                            -2.5918065,
+                            51.48145954
+                        ],
+                        [
+                            -2.59169011,
+                            51.47246852
+                        ],
+                        [
+                            -2.60608679,
+                            51.47239497
+                        ],
+                        [
+                            -2.60620601,
+                            51.48138596
+                        ]
+                    ]
+                ]
+            },
+            "id": 5480,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST5875",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.60644465,
+                            51.49936791
+                        ],
+                        [
+                            -2.59203947,
+                            51.49944154
+                        ],
+                        [
+                            -2.59192296,
+                            51.49045055
+                        ],
+                        [
+                            -2.6063253,
+                            51.49037694
+                        ],
+                        [
+                            -2.60644465,
+                            51.49936791
+                        ]
+                    ]
+                ]
+            },
+            "id": 4649,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2013,
+                "osgr_1km": "ST5877",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.590993,
+                            51.41852211
+                        ],
+                        [
+                            -2.57661321,
+                            51.41859376
+                        ],
+                        [
+                            -2.57650006,
+                            51.40960262
+                        ],
+                        [
+                            -2.59087703,
+                            51.409531
+                        ],
+                        [
+                            -2.590993,
+                            51.41852211
+                        ]
+                    ]
+                ]
+            },
+            "id": 3047,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST5968",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5914575,
+                            51.45448644
+                        ],
+                        [
+                            -2.57706641,
+                            51.45455818
+                        ],
+                        [
+                            -2.57695303,
+                            51.4455671
+                        ],
+                        [
+                            -2.59134128,
+                            51.44549538
+                        ],
+                        [
+                            -2.5914575,
+                            51.45448644
+                        ]
+                    ]
+                ]
+            },
+            "id": 5520,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2013,
+                "osgr_1km": "ST5972",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.59169011,
+                            51.47246852
+                        ],
+                        [
+                            -2.57729336,
+                            51.47254031
+                        ],
+                        [
+                            -2.57717986,
+                            51.46354925
+                        ],
+                        [
+                            -2.59157377,
+                            51.46347749
+                        ],
+                        [
+                            -2.59169011,
+                            51.47246852
+                        ]
+                    ]
+                ]
+            },
+            "id": 6380,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST5974",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.59192296,
+                            51.49045055
+                        ],
+                        [
+                            -2.57752055,
+                            51.49052238
+                        ],
+                        [
+                            -2.57740693,
+                            51.48153135
+                        ],
+                        [
+                            -2.5918065,
+                            51.48145954
+                        ],
+                        [
+                            -2.59192296,
+                            51.49045055
+                        ]
+                    ]
+                ]
+            },
+            "id": 1183,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST5976",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57570963,
+                            51.34666425
+                        ],
+                        [
+                            -2.5613523,
+                            51.34673395
+                        ],
+                        [
+                            -2.56124242,
+                            51.33774268
+                        ],
+                        [
+                            -2.57559694,
+                            51.33767299
+                        ],
+                        [
+                            -2.57570963,
+                            51.34666425
+                        ]
+                    ]
+                ]
+            },
+            "id": 2822,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2012,
+                "osgr_1km": "ST6060",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57695303,
+                            51.4455671
+                        ],
+                        [
+                            -2.56256471,
+                            51.44563705
+                        ],
+                        [
+                            -2.5624542,
+                            51.43664593
+                        ],
+                        [
+                            -2.5768397,
+                            51.436576
+                        ],
+                        [
+                            -2.57695303,
+                            51.4455671
+                        ]
+                    ]
+                ]
+            },
+            "id": 6307,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2013,
+                "osgr_1km": "ST6071",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57706641,
+                            51.45455818
+                        ],
+                        [
+                            -2.56267527,
+                            51.45462816
+                        ],
+                        [
+                            -2.56256471,
+                            51.44563705
+                        ],
+                        [
+                            -2.57695303,
+                            51.4455671
+                        ],
+                        [
+                            -2.57706641,
+                            51.45455818
+                        ]
+                    ]
+                ]
+            },
+            "id": 6857,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2013,
+                "osgr_1km": "ST6072",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.57729336,
+                            51.47254031
+                        ],
+                        [
+                            -2.56289656,
+                            51.47261033
+                        ],
+                        [
+                            -2.56278589,
+                            51.46361925
+                        ],
+                        [
+                            -2.57717986,
+                            51.46354925
+                        ],
+                        [
+                            -2.57729336,
+                            51.47254031
+                        ]
+                    ]
+                ]
+            },
+            "id": 7266,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST6074",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.56256471,
+                            51.44563705
+                        ],
+                        [
+                            -2.54817633,
+                            51.44570524
+                        ],
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ],
+                        [
+                            -2.5624542,
+                            51.43664593
+                        ],
+                        [
+                            -2.56256471,
+                            51.44563705
+                        ]
+                    ]
+                ]
+            },
+            "id": 5294,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2013,
+                "osgr_1km": "ST6171",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.56311809,
+                            51.49059244
+                        ],
+                        [
+                            -2.54871557,
+                            51.49066074
+                        ],
+                        [
+                            -2.54860761,
+                            51.48166967
+                        ],
+                        [
+                            -2.5630073,
+                            51.48160139
+                        ],
+                        [
+                            -2.56311809,
+                            51.49059244
+                        ]
+                    ]
+                ]
+            },
+            "id": 5262,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST6176",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5641178,
+                            51.57151126
+                        ],
+                        [
+                            -2.54968972,
+                            51.57157976
+                        ],
+                        [
+                            -2.54958126,
+                            51.56258881
+                        ],
+                        [
+                            -2.56400649,
+                            51.56252034
+                        ],
+                        [
+                            -2.5641178,
+                            51.57151126
+                        ]
+                    ]
+                ]
+            },
+            "id": 1443,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2014,
+                "osgr_1km": "ST6185",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54774595,
+                            51.40974059
+                        ],
+                        [
+                            -2.5333688,
+                            51.40980693
+                        ],
+                        [
+                            -2.53326417,
+                            51.40081571
+                        ],
+                        [
+                            -2.54763849,
+                            51.40074939
+                        ],
+                        [
+                            -2.54774595,
+                            51.40974059
+                        ]
+                    ]
+                ]
+            },
+            "id": 2172,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2012,
+                "osgr_1km": "ST6267",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ],
+                        [
+                            -2.53368304,
+                            51.4367805
+                        ],
+                        [
+                            -2.53357824,
+                            51.42778932
+                        ],
+                        [
+                            -2.54796103,
+                            51.42772294
+                        ],
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ]
+                    ]
+                ]
+            },
+            "id": 1286,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST6270",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54839186,
+                            51.46368748
+                        ],
+                        [
+                            -2.53399777,
+                            51.46375395
+                        ],
+                        [
+                            -2.53389281,
+                            51.45476281
+                        ],
+                        [
+                            -2.54828407,
+                            51.45469637
+                        ],
+                        [
+                            -2.54839186,
+                            51.46368748
+                        ]
+                    ]
+                ]
+            },
+            "id": 1687,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 1997,
+                "osgr_1km": "ST6273",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54979824,
+                            51.58057069
+                        ],
+                        [
+                            -2.53536727,
+                            51.58063743
+                        ],
+                        [
+                            -2.53526159,
+                            51.57164648
+                        ],
+                        [
+                            -2.54968972,
+                            51.57157976
+                        ],
+                        [
+                            -2.54979824,
+                            51.58057069
+                        ]
+                    ]
+                ]
+            },
+            "id": 2322,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2015,
+                "osgr_1km": "ST6286",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.53452341,
+                            51.50870942
+                        ],
+                        [
+                            -2.52011511,
+                            51.50877422
+                        ],
+                        [
+                            -2.52001271,
+                            51.49978313
+                        ],
+                        [
+                            -2.53441817,
+                            51.49971835
+                        ],
+                        [
+                            -2.53452341,
+                            51.50870942
+                        ]
+                    ]
+                ]
+            },
+            "id": 5147,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST6378",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5346287,
+                            51.51770047
+                        ],
+                        [
+                            -2.52021756,
+                            51.51776529
+                        ],
+                        [
+                            -2.52011511,
+                            51.50877422
+                        ],
+                        [
+                            -2.53452341,
+                            51.50870942
+                        ],
+                        [
+                            -2.5346287,
+                            51.51770047
+                        ]
+                    ]
+                ]
+            },
+            "id": 3377,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST6379",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.53557878,
+                            51.5986193
+                        ],
+                        [
+                            -2.52114205,
+                            51.59868431
+                        ],
+                        [
+                            -2.52103911,
+                            51.58969336
+                        ],
+                        [
+                            -2.53547299,
+                            51.58962837
+                        ],
+                        [
+                            -2.53557878,
+                            51.5986193
+                        ]
+                    ]
+                ]
+            },
+            "id": 4546,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST6388",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51909348,
+                            51.41886273
+                        ],
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ],
+                        [
+                            -2.50461436,
+                            51.40993431
+                        ],
+                        [
+                            -2.51899161,
+                            51.4098715
+                        ],
+                        [
+                            -2.51909348,
+                            51.41886273
+                        ]
+                    ]
+                ]
+            },
+            "id": 4086,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST6468",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51919541,
+                            51.42785394
+                        ],
+                        [
+                            -2.50481252,
+                            51.42791679
+                        ],
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ],
+                        [
+                            -2.51909348,
+                            51.41886273
+                        ],
+                        [
+                            -2.51919541,
+                            51.42785394
+                        ]
+                    ]
+                ]
+            },
+            "id": 2347,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST6469",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ],
+                        [
+                            -2.49033329,
+                            51.41898662
+                        ],
+                        [
+                            -2.49023706,
+                            51.40999536
+                        ],
+                        [
+                            -2.50461436,
+                            51.40993431
+                        ],
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ]
+                    ]
+                ]
+            },
+            "id": 2924,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2020,
+                "osgr_1km": "ST6568",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50540821,
+                            51.48186389
+                        ],
+                        [
+                            -2.49100831,
+                            51.48192509
+                        ],
+                        [
+                            -2.49091173,
+                            51.47293392
+                        ],
+                        [
+                            -2.5053088,
+                            51.47287274
+                        ],
+                        [
+                            -2.50540821,
+                            51.48186389
+                        ]
+                    ]
+                ]
+            },
+            "id": 6637,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2021,
+                "osgr_1km": "ST6575",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.50560719,
+                            51.49984614
+                        ],
+                        [
+                            -2.49120162,
+                            51.49990739
+                        ],
+                        [
+                            -2.49110494,
+                            51.49091625
+                        ],
+                        [
+                            -2.50550768,
+                            51.49085502
+                        ],
+                        [
+                            -2.50560719,
+                            51.49984614
+                        ]
+                    ]
+                ]
+            },
+            "id": 2178,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 1993,
+                "osgr_1km": "ST6577",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.49033329,
+                            51.41898662
+                        ],
+                        [
+                            -2.47595312,
+                            51.41904593
+                        ],
+                        [
+                            -2.47585971,
+                            51.41005464
+                        ],
+                        [
+                            -2.49023706,
+                            51.40999536
+                        ],
+                        [
+                            -2.49033329,
+                            51.41898662
+                        ]
+                    ]
+                ]
+            },
+            "id": 6957,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2008,
+                "osgr_1km": "ST6668",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.4905259,
+                            51.43696911
+                        ],
+                        [
+                            -2.47614009,
+                            51.43702845
+                        ],
+                        [
+                            -2.47604658,
+                            51.4280372
+                        ],
+                        [
+                            -2.49042957,
+                            51.42797788
+                        ],
+                        [
+                            -2.4905259,
+                            51.43696911
+                        ]
+                    ]
+                ]
+            },
+            "id": 5322,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST6670",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.47595312,
+                            51.41904593
+                        ],
+                        [
+                            -2.4615729,
+                            51.41910346
+                        ],
+                        [
+                            -2.46148231,
+                            51.41011216
+                        ],
+                        [
+                            -2.47585971,
+                            51.41005464
+                        ],
+                        [
+                            -2.47595312,
+                            51.41904593
+                        ]
+                    ]
+                ]
+            },
+            "id": 2428,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2019,
+                "osgr_1km": "ST6768",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.476796,
+                            51.49996686
+                        ],
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ],
+                        [
+                            -2.46229932,
+                            51.49103339
+                        ],
+                        [
+                            -2.47670215,
+                            51.4909757
+                        ],
+                        [
+                            -2.476796,
+                            51.49996686
+                        ]
+                    ]
+                ]
+            },
+            "id": 3447,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST6777",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ],
+                        [
+                            -2.44798462,
+                            51.5000805
+                        ],
+                        [
+                            -2.44789644,
+                            51.4910893
+                        ],
+                        [
+                            -2.46229932,
+                            51.49103339
+                        ],
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ]
+                    ]
+                ]
+            },
+            "id": 2532,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST6877",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.44596798,
+                            51.29327947
+                        ],
+                        [
+                            -2.43162702,
+                            51.29333324
+                        ],
+                        [
+                            -2.43154269,
+                            51.28434171
+                        ],
+                        [
+                            -2.44588084,
+                            51.28428795
+                        ],
+                        [
+                            -2.44596798,
+                            51.29327947
+                        ]
+                    ]
+                ]
+            },
+            "id": 3229,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST6954",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.43426322,
+                            51.57206386
+                        ],
+                        [
+                            -2.4198347,
+                            51.5721164
+                        ],
+                        [
+                            -2.41975184,
+                            51.56312528
+                        ],
+                        [
+                            -2.43417752,
+                            51.56307276
+                        ],
+                        [
+                            -2.43426322,
+                            51.57206386
+                        ]
+                    ]
+                ]
+            },
+            "id": 4139,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST7085",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.41826776,
+                            51.40128277
+                        ],
+                        [
+                            -2.403893,
+                            51.40133322
+                        ],
+                        [
+                            -2.40381377,
+                            51.39234182
+                        ],
+                        [
+                            -2.41818571,
+                            51.39229139
+                        ],
+                        [
+                            -2.41826776,
+                            51.40128277
+                        ]
+                    ]
+                ]
+            },
+            "id": 3716,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2018,
+                "osgr_1km": "ST7166",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.40436922,
+                            51.45528132
+                        ],
+                        [
+                            -2.38997749,
+                            51.45533011
+                        ],
+                        [
+                            -2.38990084,
+                            51.44633877
+                        ],
+                        [
+                            -2.40428975,
+                            51.44629001
+                        ],
+                        [
+                            -2.40436922,
+                            51.45528132
+                        ]
+                    ]
+                ]
+            },
+            "id": 1737,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST7272",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.40516622,
+                            51.54519371
+                        ],
+                        [
+                            -2.39074614,
+                            51.54524265
+                        ],
+                        [
+                            -2.39066909,
+                            51.53625146
+                        ],
+                        [
+                            -2.40508633,
+                            51.53620253
+                        ],
+                        [
+                            -2.40516622,
+                            51.54519371
+                        ]
+                    ]
+                ]
+            },
+            "id": 572,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 1997,
+                "osgr_1km": "ST7282",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.38997749,
+                            51.45533011
+                        ],
+                        [
+                            -2.37558571,
+                            51.45537712
+                        ],
+                        [
+                            -2.37551189,
+                            51.44638577
+                        ],
+                        [
+                            -2.38990084,
+                            51.44633877
+                        ],
+                        [
+                            -2.38997749,
+                            51.45533011
+                        ]
+                    ]
+                ]
+            },
+            "id": 5816,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST7372",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.39020766,
+                            51.48230401
+                        ],
+                        [
+                            -2.3758074,
+                            51.48235107
+                        ],
+                        [
+                            -2.37573347,
+                            51.47335977
+                        ],
+                        [
+                            -2.3901309,
+                            51.47331273
+                        ],
+                        [
+                            -2.39020766,
+                            51.48230401
+                        ]
+                    ]
+                ]
+            },
+            "id": 5726,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2007,
+                "osgr_1km": "ST7375",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ],
+                        [
+                            -2.36062698,
+                            51.38349109
+                        ],
+                        [
+                            -2.36055628,
+                            51.37449962
+                        ],
+                        [
+                            -2.37492271,
+                            51.3744545
+                        ],
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ]
+                    ]
+                ]
+            },
+            "id": 3895,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2014,
+                "osgr_1km": "ST7464",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37506977,
+                            51.3924374
+                        ],
+                        [
+                            -2.36069772,
+                            51.39248255
+                        ],
+                        [
+                            -2.36062698,
+                            51.38349109
+                        ],
+                        [
+                            -2.37499622,
+                            51.38344596
+                        ],
+                        [
+                            -2.37506977,
+                            51.3924374
+                        ]
+                    ]
+                ]
+            },
+            "id": 4792,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2016,
+                "osgr_1km": "ST7465",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.37521699,
+                            51.41042025
+                        ],
+                        [
+                            -2.3608393,
+                            51.41046543
+                        ],
+                        [
+                            -2.36076849,
+                            51.401474
+                        ],
+                        [
+                            -2.37514336,
+                            51.40142883
+                        ],
+                        [
+                            -2.37521699,
+                            51.41042025
+                        ]
+                    ]
+                ]
+            },
+            "id": 1628,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST7467",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.33247554,
+                            51.46449894
+                        ],
+                        [
+                            -2.31808079,
+                            51.4645389
+                        ],
+                        [
+                            -2.31801824,
+                            51.45554751
+                        ],
+                        [
+                            -2.33241016,
+                            51.45550756
+                        ],
+                        [
+                            -2.33247554,
+                            51.46449894
+                        ]
+                    ]
+                ]
+            },
+            "id": 2402,
+            "properties": {
+                "species": "Leisler's Bat",
+                "year": 2017,
+                "osgr_1km": "ST7773",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        }
+    ]
+}

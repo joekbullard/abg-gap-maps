@@ -1,0 +1,1335 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.00679,
+                            51.36173557
+                        ],
+                        [
+                            -2.99242943,
+                            51.36185813
+                        ],
+                        [
+                            -2.99223512,
+                            51.3528678
+                        ],
+                        [
+                            -3.00659288,
+                            51.35274528
+                        ],
+                        [
+                            -3.00679,
+                            51.36173557
+                        ]
+                    ]
+                ]
+            },
+            "id": 2294,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2009,
+                "osgr_1km": "ST3062",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ],
+                        [
+                            -2.82057747,
+                            51.39016376
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.83478394,
+                            51.38107154
+                        ],
+                        [
+                            -2.83494759,
+                            51.39006223
+                        ]
+                    ]
+                ]
+            },
+            "id": 5645,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2021,
+                "osgr_1km": "ST4265",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.83560306,
+                            51.42602482
+                        ],
+                        [
+                            -2.82122167,
+                            51.42612649
+                        ],
+                        [
+                            -2.82106049,
+                            51.41713583
+                        ],
+                        [
+                            -2.83543907,
+                            51.41703419
+                        ],
+                        [
+                            -2.83560306,
+                            51.42602482
+                        ]
+                    ]
+                ]
+            },
+            "id": 2728,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2016,
+                "osgr_1km": "ST4269",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ],
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.82025588,
+                            51.37218231
+                        ],
+                        [
+                            -2.82041663,
+                            51.38117305
+                        ]
+                    ]
+                ]
+            },
+            "id": 6288,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2019,
+                "osgr_1km": "ST4364",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ],
+                        [
+                            -2.79152665,
+                            51.37237998
+                        ],
+                        [
+                            -2.7913716,
+                            51.36338917
+                        ],
+                        [
+                            -2.80573344,
+                            51.36329125
+                        ],
+                        [
+                            -2.80589131,
+                            51.37228203
+                        ]
+                    ]
+                ]
+            },
+            "id": 3736,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2016,
+                "osgr_1km": "ST4463",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80620727,
+                            51.39026354
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.79168178,
+                            51.38137077
+                        ],
+                        [
+                            -2.80604925,
+                            51.38127279
+                        ],
+                        [
+                            -2.80620727,
+                            51.39026354
+                        ]
+                    ]
+                ]
+            },
+            "id": 4615,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2019,
+                "osgr_1km": "ST4465",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.80636538,
+                            51.39925427
+                        ],
+                        [
+                            -2.79199228,
+                            51.39935232
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.80620727,
+                            51.39026354
+                        ],
+                        [
+                            -2.80636538,
+                            51.39925427
+                        ]
+                    ]
+                ]
+            },
+            "id": 6509,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2021,
+                "osgr_1km": "ST4466",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79106174,
+                            51.34540751
+                        ],
+                        [
+                            -2.77670544,
+                            51.3455036
+                        ],
+                        [
+                            -2.77655344,
+                            51.33651272
+                        ],
+                        [
+                            -2.79090693,
+                            51.33641666
+                        ],
+                        [
+                            -2.79106174,
+                            51.34540751
+                        ]
+                    ]
+                ]
+            },
+            "id": 3258,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2017,
+                "osgr_1km": "ST4560",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ],
+                        [
+                            -2.77746663,
+                            51.3904578
+                        ],
+                        [
+                            -2.77731423,
+                            51.38146699
+                        ],
+                        [
+                            -2.79168178,
+                            51.38137077
+                        ],
+                        [
+                            -2.79183699,
+                            51.39036155
+                        ]
+                    ]
+                ]
+            },
+            "id": 5278,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2016,
+                "osgr_1km": "ST4565",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.7932375,
+                            51.47127793
+                        ],
+                        [
+                            -2.77884174,
+                            51.47137446
+                        ],
+                        [
+                            -2.77868863,
+                            51.46238378
+                        ],
+                        [
+                            -2.79308157,
+                            51.46228728
+                        ],
+                        [
+                            -2.7932375,
+                            51.47127793
+                        ]
+                    ]
+                ]
+            },
+            "id": 2895,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2018,
+                "osgr_1km": "ST4574",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ],
+                        [
+                            -2.7482856,
+                            51.36367236
+                        ],
+                        [
+                            -2.74813907,
+                            51.35468145
+                        ],
+                        [
+                            -2.76249833,
+                            51.35458884
+                        ],
+                        [
+                            -2.76264768,
+                            51.36357972
+                        ]
+                    ]
+                ]
+            },
+            "id": 1520,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2017,
+                "osgr_1km": "ST4762",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.76294661,
+                            51.38156145
+                        ],
+                        [
+                            -2.7485789,
+                            51.38165415
+                        ],
+                        [
+                            -2.74843221,
+                            51.37266326
+                        ],
+                        [
+                            -2.7627971,
+                            51.37257059
+                        ],
+                        [
+                            -2.76294661,
+                            51.38156145
+                        ]
+                    ]
+                ]
+            },
+            "id": 632,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2019,
+                "osgr_1km": "ST4764",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.73464319,
+                            51.40871774
+                        ],
+                        [
+                            -2.72026689,
+                            51.408807
+                        ],
+                        [
+                            -2.72012561,
+                            51.3998161
+                        ],
+                        [
+                            -2.7344991,
+                            51.39972687
+                        ],
+                        [
+                            -2.73464319,
+                            51.40871774
+                        ]
+                    ]
+                ]
+            },
+            "id": 1671,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2008,
+                "osgr_1km": "ST4967",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.73594344,
+                            51.48963494
+                        ],
+                        [
+                            -2.7215417,
+                            51.48972446
+                        ],
+                        [
+                            -2.72139976,
+                            51.48073369
+                        ],
+                        [
+                            -2.73579867,
+                            51.4806442
+                        ],
+                        [
+                            -2.73594344,
+                            51.48963494
+                        ]
+                    ]
+                ]
+            },
+            "id": 1138,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2018,
+                "osgr_1km": "ST4976",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.71913869,
+                            51.3368794
+                        ],
+                        [
+                            -2.70478482,
+                            51.33696668
+                        ],
+                        [
+                            -2.70464693,
+                            51.32797563
+                        ],
+                        [
+                            -2.718998,
+                            51.32788839
+                        ],
+                        [
+                            -2.71913869,
+                            51.3368794
+                        ]
+                    ]
+                ]
+            },
+            "id": 4315,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2013,
+                "osgr_1km": "ST5059",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.71927946,
+                            51.3458704
+                        ],
+                        [
+                            -2.70492278,
+                            51.3459577
+                        ],
+                        [
+                            -2.70478482,
+                            51.33696668
+                        ],
+                        [
+                            -2.71913869,
+                            51.3368794
+                        ],
+                        [
+                            -2.71927946,
+                            51.3458704
+                        ]
+                    ]
+                ]
+            },
+            "id": 496,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2011,
+                "osgr_1km": "ST5060",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.70478482,
+                            51.33696668
+                        ],
+                        [
+                            -2.69043088,
+                            51.33705219
+                        ],
+                        [
+                            -2.6902958,
+                            51.32806112
+                        ],
+                        [
+                            -2.70464693,
+                            51.32797563
+                        ],
+                        [
+                            -2.70478482,
+                            51.33696668
+                        ]
+                    ]
+                ]
+            },
+            "id": 3332,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2014,
+                "osgr_1km": "ST5159",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.70561366,
+                            51.39091263
+                        ],
+                        [
+                            -2.69124285,
+                            51.3909983
+                        ],
+                        [
+                            -2.69110734,
+                            51.38200732
+                        ],
+                        [
+                            -2.70547534,
+                            51.38192167
+                        ],
+                        [
+                            -2.70561366,
+                            51.39091263
+                        ]
+                    ]
+                ]
+            },
+            "id": 4241,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2018,
+                "osgr_1km": "ST5165",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.69164977,
+                            51.41797117
+                        ],
+                        [
+                            -2.67727044,
+                            51.41805517
+                        ],
+                        [
+                            -2.67713754,
+                            51.4090642
+                        ],
+                        [
+                            -2.69151406,
+                            51.40898023
+                        ],
+                        [
+                            -2.69164977,
+                            51.41797117
+                        ]
+                    ]
+                ]
+            },
+            "id": 3801,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2016,
+                "osgr_1km": "ST5268",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.69287436,
+                            51.49888901
+                        ],
+                        [
+                            -2.67846958,
+                            51.49897325
+                        ],
+                        [
+                            -2.67833606,
+                            51.4899824
+                        ],
+                        [
+                            -2.69273801,
+                            51.48989819
+                        ],
+                        [
+                            -2.69287436,
+                            51.49888901
+                        ]
+                    ]
+                ]
+            },
+            "id": 3746,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2014,
+                "osgr_1km": "ST5277",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.67713754,
+                            51.4090642
+                        ],
+                        [
+                            -2.66276095,
+                            51.40914641
+                        ],
+                        [
+                            -2.66263095,
+                            51.4001554
+                        ],
+                        [
+                            -2.67700472,
+                            51.40007322
+                        ],
+                        [
+                            -2.67713754,
+                            51.4090642
+                        ]
+                    ]
+                ]
+            },
+            "id": 4122,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2010,
+                "osgr_1km": "ST5367",
+                "data_provider_id": "dp57",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6774034,
+                            51.42704612
+                        ],
+                        [
+                            -2.66302117,
+                            51.42712838
+                        ],
+                        [
+                            -2.66289103,
+                            51.4181374
+                        ],
+                        [
+                            -2.67727044,
+                            51.41805517
+                        ],
+                        [
+                            -2.6774034,
+                            51.42704612
+                        ]
+                    ]
+                ]
+            },
+            "id": 1355,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2017,
+                "osgr_1km": "ST5369",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.67820262,
+                            51.48099155
+                        ],
+                        [
+                            -2.66380343,
+                            51.48107397
+                        ],
+                        [
+                            -2.66367288,
+                            51.47208307
+                        ],
+                        [
+                            -2.67806924,
+                            51.47200068
+                        ],
+                        [
+                            -2.67820262,
+                            51.48099155
+                        ]
+                    ]
+                ]
+            },
+            "id": 4070,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2018,
+                "osgr_1km": "ST5375",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.67913819,
+                            51.54392724
+                        ],
+                        [
+                            -2.66471915,
+                            51.54400984
+                        ],
+                        [
+                            -2.66458813,
+                            51.53501904
+                        ],
+                        [
+                            -2.67900433,
+                            51.53493647
+                        ],
+                        [
+                            -2.67913819,
+                            51.54392724
+                        ]
+                    ]
+                ]
+            },
+            "id": 1042,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2018,
+                "osgr_1km": "ST5382",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.64736863,
+                            51.33729818
+                        ],
+                        [
+                            -2.63301442,
+                            51.33737666
+                        ],
+                        [
+                            -2.63289057,
+                            51.32838549
+                        ],
+                        [
+                            -2.64724197,
+                            51.32830704
+                        ],
+                        [
+                            -2.64736863,
+                            51.33729818
+                        ]
+                    ]
+                ]
+            },
+            "id": 3025,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2001,
+                "osgr_1km": "ST5559",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6345057,
+                            51.44526963
+                        ],
+                        [
+                            -2.62011762,
+                            51.44534664
+                        ],
+                        [
+                            -2.61999582,
+                            51.43635562
+                        ],
+                        [
+                            -2.63438107,
+                            51.43627863
+                        ],
+                        [
+                            -2.6345057,
+                            51.44526963
+                        ]
+                    ]
+                ]
+            },
+            "id": 1652,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2015,
+                "osgr_1km": "ST5671",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.61878125,
+                            51.34644457
+                        ],
+                        [
+                            -2.60442411,
+                            51.34651955
+                        ],
+                        [
+                            -2.6043058,
+                            51.33752835
+                        ],
+                        [
+                            -2.61866014,
+                            51.33745338
+                        ],
+                        [
+                            -2.61878125,
+                            51.34644457
+                        ]
+                    ]
+                ]
+            },
+            "id": 6766,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2011,
+                "osgr_1km": "ST5760",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.60442411,
+                            51.34651955
+                        ],
+                        [
+                            -2.59006689,
+                            51.34659278
+                        ],
+                        [
+                            -2.5899514,
+                            51.33760155
+                        ],
+                        [
+                            -2.6043058,
+                            51.33752835
+                        ],
+                        [
+                            -2.60442411,
+                            51.34651955
+                        ]
+                    ]
+                ]
+            },
+            "id": 7086,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2011,
+                "osgr_1km": "ST5860",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54774595,
+                            51.40974059
+                        ],
+                        [
+                            -2.5333688,
+                            51.40980693
+                        ],
+                        [
+                            -2.53326417,
+                            51.40081571
+                        ],
+                        [
+                            -2.54763849,
+                            51.40074939
+                        ],
+                        [
+                            -2.54774595,
+                            51.40974059
+                        ]
+                    ]
+                ]
+            },
+            "id": 1722,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2012,
+                "osgr_1km": "ST6267",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ],
+                        [
+                            -2.53368304,
+                            51.4367805
+                        ],
+                        [
+                            -2.53357824,
+                            51.42778932
+                        ],
+                        [
+                            -2.54796103,
+                            51.42772294
+                        ],
+                        [
+                            -2.54806865,
+                            51.4367141
+                        ]
+                    ]
+                ]
+            },
+            "id": 3515,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2017,
+                "osgr_1km": "ST6270",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.54882358,
+                            51.4996518
+                        ],
+                        [
+                            -2.53441817,
+                            51.49971835
+                        ],
+                        [
+                            -2.53431299,
+                            51.49072727
+                        ],
+                        [
+                            -2.54871557,
+                            51.49066074
+                        ],
+                        [
+                            -2.54882358,
+                            51.4996518
+                        ]
+                    ]
+                ]
+            },
+            "id": 7110,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2013,
+                "osgr_1km": "ST6277",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.5346287,
+                            51.51770047
+                        ],
+                        [
+                            -2.52021756,
+                            51.51776529
+                        ],
+                        [
+                            -2.52011511,
+                            51.50877422
+                        ],
+                        [
+                            -2.53452341,
+                            51.50870942
+                        ],
+                        [
+                            -2.5346287,
+                            51.51770047
+                        ]
+                    ]
+                ]
+            },
+            "id": 1506,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2017,
+                "osgr_1km": "ST6379",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51909348,
+                            51.41886273
+                        ],
+                        [
+                            -2.50471341,
+                            51.41892556
+                        ],
+                        [
+                            -2.50461436,
+                            51.40993431
+                        ],
+                        [
+                            -2.51899161,
+                            51.4098715
+                        ],
+                        [
+                            -2.51909348,
+                            51.41886273
+                        ]
+                    ]
+                ]
+            },
+            "id": 2510,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2020,
+                "osgr_1km": "ST6468",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.51960363,
+                            51.46381865
+                        ],
+                        [
+                            -2.50520944,
+                            51.46388158
+                        ],
+                        [
+                            -2.50511013,
+                            51.4548904
+                        ],
+                        [
+                            -2.5195015,
+                            51.45482749
+                        ],
+                        [
+                            -2.51960363,
+                            51.46381865
+                        ]
+                    ]
+                ]
+            },
+            "id": 909,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2016,
+                "osgr_1km": "ST6473",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.476796,
+                            51.49996686
+                        ],
+                        [
+                            -2.46239033,
+                            51.50002456
+                        ],
+                        [
+                            -2.46229932,
+                            51.49103339
+                        ],
+                        [
+                            -2.47670215,
+                            51.4909757
+                        ],
+                        [
+                            -2.476796,
+                            51.49996686
+                        ]
+                    ]
+                ]
+            },
+            "id": 1321,
+            "properties": {
+                "species": "Nathusius's Pipistrelle",
+                "year": 2017,
+                "osgr_1km": "ST6777",
+                "data_provider_id": "dp107",
+                "record_type": "Unknown"
+            }
+        }
+    ]
+}

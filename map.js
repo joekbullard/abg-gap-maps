@@ -61,15 +61,8 @@ function styleFeature(feature) {
 
 let geojsonLayer = null;
 
-const speciesGeojson = {
-    barbastelle: "./data/barbs.geojson",
-    bechsteins: "./data/bechs.geojson",
-    lhs: "./data/lhs.geojson",
-    ghs: "./data/ghs.geojson"
-};
-
 function loadSpeciesData(species) {
-    let url = speciesGeojson[species];
+    let url = `./data/${species}.geojson`;
 
     if (!url) return;
 
